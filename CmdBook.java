@@ -20,7 +20,7 @@ public class CmdBook {
         ArrayList<String> author_name=new ArrayList<String>();
 
 	/*
-	*main function 
+	*main function
 	*/
 	public static void main(String args[]) {
 	String title1=" ";
@@ -30,7 +30,7 @@ public class CmdBook {
 	int n=0;
 	String str="";
 
-	  //try block starts here 
+	  //try block starts here
 	   try{
 	    Options option=new Options();
 	    option.addOption("hp",false,"help");
@@ -43,29 +43,34 @@ public class CmdBook {
 	       if((cmd.hasOption("hp"))||(cmd.hasOption("hlp"))) {
 	          System.out.println("this program gets an argument through commandline 'n' number of books. then reads n books from standard input"
 	                             +"and prints them on standard output");
-		//str=cmd.getArgs()[0];
-		 if(cmd.getArgs()[0].isEmpty()){
 
-		        //prints message if user not gives value of n
-       			 System.out.println("you not give value of n:");
-			 System.exit(0);}
-                  }
+
+			if(args.length<1){
+
+		        // exit the program
+			System.exit(0);
+			}
+                  }		// close outer if block
+
+		else{
+  		    if(args.length<1){
+
+			//if user not gives option  and value of n then prints this message.
+			 System.out.println("this program gets an argument through commandline 'n' number of books. then reads n books from standard input"
+                                     +"and prints them on standard output");
+			System.exit(0);
+	       	    }
+		}		//close the  outer else block
+
 		str=cmd.getArgs()[0];
 	        n=Integer.parseInt(str);
 
             }catch(Exception e){
-
+		//System.exit(0);
 	    //if any erroy occurs it catches here
 	     System.out.println(e);
 	     }
 
-
-	if(str.isEmpty()){
-
-	//prints message if user not gives value of n
-	System.out.println("you not give value of n");
-	System.exit(0);
-	}
 
 	int num=0;
 	Scanner sc1=new Scanner(System.in);		/*create an instance of scanner object*/
@@ -73,11 +78,11 @@ public class CmdBook {
 
 	CmdBook b[]=new CmdBook[n];                	/* create arraylist of objects of class Book*/
 	for(int i=0;i<n;i++){
-	
-	//
+
+	//initialise the array of objects
 	b[i]=new CmdBook();
 	}
-	for(int i=0;i<n;i++){ 
+	for(int i=0;i<n;i++){
 
 	/* take input from  standard input*/
 	 System.out.println("enter the title of the book:");
@@ -105,7 +110,7 @@ public class CmdBook {
         content1=sc.next();
 
 	/* call the method bookdetail with auguments which contains from
-	*  standard input 
+	*  standard input
 	*/
 
 	b[i].bookdetail(title1, publisher_name1, published_date1,content1, author_name1);
@@ -121,24 +126,21 @@ public class CmdBook {
 
 /* bookdetail method gets the book details and save in the respective variables*/
 public void bookdetail(String tit , String pub, String dat, String cont, ArrayList<String> aut) {
-  
   title=tit;
   publisher_name=pub;
   published_date=dat;
-  author_name.addAll(aut); 
+  author_name.addAll(aut);
   content=cont;
-  
+
 }	/*bookdetail method ends here*/
 
 
 
-	/*printbook method prints the n book details 
+	/*printbook method prints the n book details
 	* on the standard output
 	*/
  	public void printbook()
 	{
-	  
-	  
 	  System.out.println("Title:            "+title);
 	  System.out.println("publisherName:    "+publisher_name);
 	  System.out.println("publisher_date:   "+published_date);
