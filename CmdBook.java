@@ -44,8 +44,7 @@ public class CmdBook {
 	          System.out.println("this program gets an argument through commandline 'n' number of books. then reads n books from standard input"
 	                             +"and prints them on standard output");
 
-
-			if(args.length<1){
+			if(args.length<=1){
 
 		        // exit the program
 			System.exit(0);
