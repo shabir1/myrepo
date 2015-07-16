@@ -1,0 +1,345 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="">
+<head>
+    <!-- title START -->
+    <meta charset="UTF-8">
+<title>University of Kashmir</title>
+<meta name="description" content="Offical Web site of University of Kashmir">
+<meta name="keywords" content="University of Kashmir,Kashmir University,University kashmir">
+<meta name="author" content="">
+<link rel="SHORTCUT ICON" href="favicon.ico">
+<meta name="dcterms.rightsHolder" content="">
+<meta name="dcterms.dateCopyrighted" content="2014">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<!--<link class="theme_link" href="layout/styles/colours/red.css" rel="stylesheet" type="text/css" />
+-->
+<script>
+    var layoutColorName = "Red";
+    var layoutColor = "#B9282C";
+</script>
+
+
+<link class="theme_link" href="layout/styles/colours/red.css" rel="stylesheet" type="text/css" />
+<script>
+    layoutColor = "#B9282C";
+    layoutColorName = "red";
+</script>
+
+<link href="layout/styles/main.css" rel="stylesheet" type="text/css" media="all">
+<link href="layout/styles/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- title END -->
+</head>
+<body id="top">
+    <!-- ################################################################################################ -->
+    <!-- TOPBAR -->
+    <!-- TOPBAR START -->
+    <div class="wrapper row0">
+  <div id="topbar">
+    <div id="slidepanel" class="clear">
+      <div class="fl_left">
+        <form name="formSear" action="search.aspx" method="GET" onSubmit="return qs();" class="block clear">
+          <input name="searWords" type="text" value="" size="35">
+          <button class="button" name="Send" type="submit"><span class="icon-search"></span></button>
+        </form>
+      </div>
+      <div class="fl_right">
+        <ul class="social">
+        <li><a class="button small green themeButton" title="Green" href="#"><span class="icon-tumblr green"><em>Green</em></span></a></li>
+        <li><a class="button small red themeButton" title="Red" href="#"><span class="icon-tumblr red"><em>Green</em></span></a></li>
+        <li><a class="button small blue themeButton" title="Blue" href="#"><span class="icon-tumblr blue"><em>Green</em></span></a></li>
+        <li><a class="button small orange themeButton" title="Orange" href="#"><span class="icon-tumblr orange"><em>Green</em></span></a></li>
+        <li><a class="button small purple themeButton" title="Purple" href="#"><span class="icon-tumblr purple"><em>Green</em></span></a></li>
+         <!-- <li><a class="button small green" title="Facebook" href="#"><span class="icon-facebook green"><em>Facebook</em></span></a></li>
+          <li><a class="socico-pinterest" title="Pinterest" href="#"><span class="icon-pinterest"><em>Pinterest</em></span></a></li>
+          <li><a class="socico-twitter" title="Twitter" href="#"><span class="icon-twitter"><em>Twitter</em></span></a></li>
+          <li><a class="socico-dribble" title="Dribble" href="#"><span class="icon-dribbble"><em>Dribble</em></span></a></li>
+          <li><a class="socico-linkedin" title="LinkedIn" href="#"><span class="icon-linkedin"><em>LinkedIn</em></span></a></li>
+          <li><a class="socico-google-plus" title="Google+" href="#"><span class="icon-google-plus"><em>Google+</em></span></a></li>
+          <li><a class="socico-skype" title="Skype" href="#"><span class="icon-skype"><em>Skype</em></span></a></li>-->
+        </ul>
+      </div>
+    </div>
+    <!-- TOP BAR SLIDER BUTTON -->
+    <div id="openpanel"><a id="slideit" class="icon-chevron-down" href="#slidepanel"></a><a id="closeit" class="icon-chevron-up" style="display:none;" href="#slidepanel"></a></div>
+  </div>
+</div>
+    <!-- TOPBAR END -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- HEADER -->
+    <!-- HEADER START -->
+    
+<div class="wrapper row1">
+  <header role="banner" id="header" class="clear">
+    <div class="fl_left">
+        <h1><a href="Default.aspx"><img src="images/KU.png" /></a></h1>
+     <!-- University of Kashmir
+      <p class="times">From Darkness to Light</p>-->
+    </div>
+    <div class="fl_right right">
+      <ul class="meta nospace inline">
+        <li><span class="icon-phone"></span> +91 (194) 227 2096</li>
+        <li><span class="icon-envelope-alt"></span> <a href="#">info@uok.edu.in</a></li>
+      </ul>
+      <nav>
+        <ul class="nospace inline">
+        <li><a href="message.aspx">Vice Chancellor's Message</a></li>
+          <li><a href="http://egov.kashmiruniversity.net/FeedBackForum" target="_blank">Feedback Forum</a></li>
+          <li><a href="http://kuaa.uok.edu.in/" target="_blank">Alumni</a></li>
+          
+          <li><a href="EmployeeDownloads.aspx">Staff Login</a></li>
+          <li><a href="Contact.aspx">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- MAIN NAVIGATION -->
+<div class="wrapper row2">
+    <nav role="navigation" id="topnav" class="clear">
+    <ul class="clear">
+      <li id="lnkHome"><a href="default.aspx" title="Home">Home</a></li>
+      <li id="lnkAbout"><a class="drop" href="#" title="Pages">About</a>
+        <ul class="sub-menu">
+          <li id="subLnkAboutUok"><a href="AboutUoK.aspx" style="text-transform:none;" title="About Us">University of Kashmir</a></li>
+          <li id="subLnkAdministrator"><a href="administrator.aspx" title="Contact">Administration</a></li>
+         <!-- <li id="subLnkPGC" class="last-child"><a href="formerVCs.aspx" title="Former Vice Chancellors">Former Vice Chancellors</a></li>-->
+          <!--<li id="subLnkCampuses"><a href="Campuses.aspx" title="Campus">Campuses</a></li>
+          <li id="subLnkColleges" class="last-child"><a href="Colleges.aspx" title="Affiliated Colleges">Affiliated Colleges</a></li>
+          <li id="Li1" class="last-child"><a href="Colleges.aspx" title="Affiliated Colleges">Academic Calender</a></li>-->
+        </ul>
+      </li>
+      <li id="lnkAcademics"><a class="drop"  href="#" title="Academics">Academics</a>
+        <ul class="sub-menu">
+          <li><a href="Campuses.aspx" title="Campus">Campuses</a></li>
+		<li><a href="PGC.aspx" title="PG Centres">PG Centres</a></li>
+		<li><a href="Colleges.aspx" title="Affiliated Colleges">Affiliated Colleges</a></li>
+        
+		<li><a href="degreeprograms.aspx" title="Coureses Offered">Courses Offered</a></li>
+        <li><a href="../download/Admission policy-2015.pdf" title="Admission Policy">Admission Policy</a></li>
+		<!--<li class="last-child"><a href="academiccalander.aspx" title="Acadenmic Calender">Academic Calender</a></li>-->
+		        
+        
+        </ul>
+      </li>
+      <li id="lnkFaculty"><a href="faculty.aspx" title="Faculties">Faculties</a></li>
+      <li id="lnkResearch"><a href="research.aspx" title="Research Centres">Research Centres</a></li>
+       <li id="lnkDirectorates" class="last-child"><a href="directorates.aspx" title="Directorates">Directorates</a></li>
+     
+    </ul>
+  </nav>
+</div>
+
+    <!-- HEADER END --<!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- PAGEINTRO -->
+    <div class="wrapper row3">
+        <div id="pageintro" class="clear">
+            <div class="fl_left">
+                <h2 class="nospace">
+                    LIST OF FACULTY</h2>
+            </div>
+        <nav class="fl_right breadcrumb"><ul><li><a href="Default.aspx" title="Home">Home</a></li><li><a href="faculties.aspx" title="Faculty">Faculty</a></li></ul></nav>
+         </div>
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- Start CONTENT -->
+    <form method="post" action="faculty.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY0NzQ2MzQ4Mw9kFgJmD2QWBAIBDxYCHglpbm5lcmh0bWwFoiQ8ZGl2IGNsYXNzPSdhY2NvcmRpb24td3JhcHBlcic+PGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyBjbGFzcz0nYWNjb3JkaW9uLXRpdGxlJz48c3Bhbj5GYWN1bHR5IG9mIEFydHM8L3NwYW4+PC9hPjxkaXYgY2xhc3M9J2FjY29yZGlvbi1jb250ZW50Jz48dWwgY2xhc3M9J3NraWxsc2V0IHB1c2gzMCBjbGVhcic+PGxpPiA8c3BhbiBjbGFzcz0ncm5kNSc+PGI+RGVhbiA6IDwvYj48YSBocmVmPSdhZG1pbmlzdHJhdGlvbmRldGFpbHMuYXNweD9saW5rPTExMyc+UHJvZi4gQmFzaGlyIEFobWFkIE5laHZpPC9hPjwvc3Bhbj48L2xpPjxsaT48c3BhbiBjbGFzcz0ncm5kNSc+PHN0cm9uZz5EZXBhcnRtZW50czwvc3Ryb25nPjwvc3Bhbj48ZGl2IGNsYXNzPSdzaWRlYmFyJz48YXNpZGU+PG5hdj48dWwgc3R5bGU9J3BhZGRpbmctbGVmdDoxMHB4Oyc+PGxpPjxhIGhyZWY9J2h0dHA6Ly9lbmdsaXNoLnVvay5lZHUuaW4nPkVuZ2xpc2g8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2hpbmRpLnVvay5lZHUuaW4nPkhpbmRpPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9pZmwudW9rLmVkdS5pbic+SW5zdGl0dXRlIE9mIEZvcmVpZ24gTGFuZ3VhZ2VzPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9rYXNobWlyaS51b2suZWR1LmluJz5LYXNobWlyaTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vbGluZ3Vpc3RpY3MudW9rLmVkdS5pbic+TGluZ3Vpc3RpY3M8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3VyZHUudW9rLmVkdS5pbic+VXJkdTwvYT48L2xpPjwvdWw+PC9uYXY+PC9hc2lkZT48L2Rpdj48L2xpPjwvdWw+PC9kaXY+PGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyBjbGFzcz0nYWNjb3JkaW9uLXRpdGxlJz48c3Bhbj5GYWN1bHR5IG9mIENvbW1lcmNlICYgTWFuYWdlbWVudDwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9MTQnPlByb2YuIFNoYWJpciBBaG1hZDwvYT48L3NwYW4+PC9saT48bGk+PHNwYW4gY2xhc3M9J3JuZDUnPjxzdHJvbmc+RGVwYXJ0bWVudHM8L3N0cm9uZz48L3NwYW4+PGRpdiBjbGFzcz0nc2lkZWJhcic+PGFzaWRlPjxuYXY+PHVsIHN0eWxlPSdwYWRkaW5nLWxlZnQ6MTBweDsnPjxsaT48YSBocmVmPSdodHRwOi8vZmluYW5jaWFsc3R1ZGllcy51b2suZWR1LmluJz5CdXNpbmVzcyBhbmQgRmluYW5jaWFsIFN0dWRpZXM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3Ricy51b2suZWR1LmluJz5UaGUgQnVzaW5lc3MgU2Nob29sPC9hPjwvbGk+PC91bD48L25hdj48L2FzaWRlPjwvZGl2PjwvbGk+PC91bD48L2Rpdj48YSBocmVmPSdqYXZhc2NyaXB0OnZvaWQoMCknIGNsYXNzPSdhY2NvcmRpb24tdGl0bGUnPjxzcGFuPkZhY3VsdHkgb2YgRGVudGlzdHJ5PC9zcGFuPjwvYT48ZGl2IGNsYXNzPSdhY2NvcmRpb24tY29udGVudCc+PHVsIGNsYXNzPSdza2lsbHNldCBwdXNoMzAgY2xlYXInPjxsaT4gPHNwYW4gY2xhc3M9J3JuZDUnPjxiPkRlYW4gOiA8L2I+PGEgaHJlZj0nYWRtaW5pc3RyYXRpb25kZXRhaWxzLmFzcHg/bGluaz01OSc+UHJvZi4gUml5YXogRmFyb29xPC9hPjwvc3Bhbj48L2xpPjxsaT48c3BhbiBjbGFzcz0ncm5kNSc+PHN0cm9uZz5EZXBhcnRtZW50czwvc3Ryb25nPjwvc3Bhbj48ZGl2IGNsYXNzPSdzaWRlYmFyJz48YXNpZGU+PG5hdj48dWwgc3R5bGU9J3BhZGRpbmctbGVmdDoxMHB4Oyc+PC91bD48L25hdj48L2FzaWRlPjwvZGl2PjwvbGk+PC91bD48L2Rpdj48YSBocmVmPSdqYXZhc2NyaXB0OnZvaWQoMCknIGNsYXNzPSdhY2NvcmRpb24tdGl0bGUnPjxzcGFuPkZhY3VsdHkgb2YgRW5naW5lZXJpbmc8L3NwYW4+PC9hPjxkaXYgY2xhc3M9J2FjY29yZGlvbi1jb250ZW50Jz48dWwgY2xhc3M9J3NraWxsc2V0IHB1c2gzMCBjbGVhcic+PGxpPiA8c3BhbiBjbGFzcz0ncm5kNSc+PGI+RGVhbiA6IDwvYj48YSBocmVmPSdhZG1pbmlzdHJhdGlvbmRldGFpbHMuYXNweD9saW5rPTYwJz5Qcm9mLiBHLiBNLiBCaGF0PC9hPjwvc3Bhbj48L2xpPjxsaT48c3BhbiBjbGFzcz0ncm5kNSc+PHN0cm9uZz5EZXBhcnRtZW50czwvc3Ryb25nPjwvc3Bhbj48ZGl2IGNsYXNzPSdzaWRlYmFyJz48YXNpZGU+PG5hdj48dWwgc3R5bGU9J3BhZGRpbmctbGVmdDoxMHB4Oyc+PC91bD48L25hdj48L2FzaWRlPjwvZGl2PjwvbGk+PC91bD48L2Rpdj48YSBocmVmPSdqYXZhc2NyaXB0OnZvaWQoMCknIGNsYXNzPSdhY2NvcmRpb24tdGl0bGUnPjxzcGFuPkZhY3VsdHkgb2YgQmlvbG9naWNhbCBTY2llbmNlczwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9NDgnPlByb2YuIEFrYmFyIE1hc29vZDwvYT48L3NwYW4+PC9saT48bGk+PHNwYW4gY2xhc3M9J3JuZDUnPjxzdHJvbmc+RGVwYXJ0bWVudHM8L3N0cm9uZz48L3NwYW4+PGRpdiBjbGFzcz0nc2lkZWJhcic+PGFzaWRlPjxuYXY+PHVsIHN0eWxlPSdwYWRkaW5nLWxlZnQ6MTBweDsnPjxsaT48YSBocmVmPSdodHRwOi8vYmlvY2hlbWlzdHJ5LnVvay5lZHUuaW4nPkJpb2NoZW1pc3RyeTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vYmlvcmVzb3VyY2VzLnVvay5lZHUuaW4nPkJpb3Jlc291cmNlczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vYmlvdGVjaG5vbG9neS51b2suZWR1LmluJz5CaW90ZWNobm9sb2d5PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9ib3RhbnkudW9rLmVkdS5pbic+Qm90YW55PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9jbGIudW9rLmVkdS5pbic+Q2xpbmljYWwgQmlvY2hlbWlzdHJ5PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly96b29sb2d5LnVvay5lZHUuaW4nPlpvb2xvZ3k8L2E+PC9saT48L3VsPjwvbmF2PjwvYXNpZGU+PC9kaXY+PC9saT48L3VsPjwvZGl2PjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgY2xhc3M9J2FjY29yZGlvbi10aXRsZSc+PHNwYW4+RmFjdWx0eSBvZiBBcHBsaWVkIFNjaWVuY2VzICYgVGVjaG5vbG9neTwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9MjAnPlByb2YuIE0uWS4gU2hhaDwvYT48L3NwYW4+PC9saT48bGk+PHNwYW4gY2xhc3M9J3JuZDUnPjxzdHJvbmc+RGVwYXJ0bWVudHM8L3N0cm9uZz48L3NwYW4+PGRpdiBjbGFzcz0nc2lkZWJhcic+PGFzaWRlPjxuYXY+PHVsIHN0eWxlPSdwYWRkaW5nLWxlZnQ6MTBweDsnPjxsaT48YSBocmVmPSdodHRwOi8vY3MudW9rLmVkdS5pbic+Q29tcHV0ZXIgU2NpZW5jZTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vZWxlY3Ryb25pY3MudW9rLmVkdS5pbic+RWxlY3Ryb25pY3MgJiBJbnN0cnVtZW50YXRpb24gVGVjaG5vbG9neTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vZm9vZHNjaWVuY2UudW9rLmVkdS5pbic+Rm9vZCBTY2llbmNlICYgVGVjaG5vbG9neTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vaG9tZXNjaWVuY2UudW9rLmVkdS5pbic+SW5zdGl0dXRlIG9mIEhvbWUgU2NpZW5jZTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vcGhhcm1hLnVvay5lZHUuaW4nPlBoYXJtYWNldXRpY2FsIFNjaWVuY2U8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3VzaWMudW9rLmVkdS5pbic+VW5pdmVyc2l0eSBTY2llbmNlIEluc3RydW1lbnRhdGlvbiBDZW50cmU8L2E+PC9saT48L3VsPjwvbmF2PjwvYXNpZGU+PC9kaXY+PC9saT48L3VsPjwvZGl2PjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgY2xhc3M9J2FjY29yZGlvbi10aXRsZSc+PHNwYW4+RmFjdWx0eSBvZiBPcmllbnRhbCBMZWFybmluZzwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9MjUnPlByb2YuIFJ1a2F5YTwvYT48L3NwYW4+PC9saT48bGk+PHNwYW4gY2xhc3M9J3JuZDUnPjxzdHJvbmc+RGVwYXJ0bWVudHM8L3N0cm9uZz48L3NwYW4+PGRpdiBjbGFzcz0nc2lkZWJhcic+PGFzaWRlPjxuYXY+PHVsIHN0eWxlPSdwYWRkaW5nLWxlZnQ6MTBweDsnPjxsaT48YSBocmVmPSdodHRwOi8vYXJhYmljLnVvay5lZHUuaW4nPkFyYWJpYzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vcGVyc2lhbi51b2suZWR1LmluJz5QZXJzaWFuPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9zYW5za3JpdC51b2suZWR1LmluJz5TYW5za3JpdDwvYT48L2xpPjwvdWw+PC9uYXY+PC9hc2lkZT48L2Rpdj48L2xpPjwvdWw+PC9kaXY+PC9kaXY+ZAIDDxYCHwAFyh88ZGl2IGNsYXNzPSdhY2NvcmRpb24td3JhcHBlcic+PGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyBjbGFzcz0nYWNjb3JkaW9uLXRpdGxlJz48c3Bhbj5GYWN1bHR5IG9mIFNvY2lhbCBTY2llbmNlPC9zcGFuPjwvYT48ZGl2IGNsYXNzPSdhY2NvcmRpb24tY29udGVudCc+PHVsIGNsYXNzPSdza2lsbHNldCBwdXNoMzAgY2xlYXInPjxsaT4gPHNwYW4gY2xhc3M9J3JuZDUnPjxiPkRlYW4gOiA8L2I+PGEgaHJlZj0nYWRtaW5pc3RyYXRpb25kZXRhaWxzLmFzcHg/bGluaz0zJz5Qcm9mLiBOYXNlZW0gQWhtYWQgU2hhaDwvYT48L3NwYW4+PC9saT48bGk+PHNwYW4gY2xhc3M9J3JuZDUnPjxzdHJvbmc+RGVwYXJ0bWVudHM8L3N0cm9uZz48L3NwYW4+PGRpdiBjbGFzcz0nc2lkZWJhcic+PGFzaWRlPjxuYXY+PHVsIHN0eWxlPSdwYWRkaW5nLWxlZnQ6MTBweDsnPjxsaT48YSBocmVmPSdodHRwOi8vZWNvbm9taWNzLnVvay5lZHUuaW4nPkVjb25vbWljczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vaGlzdG9yeS51b2suZWR1LmluJz5IaXN0b3J5PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9saXMudW9rLmVkdS5pbic+TGlicmFyeSBhbmQgSW5mb3JtYXRpb24gU2NpZW5jZTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vbWVyY3MudW9rLmVkdS5pbic+TWVkaWEgRWR1Y2F0aW9uIFJlc2VhcmNoIENlbnRlcjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vcG9saXRpY2Fsc2NpZW5jZS51b2suZWR1LmluJz5Qb2xpdGljYWwgU2NpZW5jZTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vcHN5Y2hvbG9neS51b2suZWR1LmluJz5Qc3ljaG9sb2d5PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9pc2xhbWljc3R1ZGllcy51b2suZWR1LmluJz5TaGFoLWktSGFtZGFuIEluc3RpdHV0ZSBvZiBJc2xhbWljIFN0dWRpZXM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3NvY2lhbHdvcmsudW9rLmVkdS5pbic+U29jaWFsIFdvcms8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3NvY2lvbG9neS51b2suZWR1LmluJz5Tb2Npb2xvZ3k8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2lrcy51b2suZWR1LmluJz5VTkVTQ08gTWFkYW5qZWV0IFNpbmdoIEluc3RpdHV0ZSBvZiBLYXNobWlyIFN0dWRpZXM8L2E+PC9saT48L3VsPjwvbmF2PjwvYXNpZGU+PC9kaXY+PC9saT48L3VsPjwvZGl2PjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgY2xhc3M9J2FjY29yZGlvbi10aXRsZSc+PHNwYW4+RmFjdWx0eSBvZiBFZHVjYXRpb248L3NwYW4+PC9hPjxkaXYgY2xhc3M9J2FjY29yZGlvbi1jb250ZW50Jz48dWwgY2xhc3M9J3NraWxsc2V0IHB1c2gzMCBjbGVhcic+PGxpPiA8c3BhbiBjbGFzcz0ncm5kNSc+PGI+RGVhbiA6IDwvYj48YSBocmVmPSdhZG1pbmlzdHJhdGlvbmRldGFpbHMuYXNweD9saW5rPTM0Jz5Qcm9mLiBNYWhtb29kIEFobWFkIEtoYW48L2E+PC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSdybmQ1Jz48c3Ryb25nPkRlcGFydG1lbnRzPC9zdHJvbmc+PC9zcGFuPjxkaXYgY2xhc3M9J3NpZGViYXInPjxhc2lkZT48bmF2Pjx1bCBzdHlsZT0ncGFkZGluZy1sZWZ0OjEwcHg7Jz48bGk+PGEgaHJlZj0naHR0cDovL2RwZS51b2suZWR1LmluJz5EaXJlY3RvcmF0ZSBvZiBQaHlzaWNhbCBFZHVjYXRpb24gJiBTcG9ydHM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2VkdWNhdGlvbi51b2suZWR1LmluJz5FZHVjYXRpb248L2E+PC9saT48L3VsPjwvbmF2PjwvYXNpZGU+PC9kaXY+PC9saT48L3VsPjwvZGl2PjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgY2xhc3M9J2FjY29yZGlvbi10aXRsZSc+PHNwYW4+RmFjdWx0eSBvZiBMYXc8L3NwYW4+PC9hPjxkaXYgY2xhc3M9J2FjY29yZGlvbi1jb250ZW50Jz48dWwgY2xhc3M9J3NraWxsc2V0IHB1c2gzMCBjbGVhcic+PGxpPiA8c3BhbiBjbGFzcz0ncm5kNSc+PGI+RGVhbiA6IDwvYj48YSBocmVmPSdhZG1pbmlzdHJhdGlvbmRldGFpbHMuYXNweD9saW5rPTMzJz5Eci4gTW9oZC4gQXl1YiBEYXI8L2E+PC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSdybmQ1Jz48c3Ryb25nPkRlcGFydG1lbnRzPC9zdHJvbmc+PC9zcGFuPjxkaXYgY2xhc3M9J3NpZGViYXInPjxhc2lkZT48bmF2Pjx1bCBzdHlsZT0ncGFkZGluZy1sZWZ0OjEwcHg7Jz48bGk+PGEgaHJlZj0naHR0cDovL2xhdy51b2suZWR1LmluJz5MYXc8L2E+PC9saT48L3VsPjwvbmF2PjwvYXNpZGU+PC9kaXY+PC9saT48L3VsPjwvZGl2PjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgY2xhc3M9J2FjY29yZGlvbi10aXRsZSc+PHNwYW4+RmFjdWx0eSBvZiBNZWRpY2luZTwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9MCc+RHIuIFFhemkgTWFzb29kPC9hPjwvc3Bhbj48L2xpPjxsaT48c3BhbiBjbGFzcz0ncm5kNSc+PHN0cm9uZz5EZXBhcnRtZW50czwvc3Ryb25nPjwvc3Bhbj48ZGl2IGNsYXNzPSdzaWRlYmFyJz48YXNpZGU+PG5hdj48dWwgc3R5bGU9J3BhZGRpbmctbGVmdDoxMHB4Oyc+PC91bD48L25hdj48L2FzaWRlPjwvZGl2PjwvbGk+PC91bD48L2Rpdj48YSBocmVmPSdqYXZhc2NyaXB0OnZvaWQoMCknIGNsYXNzPSdhY2NvcmRpb24tdGl0bGUnPjxzcGFuPkZhY3VsdHkgb2YgUGh5c2ljYWwgJiBNYXRlcmlhbCBTY2llbmNlczwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9NTUnPkRyLk4uQS5SYXRoZXI8L2E+PC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSdybmQ1Jz48c3Ryb25nPkRlcGFydG1lbnRzPC9zdHJvbmc+PC9zcGFuPjxkaXYgY2xhc3M9J3NpZGViYXInPjxhc2lkZT48bmF2Pjx1bCBzdHlsZT0ncGFkZGluZy1sZWZ0OjEwcHg7Jz48bGk+PGEgaHJlZj0naHR0cDovL2NoZW1pc3RyeS51b2suZWR1LmluJz5DaGVtaXN0cnk8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2dlb2xvZ3kudW9rLmVkdS5pbic+RWFydGggU2NpZW5jZXM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2Vudmlyc2MudW9rLmVkdS5pbic+RW52aXJvbm1lbnRhbCBTY2llbmNlPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9nZW9ncmQudW9rLmVkdS5pbic+R2VvZ3JhcGh5ICYgUmVnaW9uYWwgRGV2ZWxvcG1lbnQ8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL21hdGhzLnVvay5lZHUuaW4nPk1hdGhlbWF0aWNzPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9waHkudW9rLmVkdS5pbic+UGh5c2ljczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vc3RhdGlzdGljLnVvay5lZHUuaW4nPlN0YXRpc3RpY3M8L2E+PC9saT48L3VsPjwvbmF2PjwvYXNpZGU+PC9kaXY+PC9saT48L3VsPjwvZGl2PjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgY2xhc3M9J2FjY29yZGlvbi10aXRsZSc+PHNwYW4+RmFjdWx0eSBvZiBNdXNpYyAmIEZpbmUgQXJ0czwvc3Bhbj48L2E+PGRpdiBjbGFzcz0nYWNjb3JkaW9uLWNvbnRlbnQnPjx1bCBjbGFzcz0nc2tpbGxzZXQgcHVzaDMwIGNsZWFyJz48bGk+IDxzcGFuIGNsYXNzPSdybmQ1Jz48Yj5EZWFuIDogPC9iPjxhIGhyZWY9J2FkbWluaXN0cmF0aW9uZGV0YWlscy5hc3B4P2xpbms9MCc+UHJvZi4gQS5NLlNoYWggKEluY2hhcmdlKTwvYT48L3NwYW4+PC9saT48bGk+PHNwYW4gY2xhc3M9J3JuZDUnPjxzdHJvbmc+RGVwYXJ0bWVudHM8L3N0cm9uZz48L3NwYW4+PGRpdiBjbGFzcz0nc2lkZWJhcic+PGFzaWRlPjxuYXY+PHVsIHN0eWxlPSdwYWRkaW5nLWxlZnQ6MTBweDsnPjwvdWw+PC9uYXY+PC9hc2lkZT48L2Rpdj48L2xpPjwvdWw+PC9kaXY+PC9kaXY+ZGShomldVwJTni8P46ZrHKdu8Y5T97MtR1sAfM5DcqjXjg==" />
+</div>
+
+    <div class="wrapper row4">
+        <div role="main" class="container">
+            <!-- ################################################################################################ -->
+            <div class="clear push50">
+                <div id="meritListLeft" class="col-1-2 first"><div class='accordion-wrapper'><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Arts</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=113'>Prof. Bashir Ahmad Nehvi</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://english.uok.edu.in'>English</a></li><li><a href='http://hindi.uok.edu.in'>Hindi</a></li><li><a href='http://ifl.uok.edu.in'>Institute Of Foreign Languages</a></li><li><a href='http://kashmiri.uok.edu.in'>Kashmiri</a></li><li><a href='http://linguistics.uok.edu.in'>Linguistics</a></li><li><a href='http://urdu.uok.edu.in'>Urdu</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Commerce & Management</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=14'>Prof. Shabir Ahmad</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://financialstudies.uok.edu.in'>Business and Financial Studies</a></li><li><a href='http://tbs.uok.edu.in'>The Business School</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Dentistry</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=59'>Prof. Riyaz Farooq</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Engineering</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=60'>Prof. G. M. Bhat</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Biological Sciences</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=48'>Prof. Akbar Masood</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://biochemistry.uok.edu.in'>Biochemistry</a></li><li><a href='http://bioresources.uok.edu.in'>Bioresources</a></li><li><a href='http://biotechnology.uok.edu.in'>Biotechnology</a></li><li><a href='http://botany.uok.edu.in'>Botany</a></li><li><a href='http://clb.uok.edu.in'>Clinical Biochemistry</a></li><li><a href='http://zoology.uok.edu.in'>Zoology</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Applied Sciences & Technology</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=20'>Prof. M.Y. Shah</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://cs.uok.edu.in'>Computer Science</a></li><li><a href='http://electronics.uok.edu.in'>Electronics & Instrumentation Technology</a></li><li><a href='http://foodscience.uok.edu.in'>Food Science & Technology</a></li><li><a href='http://homescience.uok.edu.in'>Institute of Home Science</a></li><li><a href='http://pharma.uok.edu.in'>Pharmaceutical Science</a></li><li><a href='http://usic.uok.edu.in'>University Science Instrumentation Centre</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Oriental Learning</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=25'>Prof. Rukaya</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://arabic.uok.edu.in'>Arabic</a></li><li><a href='http://persian.uok.edu.in'>Persian</a></li><li><a href='http://sanskrit.uok.edu.in'>Sanskrit</a></li></ul></nav></aside></div></li></ul></div></div></div>
+                <div id="meritListRight" class="col-1-2"><div class='accordion-wrapper'><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Social Science</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=3'>Prof. Naseem Ahmad Shah</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://economics.uok.edu.in'>Economics</a></li><li><a href='http://history.uok.edu.in'>History</a></li><li><a href='http://lis.uok.edu.in'>Library and Information Science</a></li><li><a href='http://mercs.uok.edu.in'>Media Education Research Center</a></li><li><a href='http://politicalscience.uok.edu.in'>Political Science</a></li><li><a href='http://psychology.uok.edu.in'>Psychology</a></li><li><a href='http://islamicstudies.uok.edu.in'>Shah-i-Hamdan Institute of Islamic Studies</a></li><li><a href='http://socialwork.uok.edu.in'>Social Work</a></li><li><a href='http://sociology.uok.edu.in'>Sociology</a></li><li><a href='http://iks.uok.edu.in'>UNESCO Madanjeet Singh Institute of Kashmir Studies</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Education</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=34'>Prof. Mahmood Ahmad Khan</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://dpe.uok.edu.in'>Directorate of Physical Education & Sports</a></li><li><a href='http://education.uok.edu.in'>Education</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Law</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=33'>Dr. Mohd. Ayub Dar</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://law.uok.edu.in'>Law</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Medicine</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=0'>Dr. Qazi Masood</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Physical & Material Sciences</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=55'>Dr.N.A.Rather</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'><li><a href='http://chemistry.uok.edu.in'>Chemistry</a></li><li><a href='http://geology.uok.edu.in'>Earth Sciences</a></li><li><a href='http://envirsc.uok.edu.in'>Environmental Science</a></li><li><a href='http://geogrd.uok.edu.in'>Geography & Regional Development</a></li><li><a href='http://maths.uok.edu.in'>Mathematics</a></li><li><a href='http://phy.uok.edu.in'>Physics</a></li><li><a href='http://statistic.uok.edu.in'>Statistics</a></li></ul></nav></aside></div></li></ul></div><a href='javascript:void(0)' class='accordion-title'><span>Faculty of Music & Fine Arts</span></a><div class='accordion-content'><ul class='skillset push30 clear'><li> <span class='rnd5'><b>Dean : </b><a href='administrationdetails.aspx?link=0'>Prof. A.M.Shah (Incharge)</a></span></li><li><span class='rnd5'><strong>Departments</strong></span><div class='sidebar'><aside><nav><ul style='padding-left:10px;'></ul></nav></aside></div></li></ul></div></div></div>
+            </div>
+            <!-- ################################################################################################ -->
+        </div>
+    </div>
+    <!-- End CONTENT -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- Footer START -->
+    <!-- LINK BLOCK -->
+<div class="wrapper row5">
+  <div class="linkblock">
+    <!--<h2 class="title">Optional block of links</h2>-->
+    <nav class="clear">
+      <div class="col-1-5 first">
+        <ul>
+           <li><a href="Aid.aspx" >Scholarships & Student Aid</a></li>    
+          <li><a href="Housing.aspx" >Hostel Accomodation</a></li>
+          <li><a href="http://ccpc.uok.edu.in/" target="_blank">Career Counselling</a></li>
+          <li><a href="http://dsw.uok.edu.in/" target="_blank">Student Welfare</a></li>
+          <li><a href="Health.aspx" >Health Services</a></li>
+          <li><a href="http://pghostels.uok.edu.in/" target="_blank">Girls Hostel</a></li>    
+          <li><a href="http://dpe.uok.edu.in/" >Sports</a></li>     
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>
+          <li><a href="http://prc.uok.edu.in/" target="_blank" >Public Relation Centre</a></li>
+          <li><a href="http://ucc.uok.edu.in/" target="_blank">Convocation Complex</a></li>
+          <li><a href="Procter.aspx" target="_blank">Proctoral Organisation</a></li>
+          <li><a href="download/antiragging.pdf" target="_blank">Norms Against Ragging</a></li>
+          
+          <li><a href="RTI.aspx" >RTI Information Cell</a></li>
+          <li><a href="FBdisclaimer.aspx">KU Facebook Disclaimer</a></li>
+          
+          
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>      
+          <li><a href="EmployeeDownloads.aspx">Employee Online Services</a></li>
+          <li><a href="http://asc.uok.edu.in" target="_blank">Academic Staff College</a></li>     
+          <li><a href="http://kashmiruniversity.net/estates/" target="_blank">Estates Section</a></li>
+           <li><a href="eGov.aspx">e-Governance</a></li>
+          <li><a href="http://kashmiruniversity.net/diqa/" target="_blank">DIQA</a></li>   
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>    
+          <li><a href="download/Examination Statutes.pdf" target="_blank">Examination Statutes</a></li>
+          <li><a href="download/UniCal.pdf" target="_blank">University Calender</a></li>
+           <li><a href="http://egov.kashmiruniversity.net/eConduct/about" target="_blank">Academic Section</a></li>
+          <li><a href="download/UGC Guidelines.pdf" target="_blank">UGC Guidelines</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>
+          <li><a href="importantlinks.aspx">Important Links</a></li>
+          <li><a href="notifications.aspx">Notifications</a></li>
+          <li><a href="media.aspx">KU Media</a></li>
+          <li><a href="Circular.aspx">Circulars</a></li>
+          
+          
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- FOOTER -->
+<div class="wrapper row6">
+  <footer role="contentinfo" id="p-footer" class="clear center"> 
+    <!-- BLOCK 1 -->
+    <div class="col-1-4 first">
+    <a href="http://egov.kashmiruniversity.net/feedbackforum" style="color:inherit">
+      <div class="block push30"><span class="cc circle icon-paste"></span></div>
+       <h6 class="push20">Feedback Forum</h6>
+       <p class="nospace">Comment, Suggestion</p>
+       <p class="nospace">Grievance ....</p>
+    </a>
+    </div>
+    <!-- BLOCK 2 -->
+    <div class="col-1-4">
+    <a href="Directory.aspx"  style="color:inherit;">
+      <div class="block push30"><span class="cc circle icon-phone"></span></div>
+      <h6 class="push20">Telephone Directory</h6>
+      <p class="nospace">+91 194 227 2096</p>
+      <p class="nospace">+91 194 227 2097</p>
+    </a>
+    </div>
+    <!-- BLOCK 3 -->
+    <div class="col-1-4">
+      <div class="block push30"><span class="cc circle icon-envelope-alt"></span></div>
+      <h6 class="push20">Email</h6>
+      <p class="nospace"><a href="#" style="color:White">info@uok.edu.in</a><br>
+        <a href="#" style="color:White">pro@uok.edu.in</a></p>
+    </div>
+    <!-- BLOCK 4 -->
+    <div class="col-1-4">
+
+    <a href="contact.aspx" style="color:inherit;">
+      <div class="block push30"><span class="cc circle icon-map-marker"></span></div>
+
+      <h6 class="push20">Address</h6>
+      <address>
+      Hazratbal, Srinagar<br>
+       J&K, India 190006
+      </address>
+      </a>
+     
+      <!--<form method="post" action="#">
+        <input type="text" value="">
+        <input type="submit" value="Subscribe">
+      </form>-->
+      
+    </div>
+  </footer>
+  <!-- COPYRIGHT -->
+  <div id="copyright" class="clear"> 
+    <div class="fl_left">Copyright <a href='http://egov.kashmiruniversity.net/CourseInfo/login.aspx' target="_blank" >&copy;</a> 2015 University of Kashmir | Beta Version 1.9 </div>
+    <div class="fl_right">
+      <ul class="nospace inline">
+        <li><a href="http://itss.uok.edu.in" target="_blank">Developed & Maintained By Directorate of IT & SS</a> | </li>
+        <li><a href="disclaimer.aspx">Disclaimer</a>|</li><li><a href="FBdisclaimer.aspx">KU Facebook Disclaimer</a></li>
+        <!--<li><a href="#">Link 3</a> / </li>
+        <li><a href="#">Link 4</a> / </li>
+        <li><a href="#">Link 5</a></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- END FOOTER --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- BACK TO TOP BUTTON --> 
+<a href="#top" id="scrolltotop" title="Back To Top"><span class="icon-arrow-up icon-2x"></span></a> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+    <!-- Footer END -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- JAVASCRIPTS -->
+    <!-- JS START -->
+    <!-- JAVASCRIPTS --> 
+<!-- <script src="http://code.jquery.com/jquery-latest.min.js"></script> --> 
+<script src="layout/scripts/jquery-latest.min.js"></script> 
+<!-- <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script> --> 
+<script src="layout/scripts/jquery-ui.min.js"></script> 
+<!-- Media --> 
+<script src="layout/scripts/fitvids/jquery.fitvids.js"></script> 
+<!-- Custom Settings --> 
+<script src="layout/scripts/custom.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $('head').append("<style>.ColouredList li:before{color:" + layoutColorName + ";} </style>");
+    });
+</script>
+
+    <!-- JS END -->
+    
+     <script>
+        $(document).ready(function () {
+
+            $("#lnkFaculty").addClass("active");
+        });
+    </script>
+    </form>
+</body>
+</html>
+˜Ô†¨Yë           U¥øé;]í       *:http://kashmiruniversity.net/faculty.aspx request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 15 Jul 2015 06:08:41 GMT
+Content-Length: 37139
+ charset UTF-8 uncompressed-len 0   ‘

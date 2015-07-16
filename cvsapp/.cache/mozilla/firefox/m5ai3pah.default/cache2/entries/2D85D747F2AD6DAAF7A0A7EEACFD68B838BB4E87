@@ -1,0 +1,338 @@
+if (!window.mraid) {document.write('\x3cdiv class="GoogleActiveViewClass" ' +'id="DfaVisibilityIdentifier_2386800690"\x3e');}
+(function() {
+  var DEBUG = ''.toLowerCase() == 'true';
+  var csiStart = (+new Date);
+  var studioObjects = window['studioV2'] = window['studioV2'] || {};
+  var publisherSideFilePath = unescape('');
+  if(publisherSideFilePath == '') {
+    publisherSideFilePath = '/doubleclick/DARTIframe.html';
+  } else if (publisherSideFilePath.charAt(publisherSideFilePath.length - 1) == '/') {
+    publisherSideFilePath += 'DARTIframe.html';
+  }
+  var bookingTimeMetaData = {
+  };
+
+  var runtimeMetaData = {
+  };
+
+  var exitUrlPatternMacroValues = {
+  };
+  var macroParser = function (macroName, value) {
+    return (value.indexOf(macroName) < 0) ? value : '';
+  };
+  var adServerData = {
+    eventReportingUrl: 'http://ad.doubleclick.net/activity;src=4907726;met=1;v=1;pid=119574041;aid=292325305;ko=0;cid=63659244;rid=63539244;rv=2;',
+    clickUrl: 'http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstoc8IweZ1JM9q3dK6wfzHvfjV2MOinO4u_Kvc54uXahiXGTq-vF3Xdollxr5GOoPJn9M38ZafulUq9_f_TAEBQSJiIEl708ha5GOU4gEVSFay9uQn1KaJE7r_GKEqS8g6e&sig=Cg0ArKJSzBPuc6rnvcNIEAE&adurl=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCqr-OGkyfVYbVGZGTogPF7IGoCf7pr9cDhu33s2TAjbcBEAEgAGDlyuWDtA6CARdjYS1wdWItNTYxOTM4OTAwNTk2Mjg1MMgBCagDAZgEAKoEoQFP0K4wptl6N7fE8HZnl0wDz60CZaV7TMIGvfbZK2R3fXhv2Lg7z_ZR_gB7qXRvnOkUXM1cA5HCYAfk20b3P1uds2B4JUikerLUeXdVNKM2d1FtLJr0y3T2mTwp2oRQw1NT5fyNmLUUZZcfqk_0daLVHP0i2l8knjq54CLWHhf0ueMOcEEMgRkpUiOUw_gT5bZmhDxTEWsN7-CtMDVddXYQqIAG-46Sl8HWzJFaoAYh2AcA%26num%3D1%26sig%3DAOD64_2tJW7nERdy-pozli4nVMAO0Hsa2A%26client%3Dca-pub-5619389005962850%26adurl%3D',
+    clickUrlTimesToEscape: '',
+    impressionUrl: '',
+    geoData: 'ct=IN&st=&city=7259&dma=0&zp=560017&bw=3',
+    siteName: 'N191401.279382INVITEMEDIAINC.',
+    siteId: '2085498',
+    adId: '0',
+    exitSuffix: '',
+    buyId: '8807709',
+    creativeId: '63659244',
+    placementId: '119574041',
+    advertiserId: '4907726',
+    keyValueOrdinal: '0',
+    renderingVersion: '2',
+    renderingId: '63539244',
+    randomNumber: '2386800690',
+    dynamicData: '',
+    stringReportingUrl: 'http://ad.doubleclick.net/activity;src=4907726;stragg=1;v=1;pid=119574041;aid=292325305;ko=0;cid=63659244;rid=63539244;rv=2;rn=2386800690;',
+    urlToGetKeywordsFor: '%LivePreviewSiteUrl',
+    bookingTimeMetaData: bookingTimeMetaData,
+    generatedAdSlot: false,
+    exitUrlPatternMacroValues: exitUrlPatternMacroValues,
+    renderingEnvironment: ('' == '1' ||
+        window['mraid']) ? 'IN_APP' : 'BROWSER',
+    placementDimensions: {
+      'w': '336',
+      'h': '280'
+    },
+    tag: {
+      adContainerElementId: macroParser('ad_container_id', ''),
+      hideObjects: '',
+      top: '',
+      left: '',
+      zIndex: '',
+      duration: '',
+      wmode: '',
+      preferHtml5Artwork: '' == 'true',
+      adSenseKeywords: '',
+      adSenseLatitude: '',
+      adSenseLongitude: '',
+      publisherSideFilePath: publisherSideFilePath,
+      runtimeMetaData: runtimeMetaData,
+      lidarEnabled: false,
+      expansionMode: '',
+      renderFloatInplace: ''.toLowerCase() == 'true',
+      tryToWriteHtmlInline: ''.toLowerCase() == 'true'
+    }
+  };
+
+  var scheme;
+  if ('http' == 'http' || 'http' == 'https') {
+    // DCM scheme macro usage.
+    scheme = 'http' + ':';
+  } else if ('%%SCHEME%%' == 'http' || '%%SCHEME%%' == 'https') {
+    // XFP scheme macro usage.
+    scheme = '%%SCHEME%%' + ':';
+  } else {
+    // preview usage.
+    scheme = location.protocol;
+  }
+  var staticResourceMediaServer = scheme == 'https:' ?
+       'https://s0.2mdn.net' :
+       'http://s0.2mdn.net';
+
+  var creativeMediaServer = scheme == 'https:' ?
+       'https://s0.2mdn.net' :
+       'http://s0.2mdn.net';
+
+  var backupImageUrl = '/4907726/336x280.jpg';
+  if (!/^https?:/.test(backupImageUrl)) {
+    backupImageUrl = creativeMediaServer + backupImageUrl;
+  }
+  var backupImage = {
+    exitUrl: 'http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstoc8IweZ1JM9q3dK6wfzHvfjV2MOinO4u_Kvc54uXahiXGTq-vF3Xdollxr5GOoPJn9M38ZafulUq9_f_TAEBQSJiIEl708ha5GOU4gEVSFay9uQn1KaJE7r_GKEqS8g6e&sig=Cg0ArKJSzBPuc6rnvcNIEAE&adurl=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCqr-OGkyfVYbVGZGTogPF7IGoCf7pr9cDhu33s2TAjbcBEAEgAGDlyuWDtA6CARdjYS1wdWItNTYxOTM4OTAwNTk2Mjg1MMgBCagDAZgEAKoEoQFP0K4wptl6N7fE8HZnl0wDz60CZaV7TMIGvfbZK2R3fXhv2Lg7z_ZR_gB7qXRvnOkUXM1cA5HCYAfk20b3P1uds2B4JUikerLUeXdVNKM2d1FtLJr0y3T2mTwp2oRQw1NT5fyNmLUUZZcfqk_0daLVHP0i2l8knjq54CLWHhf0ueMOcEEMgRkpUiOUw_gT5bZmhDxTEWsN7-CtMDVddXYQqIAG-46Sl8HWzJFaoAYh2AcA%26num%3D1%26sig%3DAOD64_2tJW7nERdy-pozli4nVMAO0Hsa2A%26client%3Dca-pub-5619389005962850%26adurl%3Dhttp://www.commonfloor.com/apartments-for-sale%253Fvirtual_tour%253Dyes%2526show_ungrouped_results%253D1%2526search_intent%253Dsale%2526city%253DBangalore%2526use_pp%253D0%2526f%253DDouble-Click-SRP-Bangalore%2526utm_source%253DGoogle-Double-Click%2526utm_medium%253DDouble-Click%2526utm_campaign%253DLive-In-Tours-Double-Click-SRP-Bangalore%2526utm_term%253D%2524%257BSOURCE_URL_ENC%257D%2526utm_content%253D336x280',
+    target: '_blank',
+    imageUrl: backupImageUrl,
+    width: '336',
+    height: '280',
+    backupDisplayActivityUrl: '',
+    thirdPartyBackupImpressionUrl: ''
+  };
+
+  var versionPrefix = DEBUG ? 'db_' : '';
+  var templateVersion = '200_86';
+  var renderingScriptPath = '/879366';
+  var rendererDisplayType = '';
+  rendererDisplayType += 'dfa7banner_';
+  rendererDisplayType += 'flash_';
+  var rendererFormat = 'inpage';
+  var rendererName = rendererDisplayType + rendererFormat;
+  var renderingLibrary = renderingScriptPath + '/' + rendererName + '_rendering_lib_' +
+      versionPrefix + templateVersion + '.js';
+  // Adserver has a logic to detect media files and prepend host name.
+  if (!/^https?:/.test(renderingLibrary)) {
+    renderingLibrary = staticResourceMediaServer + renderingLibrary;
+  }
+
+  var adCreativeDefinitions = {};
+
+  var creativeId = '63659244';
+  var adId = adCreativeDefinitions[adServerData.adId] ? adServerData.adId : 0;
+  // The unique creative is identified by combination of creative id and ad id.
+  // When the same creative(same creative id and same ad id) is served on the page more
+  // than once then they will share the creative definition yet there will be
+  // multiple instances of 'adResponses'.s
+  var creativeKey = [creativeId, adId].join('_');
+  var creativeDef = adCreativeDefinitions[adServerData.adId] ?
+      adCreativeDefinitions[adServerData.adId] :
+      '[%DEFAULT_PLCR_PATH%]';
+  if(!/^https?:/.test(creativeDef) && creativeDef.substring(0, 2) != '//') {
+    creativeDef = creativeMediaServer + creativeDef;
+  }
+    creativeDef = null;
+  studioObjects['creativeCount'] = studioObjects['creativeCount'] || 0;
+  var creativeDto = {
+    id: creativeId,
+    uniqueId: creativeId + '_' + studioObjects['creativeCount']++,
+    templateVersion: templateVersion,
+    adServerData: adServerData,
+    isPreviewEnvironment: '%PreviewMode' == 'true',
+    hasFlashAsset: true,
+    hasHtmlAsset: false,
+    requiresCss3Animations: false,
+    flashVersion: '11.4',
+    httpsMediaServer: 'https://s0.2mdn.net',
+    httpMediaServer: 'http://s0.2mdn.net',
+    renderingScriptPath: renderingScriptPath,
+    renderingLibrary: renderingLibrary,
+    rendererName: rendererName,
+    creativeDefinitionUrl: creativeDef,
+    creativeKey: creativeKey,
+    thirdPartyImpressionUrls: [''],
+    thirdPartyArtworkImpressionUrl: '',
+    breakoutToTop: false,
+    dimensions: {
+      width: '336px',
+      height: '280px'
+    },
+    backupImage: backupImage,
+    csiStart: csiStart,
+    csiAdRespTime: csiStart - (parseFloat('') || 0),
+    csiEvents: {},
+    hasModernizrFeatureChecks: false,
+    html5FeatureChecks: [
+    ],
+    hasSwiffyHtmlAsset: false
+  };
+
+  var inGdnIframe = window['IN_ADSENSE_IFRAME'] || false;
+  var inYahooSecureIframe = window.Y && Y.SandBox && Y.SandBox.vendor;
+  var inWinLiveIframe = false;
+  try {
+    inWinLiveIframe = !!window.$WLXRmAd;
+  } catch(e) {}
+  var inSafeFrame = window.$sf && window.$sf.ext;
+  var isMsnAjaxIframe = (typeof(inDapMgrIf) != 'undefined' && inDapMgrIf);
+  var breakoutIframe = ''.toLowerCase();
+  var shouldBreakout = (((false ||
+                          false) &&
+                         !inGdnIframe &&
+                         !inYahooSecureIframe &&
+                         !inSafeFrame &&
+                         !inWinLiveIframe) ||
+                        (true && breakoutIframe == 'true')) &&
+                       self != top &&
+                       !creativeDto.isPreviewEnvironment &&
+                       breakoutIframe != 'false';
+
+  if (adServerData.tag.adContainerElementId == '' &&
+      (true || false ||
+         adServerData.tag.renderFloatInplace)) {
+    var containerId = ['creative', creativeDto.uniqueId].join('_');
+    var divHtml = ['<div id="', containerId, '"></div>'].join('');
+    document.write(divHtml);
+    adServerData.tag.adContainerElementId = containerId;
+    adServerData.generatedAdSlot = true;
+  }
+  var creatives = studioObjects['creatives'] = studioObjects['creatives'] || {};
+  var creative = creatives[creativeKey] = creatives[creativeKey] || {};
+  var adResponses = creative['adResponses'] = creative['adResponses'] || [];
+  creative['shouldBreakout'] = creative['shouldBreakout'] || shouldBreakout;
+  var iframeBusterLibrary = renderingScriptPath + '/iframe_buster_' +
+      versionPrefix + templateVersion + '.js';
+  if(!/^https?:/.test(iframeBusterLibrary)) {
+    iframeBusterLibrary = staticResourceMediaServer + iframeBusterLibrary;
+  }
+  var loadedLibraries = studioObjects['loadedLibraries'] = studioObjects['loadedLibraries'] || {};
+  var versionedLibrary = loadedLibraries[templateVersion] = loadedLibraries[templateVersion] || {};
+  var typedLibrary = versionedLibrary[rendererName] = versionedLibrary[rendererName] || {};
+  adResponses.push({
+    creativeDto: creativeDto
+  });
+  if (shouldBreakout) {
+    if (versionedLibrary['breakout']) {
+      versionedLibrary['breakout']();
+    } else if (!versionedLibrary['breakoutLoading']) {
+      versionedLibrary['breakoutLoading'] = true;
+      document.write('<scr' + 'ipt type="text/javascript" src="' + iframeBusterLibrary + '" async="async"></scr' + 'ipt>');
+    }
+  } else if (typedLibrary['bootstrap'] && creative['creativeDefinition']) {
+    typedLibrary['bootstrap']();
+  } else {
+    if (!typedLibrary['loading']) {
+      typedLibrary['loading'] = true;
+      creativeDto.csiEvents['gb'] = (+new Date);
+      document.write('<scr' + 'ipt type="text/javascript" src="' + renderingLibrary + '"' + (adServerData.tag.tryToWriteHtmlInline ? '' : ' async="async"') + '></scr' + 'ipt>');
+    }
+  }
+  if (isMsnAjaxIframe) {
+    window.setTimeout("document.close();", 1000);
+  }
+  (function() {
+  var creativeDefinition = {
+    customScriptUrl: '',
+    isDynamic: false,
+    delayedImpression: false,
+    standardEventIds: {
+      HTML5_CREATIVE_IMPRESSION: '871060'
+    },
+    exitEvents: [
+      {
+        name: 'clickTAG',
+        reportingId: '',
+        url: 'http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstoc8IweZ1JM9q3dK6wfzHvfjV2MOinO4u_Kvc54uXahiXGTq-vF3Xdollxr5GOoPJn9M38ZafulUq9_f_TAEBQSJiIEl708ha5GOU4gEVSFay9uQn1KaJE7r_GKEqS8g6e&sig=Cg0ArKJSzBPuc6rnvcNIEAE&adurl=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCqr-OGkyfVYbVGZGTogPF7IGoCf7pr9cDhu33s2TAjbcBEAEgAGDlyuWDtA6CARdjYS1wdWItNTYxOTM4OTAwNTk2Mjg1MMgBCagDAZgEAKoEoQFP0K4wptl6N7fE8HZnl0wDz60CZaV7TMIGvfbZK2R3fXhv2Lg7z_ZR_gB7qXRvnOkUXM1cA5HCYAfk20b3P1uds2B4JUikerLUeXdVNKM2d1FtLJr0y3T2mTwp2oRQw1NT5fyNmLUUZZcfqk_0daLVHP0i2l8knjq54CLWHhf0ueMOcEEMgRkpUiOUw_gT5bZmhDxTEWsN7-CtMDVddXYQqIAG-46Sl8HWzJFaoAYh2AcA%26num%3D1%26sig%3DAOD64_2tJW7nERdy-pozli4nVMAO0Hsa2A%26client%3Dca-pub-5619389005962850%26adurl%3Dhttp://www.commonfloor.com/apartments-for-sale%253Fvirtual_tour%253Dyes%2526show_ungrouped_results%253D1%2526search_intent%253Dsale%2526city%253DBangalore%2526use_pp%253D0%2526f%253DDouble-Click-SRP-Bangalore%2526utm_source%253DGoogle-Double-Click%2526utm_medium%253DDouble-Click%2526utm_campaign%253DLive-In-Tours-Double-Click-SRP-Bangalore%2526utm_term%253D%2524%257BSOURCE_URL_ENC%257D%2526utm_content%253D336x280',
+        targetWindow: '_blank',
+        windowProperties: ''
+      }
+    ],
+    timerEvents: [
+    ],
+    counterEvents: [
+    ],
+    childFiles: [
+      {
+        name: 'additional flash advertisement',
+        url: '/4907726/336x280.swf',
+        isVideo: false,
+        transcodeInformation: null
+      }
+    ],
+    videoFiles: [
+    ],
+    videoEntries: [
+    ],
+    primaryAssets: [
+      {
+        id: '0',
+        artworkType: 'FLASH',
+        displayType: 'BANNER',
+        width: '336',
+        height: '280',
+        servingPath: '/4907726/set_5_30sec_336x280.swf',
+        zIndex: '0',
+        customCss: '',
+        flashArtworkTypeData: {
+          actionscriptVersion: '1',
+          wmode: 'opaque',
+          sdkVersion: '',
+          flashBackgroundColor: '',
+          allowScriptAccess: 'always'
+        },
+        htmlArtworkTypeData: null,
+        floatingDisplayTypeData: null,
+        expandingDisplayTypeData: null,
+        imageGalleryTypeData: null,
+        pageSettings:null,
+layoutsConfig: null,
+layoutsApi: null
+      }
+    ]
+  }
+  var rendererDisplayType = '';
+  rendererDisplayType += 'dfa7banner_';
+  rendererDisplayType += 'flash_';
+  var rendererFormat = 'inpage';
+  var rendererName = rendererDisplayType + rendererFormat;
+
+  var creativeId = '63659244';
+  var adId = '0';
+  var templateVersion = '200_86';
+  var studioObjects = window['studioV2'] = window['studioV2'] || {};
+  var creativeObjects = studioObjects['creatives'] = studioObjects['creatives'] || {};
+  var creativeKey = [creativeId, adId].join('_');
+  var creative = creativeObjects[creativeKey] = creativeObjects[creativeKey] || {};
+  creative['creativeDefinition'] = creativeDefinition;
+  var adResponses = creative['adResponses'] || [];
+  for (var i = 0; i < adResponses.length; i++) {
+    adResponses[i].creativeDto && adResponses[i].creativeDto.csiEvents &&
+        (adResponses[i].creativeDto.csiEvents['pe'] =
+            adResponses[i].creativeDto.csiEvents['pe'] || (+new Date));
+  }
+  var loadedLibraries = studioObjects['loadedLibraries'] = studioObjects['loadedLibraries'] || {};
+  var versionedLibrary = loadedLibraries[templateVersion] = loadedLibraries[templateVersion] || {};
+  var typedLibrary = versionedLibrary[rendererName] = versionedLibrary[rendererName] || {};
+  if (typedLibrary['bootstrap']) {
+    typedLibrary.bootstrap();
+  }
+})();
+
+})();
+document.write('\n\x3cnoscript\x3e\n  \x3ca target\x3d\x22_blank\x22 href\x3d\x22http://adclick.g.doubleclick.net/pcs/click?xai\x3dAKAOjstoc8IweZ1JM9q3dK6wfzHvfjV2MOinO4u_Kvc54uXahiXGTq-vF3Xdollxr5GOoPJn9M38ZafulUq9_f_TAEBQSJiIEl708ha5GOU4gEVSFay9uQn1KaJE7r_GKEqS8g6e\x26sig\x3dCg0ArKJSzBPuc6rnvcNIEAE\x26adurl\x3dhttp://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCqr-OGkyfVYbVGZGTogPF7IGoCf7pr9cDhu33s2TAjbcBEAEgAGDlyuWDtA6CARdjYS1wdWItNTYxOTM4OTAwNTk2Mjg1MMgBCagDAZgEAKoEoQFP0K4wptl6N7fE8HZnl0wDz60CZaV7TMIGvfbZK2R3fXhv2Lg7z_ZR_gB7qXRvnOkUXM1cA5HCYAfk20b3P1uds2B4JUikerLUeXdVNKM2d1FtLJr0y3T2mTwp2oRQw1NT5fyNmLUUZZcfqk_0daLVHP0i2l8knjq54CLWHhf0ueMOcEEMgRkpUiOUw_gT5bZmhDxTEWsN7-CtMDVddXYQqIAG-46Sl8HWzJFaoAYh2AcA%26num%3D1%26sig%3DAOD64_2tJW7nERdy-pozli4nVMAO0Hsa2A%26client%3Dca-pub-5619389005962850%26adurl%3Dhttp://www.commonfloor.com/apartments-for-sale%253Fvirtual_tour%253Dyes%2526show_ungrouped_results%253D1%2526search_intent%253Dsale%2526city%253DBangalore%2526use_pp%253D0%2526f%253DDouble-Click-SRP-Bangalore%2526utm_source%253DGoogle-Double-Click%2526utm_medium%253DDouble-Click%2526utm_campaign%253DLive-In-Tours-Double-Click-SRP-Bangalore%2526utm_term%253D%2524%257BSOURCE_URL_ENC%257D%2526utm_content%253D336x280\x22\x3e\n    \x3cimg border\x3d\x220\x22 alt\x3d\x22\x22 src\x3d\x22//s0.2mdn.net/4907726/336x280.jpg\x22\n        width\x3d\x22336\x22 height\x3d\x22280\x22 /\x3e\n  \x3c/a\x3e\n\x3c/noscript\x3e\n');if (!window.mraid) {document.write('\x3c/div\x3e');}if (!window.mraid) {(function() {var avDiv = document.getElementById("DfaVisibilityIdentifier_2386800690");if (avDiv) {avDiv['_avi_'] = 'BZftNHEyfVf7QDcySogOI6qSIBAAAAAAQATgByAEJ4AQCoAY_';avDiv['_avihost_'] = 'pagead2.googlesyndication.com';avDiv['_avm_'] = 'la\x3d0\x26';}var glidar = document.createElement('script');glidar.type = 'text/javascript';glidar.async = true;glidar.src = '//pagead2.googlesyndication.com/pagead/js/lidar.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(glidar, s);})();}fñ5íä%      UŸLUŸL;YL“      á:http://bid.g.doubleclick.net/xbbe/creative/adj?d=APEucNVXPMir9mqDig18ty4GKTxCo86wiBOVo9B4mRuGz7tU-9oFpBbOPZZqA4az_yAzLQDfXbiRo8MB3RrSLZYiv6QleWsugBI9wnGYOmQrYRj0JOsFSYPaXoFEtCj6aXvNP_Oc9UCQvZZl5SWUeM4UJDpC2R_nlUYcxqwtqjwVXiImfBM6EDPvWu-Xa7Wg14w7kDggT9cydqE8Zo-bMm8Xq3CZVT24BRM061h6HtRZAf4FFNBMj6NBtVgjoFf8G3cOgcgS2WgCKNtXy36cp4d6SRDP65wokSrVeyt1Ipn-rxOEzIP6JC5J9tYMqzDlOAue9IKofXTeEFKPrs1UQBuj5BJvV8O-WX2P-Jm9MO9R-FKEixZodDom4KbYbY6kM5weSajkFhU0&pr=VZ9MGgAGaoYKaImRAAB2RZoXMEFiQePhQ5LcgA&c=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCqr-OGkyfVYbVGZGTogPF7IGoCf7pr9cDhu33s2TAjbcBEAEgAGDlyuWDtA6CARdjYS1wdWItNTYxOTM4OTAwNTk2Mjg1MMgBCagDAZgEAKoEoQFP0K4wptl6N7fE8HZnl0wDz60CZaV7TMIGvfbZK2R3fXhv2Lg7z_ZR_gB7qXRvnOkUXM1cA5HCYAfk20b3P1uds2B4JUikerLUeXdVNKM2d1FtLJr0y3T2mTwp2oRQw1NT5fyNmLUUZZcfqk_0daLVHP0i2l8knjq54CLWHhf0ueMOcEEMgRkpUiOUw_gT5bZmhDxTEWsN7-CtMDVddXYQqIAG-46Sl8HWzJFaoAYh2AcA%26num%3D1%26sig%3DAOD64_2tJW7nERdy-pozli4nVMAO0Hsa2A%26client%3Dca-pub-5619389005962850%26adurl%3D necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+p3p: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Date: Fri, 10 Jul 2015 04:37:48 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=ISO-8859-1
+x-content-type-options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Server: xbfe
+Content-Length: 16570
+X-XSS-Protection: 1; mode=block
+Alternate-Protocol: 80:quic,p=0
+ uncompressed-len 0   @º

@@ -1,0 +1,588 @@
+
+
+<!DOCTYPE html>
+<html class="">
+<head>
+    <!-- title START -->
+    <meta charset="UTF-8">
+<title>University of Kashmir</title>
+<meta name="description" content="Offical Web site of University of Kashmir">
+<meta name="keywords" content="University of Kashmir,Kashmir University,University kashmir">
+<meta name="author" content="">
+<link rel="SHORTCUT ICON" href="favicon.ico">
+<meta name="dcterms.rightsHolder" content="">
+<meta name="dcterms.dateCopyrighted" content="2014">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<!--<link class="theme_link" href="layout/styles/colours/red.css" rel="stylesheet" type="text/css" />
+-->
+<script>
+    var layoutColorName = "Red";
+    var layoutColor = "#B9282C";
+</script>
+
+
+<link class="theme_link" href="layout/styles/colours/red.css" rel="stylesheet" type="text/css" />
+<script>
+    layoutColor = "#B9282C";
+    layoutColorName = "red";
+</script>
+
+<link href="layout/styles/main.css" rel="stylesheet" type="text/css" media="all">
+<link href="layout/styles/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- title END -->
+</head>
+<body id="top">
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- TOPBAR -->
+    <!-- TOPBAR START -->
+    <div class="wrapper row0">
+  <div id="topbar">
+    <div id="slidepanel" class="clear">
+      <div class="fl_left">
+        <form name="formSear" action="search.aspx" method="GET" onSubmit="return qs();" class="block clear">
+          <input name="searWords" type="text" value="" size="35">
+          <button class="button" name="Send" type="submit"><span class="icon-search"></span></button>
+        </form>
+      </div>
+      <div class="fl_right">
+        <ul class="social">
+        <li><a class="button small green themeButton" title="Green" href="#"><span class="icon-tumblr green"><em>Green</em></span></a></li>
+        <li><a class="button small red themeButton" title="Red" href="#"><span class="icon-tumblr red"><em>Green</em></span></a></li>
+        <li><a class="button small blue themeButton" title="Blue" href="#"><span class="icon-tumblr blue"><em>Green</em></span></a></li>
+        <li><a class="button small orange themeButton" title="Orange" href="#"><span class="icon-tumblr orange"><em>Green</em></span></a></li>
+        <li><a class="button small purple themeButton" title="Purple" href="#"><span class="icon-tumblr purple"><em>Green</em></span></a></li>
+         <!-- <li><a class="button small green" title="Facebook" href="#"><span class="icon-facebook green"><em>Facebook</em></span></a></li>
+          <li><a class="socico-pinterest" title="Pinterest" href="#"><span class="icon-pinterest"><em>Pinterest</em></span></a></li>
+          <li><a class="socico-twitter" title="Twitter" href="#"><span class="icon-twitter"><em>Twitter</em></span></a></li>
+          <li><a class="socico-dribble" title="Dribble" href="#"><span class="icon-dribbble"><em>Dribble</em></span></a></li>
+          <li><a class="socico-linkedin" title="LinkedIn" href="#"><span class="icon-linkedin"><em>LinkedIn</em></span></a></li>
+          <li><a class="socico-google-plus" title="Google+" href="#"><span class="icon-google-plus"><em>Google+</em></span></a></li>
+          <li><a class="socico-skype" title="Skype" href="#"><span class="icon-skype"><em>Skype</em></span></a></li>-->
+        </ul>
+      </div>
+    </div>
+    <!-- TOP BAR SLIDER BUTTON -->
+    <div id="openpanel"><a id="slideit" class="icon-chevron-down" href="#slidepanel"></a><a id="closeit" class="icon-chevron-up" style="display:none;" href="#slidepanel"></a></div>
+  </div>
+</div>
+    <!-- TOPBAR END -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- HEADER -->
+    <!-- HEADER START -->
+    
+<div class="wrapper row1">
+  <header role="banner" id="header" class="clear">
+    <div class="fl_left">
+        <h1><a href="Default.aspx"><img src="images/KU.png" /></a></h1>
+     <!-- University of Kashmir
+      <p class="times">From Darkness to Light</p>-->
+    </div>
+    <div class="fl_right right">
+      <ul class="meta nospace inline">
+        <li><span class="icon-phone"></span> +91 (194) 227 2096</li>
+        <li><span class="icon-envelope-alt"></span> <a href="#">info@uok.edu.in</a></li>
+      </ul>
+      <nav>
+        <ul class="nospace inline">
+        <li><a href="message.aspx">Vice Chancellor's Message</a></li>
+          <li><a href="http://egov.kashmiruniversity.net/FeedBackForum" target="_blank">Feedback Forum</a></li>
+          <li><a href="http://kuaa.uok.edu.in/" target="_blank">Alumni</a></li>
+          
+          <li><a href="EmployeeDownloads.aspx">Staff Login</a></li>
+          <li><a href="Contact.aspx">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- MAIN NAVIGATION -->
+<div class="wrapper row2">
+    <nav role="navigation" id="topnav" class="clear">
+    <ul class="clear">
+      <li id="lnkHome"><a href="default.aspx" title="Home">Home</a></li>
+      <li id="lnkAbout"><a class="drop" href="#" title="Pages">About</a>
+        <ul class="sub-menu">
+          <li id="subLnkAboutUok"><a href="AboutUoK.aspx" style="text-transform:none;" title="About Us">University of Kashmir</a></li>
+          <li id="subLnkAdministrator"><a href="administrator.aspx" title="Contact">Administration</a></li>
+         <!-- <li id="subLnkPGC" class="last-child"><a href="formerVCs.aspx" title="Former Vice Chancellors">Former Vice Chancellors</a></li>-->
+          <!--<li id="subLnkCampuses"><a href="Campuses.aspx" title="Campus">Campuses</a></li>
+          <li id="subLnkColleges" class="last-child"><a href="Colleges.aspx" title="Affiliated Colleges">Affiliated Colleges</a></li>
+          <li id="Li1" class="last-child"><a href="Colleges.aspx" title="Affiliated Colleges">Academic Calender</a></li>-->
+        </ul>
+      </li>
+      <li id="lnkAcademics"><a class="drop"  href="#" title="Academics">Academics</a>
+        <ul class="sub-menu">
+          <li><a href="Campuses.aspx" title="Campus">Campuses</a></li>
+		<li><a href="PGC.aspx" title="PG Centres">PG Centres</a></li>
+		<li><a href="Colleges.aspx" title="Affiliated Colleges">Affiliated Colleges</a></li>
+        
+		<li><a href="degreeprograms.aspx" title="Coureses Offered">Courses Offered</a></li>
+        <li><a href="../download/Admission policy-2015.pdf" title="Admission Policy">Admission Policy</a></li>
+		<!--<li class="last-child"><a href="academiccalander.aspx" title="Acadenmic Calender">Academic Calender</a></li>-->
+		        
+        
+        </ul>
+      </li>
+      <li id="lnkFaculty"><a href="faculty.aspx" title="Faculties">Faculties</a></li>
+      <li id="lnkResearch"><a href="research.aspx" title="Research Centres">Research Centres</a></li>
+       <li id="lnkDirectorates" class="last-child"><a href="directorates.aspx" title="Directorates">Directorates</a></li>
+     
+    </ul>
+  </nav>
+</div>
+
+    <!-- HEADER END --
+<!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- FULL WIDTH SLIDER -->
+    <div class="wrapper full_width">
+        <div class="flex-container flex-rtl">
+            <div class="flexslider flex-homepage">
+                <ul class="flex-slides">
+                
+               
+                
+                <li><a href="admission.aspx" ><img src="images/demo/slider/2015.jpg" alt=""></a></li>
+                
+                    
+                     
+                   
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- INTRO -->
+    <div class="wrapper row0">
+        <div id="intro" class="clear">
+            <ul class="nospace">
+                <li><a class="block" href="admission.aspx">
+                    <div class="block push30">
+                        <span class="cc circle icon-bullhorn"></span>
+                    </div>
+                    <h6 class="nospace">
+                        Admissions</h6>
+                   
+                </a></li>
+                <li><a class="block" href="Examination.aspx">
+                    <div class="block push30">
+                        <span class="cc circle icon-pencil"></span>
+                    </div>
+                    <h6 class="nospace">
+                        Examinations</h6>
+                    
+                </a></li>
+                <li><a class="block" href="http://deanres.uok.edu.in/">
+                    <div class="block push30">
+                        <span class="cc circle icon-bar-chart"></span>
+                    </div>
+                    <h6 class="nospace">
+                        Research</h6>
+                    <p class="nospace">
+                    </p>
+                </a></li>
+                <li><a class="block" href="http://ddeku.edu.in" target="_blank">
+                    <div class="block push30">
+                        <span class="cc circle icon-group"></span>
+                    </div>
+                   
+                    <h6 class="nospace">
+                        Distance Education</h6>
+                   
+                </a></li>
+                <li><a class="block" href="http://ail.uok.edu.in" target="_blank">
+                    <div class="block push30">
+                        <span class="cc circle icon-book"></span>
+                    </div>
+                    <h6 class="nospace">
+                        Library</h6>
+                    
+                </a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- CONTENT -->
+    <form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI5NDA4MzI0MQ9kFgJmD2QWCgIBDxYCHglpbm5lcmh0bWwFvgkNCiAgICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2NvdXJzZWluZm8vdWdmb3Jtcy9wcmVsb2dpbi9kZWZhdWx0LmFzcHg/aWQ9NCcgdGFyZ2V0PSdfbmV3JyA+IEFkbWl0IENhcmRzIGZvciBVRyAzZHIgWWVhciBFeGFtaW5hdGlvbiAoQW5udWFsKSBmb3IgTGVoIENvbGxlZ2U8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvZUNvbmR1Y3QvJyB0YXJnZXQ9J19uZXcnID4gRXhhbWluYXRpb24gZm9ybSBmb3IgTUEgMXN0ICYgMm5kIFNlbWVzdGVyIChQcml2YXRlKSkgPC9hPjxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2NvdXJzZWluZm8vdWdmb3Jtcy9wcmVsb2dpbmJlZC9EZWZhdWx0YmVkMDAuYXNweCcgdGFyZ2V0PSdfbmV3JyA+IEV4YW1pbmF0aW9uIGZvcm1zIGZvciBCLkVkIEV4YW1pbmF0aW9uIChCYWNrbG9nIENhbmRpZGF0ZXMvTWVyY3kpPC9hPjxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2VDb25kdWN0LycgdGFyZ2V0PSdfbmV3JyA+IEV4YW1pbmF0aW9uIGZvcm1zICYgQWRtaXQgQ2FyZHMgZm9yIFBHLCBCVGVjaCxCRSAmIERpcGxvbWEgQ291cnNlczwvYT48bGkgPjxhIGhyZWY9J2h0dHA6Ly9lZ292Lmthc2htaXJ1bml2ZXJzaXR5Lm5ldC9jb3Vyc2VpbmZvL3VnZm9ybXMvcHJlbG9naW4vZGVmYXVsdC5hc3B4P2lkPTEnIHRhcmdldD0nX25ldycgPiBBZG1pdCBDYXJkcyBmb3IgVUcgMXN0IFllYXIgQmlBbm51YWwgRXhhbWluYXRpb24gKENvbGQgWm9uZSk8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvY291cnNlaW5mby91Z2Zvcm1zL3ByZWxvZ2luL2RlZmF1bHQuYXNweD9pZD0zJyB0YXJnZXQ9J19uZXcnID4gQWRtaXQgIENhcmQgIGZvciBVRyAzcmQgWWVhciBFeGFtaW5hdGlvbiAoRnJlc2ggUHJpdmF0ZSkgb2YgTGVoIENvbGxlZ2U8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvY291cnNlaW5mby91Z2Zvcm1zL3ByZWxvZ2luL2RlZmF1bHQuYXNweD9pZD0yJyB0YXJnZXQ9J19uZXcnID4gQWRtaXQgQ2FyZHMgZm9yIFVHIDJuZCBZZWFyIEV4YW1pbmF0aW9uIChCYWNrbG9nKSBvZiBMZWggQ29sbGVnZSBvbmx5PC9hPmQCAw8WAh8ABbkcDQogICAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvZUVudHJhbmNlL0JFRC9JbnN0cnVjdGlvbnNubG9jYWwuYXNweCcgdGFyZ2V0PSdfbmV3JyA+IEFwcGxpY2F0aW9uIGZvcm0gZm9yIEIuRWQgUHJvZ3JhbW1lIGluIFByaXZhdGUgQ29sbGVnZXMgKFNlc3Npb24gMjAxNSk8L2E+PGxpID48YSAgaHJlZj0naHR0cDpBZG1pc3Npb25zLzE1OS5wZGYnIHRhcmdldD0nX25ldyc+U2VsZWN0aW9uIE5vdGlmaWNhdGlvbiBOby4gNSBmb3IgQWRtaXNzaW9uIFNlc3Npb24gMjAxNTwvYSA+IDxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2VBZG1pc3Npb25zL1ByZWxvZ2luL1BheW1lbnRBcHBsaWNhdGlvbkZvcm0uYXNweCcgdGFyZ2V0PSdfbmV3JyA+IEFwcGxpY2F0aW9uIGZvcm0gZm9yIFNlbGYgRmluYW5jZWQgU2VhdHMgZm9yIFBHIENvdXJzZXM8L2E+PGxpID48YSAgaHJlZj0naHR0cDpBZG1pc3Npb25zLzE2MC5wZGYnIHRhcmdldD0nX25ldyc+Q29ycmlnZW5kdW0gdG8gU2VsZWN0aW9uICBOb3RpZmljYXRpb24gTm8uIDUgZm9yIDIwMTU8L2EgPiA8bGkgPjxhIGhyZWY9J2h0dHA6Ly9lZ292Lmthc2htaXJ1bml2ZXJzaXR5Lm5ldC9jb3Vyc2VpbmZvL1BHQWRtaXNzaW9uL1ByZUxvZ2luL0FkbWlzc2lvbkZvcm0uYXNweCcgdGFyZ2V0PSdfbmV3JyA+IEFkbWlzc2lvbiBmb3JtIGZvciAxc3QgU2VtZXN0ZXIgKFNlc3Npb24gMjAxNSk8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvZWFkbWlzc2lvbnMvUHJlbG9naW4vRW50cmFuY2VIb21lLmFzcHgnIHRhcmdldD0nX25ldycgPiBBcHBsaWNhdGlvbiBGb3JtIGZvciBCQSBMTEIvQi5QaGFybWEvTExNIENvdXJzZXM8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvbWJhL3Bvc3Rsb2dpbi9kZWZhdWx0LmFzcHgnIHRhcmdldD0nX25ldycgPiBBcHBsaWNhdGlvbiBmb3JtIGZvciBNQkEvTUJBLUZpbmFuY2lhbCBNYW5hZ2VtZW50L01UVE08L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvZWFkbWlzc2lvbi9wb3N0bG9naW4vZGVmYXVsdC5hc3B4JyB0YXJnZXQ9J19uZXcnID4gQXBwbGljYXRpb24gZm9ybSBmb3IgUEcgRGlwbG9tYS9EaXBsb21hL0NlcnRpZmljYXRlcyBDb3Vyc2VzPC9hPjxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2VFbnRyYW5jZS9NcGhhcm1hL01waGFybWFBcHBGb3JtLmFzcHgnIHRhcmdldD0nX25ldycgPiBBcHBsaWNhdGlvbiBmb3JtIGZvciBNLlBoYXJtIENvdXJzZSAtIDIwMTU8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvbWNtcC9wb3N0bG9naW4vZGVmYXVsdC5hc3B4JyB0YXJnZXQ9J19uZXcnID4gQXBwbGljYXRpb24gZm9ybSBmb3IgQmFjaGVsb3JzIGluIEpvdXJuYWxpc20gJiBtYXNzIENvbW11bmljYXRpb24gaW4gR01DIG9mIEVkdWNhdGlvbixKYW1tdTwvYT48bGkgPjxhIGhyZWY9J2h0dHA6Ly9lZ292Lmthc2htaXJ1bml2ZXJzaXR5Lm5ldC9pbWJhL3Bvc3Rsb2dpbi9kZWZhdWx0LmFzcHgnIHRhcmdldD0nX25ldycgPiBBcHBsaWNhdGlvbiBmb3JtIGZvciBJTUJBPC9hPjxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2J0ZWNoL3Bvc3Rsb2dpbi9kZWZhdWx0LmFzcHgnIHRhcmdldD0nX25ldycgPiBBcHBsaWNhdGlvbiBmb3JtIGZvciBCVGVjaCBDb3Vyc2UgLSAyMDE1PC9hPjxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2VhZG1pc3Npb25zL1ByZWxvZ2luL1Jlc3VsdFN0YXR1cy5hc3B4JyB0YXJnZXQ9J19uZXcnID4gUmVzdWx0IFN0YXR1cyAgZm9yIEtVIEVudHJhbmNlIFRlc3QgMjAxNTwvYT48bGkgPjxhIGhyZWY9J2h0dHA6Ly9lZ292Lmthc2htaXJ1bml2ZXJzaXR5Lm5ldC9jb3Vyc2VpbmZvL1BHQWRtaXNzaW9uL1ByZUxvZ2luL0FkbWlzc2lvblRvM3JkU2VtLmFzcHgnIHRhcmdldD0nX25ldycgPiBBZG1pc3Npb24gZm9ybSBmb3IgM3JkIFNlbWVzdGVyIChDQkNTKSAtIEJhdGNoIDIwMTQ8L2E+PGxpID48YSAgaHJlZj0naHR0cDpBZG1pc3Npb25zLzE0Ny5wZGYnIHRhcmdldD0nX25ldyc+U2VsZWN0aW9uIE5vdGlmaWNhdGlvbiBOby4gMiAoU2Vzc2lvbiAyMDE1KTwvYSA+IDxsaSA+PGEgIGhyZWY9J2h0dHA6QWRtaXNzaW9ucy8xNTAucGRmJyB0YXJnZXQ9J19uZXcnPlNlbGVjdGlvbiBOb3RpZmljYXRpb24gbm8uIDMgKFNlc3Npb24gMjAxNSk8L2EgPiA8bGkgPjxhICBocmVmPSdodHRwOkFkbWlzc2lvbnMvMTQ5LnBkZicgdGFyZ2V0PSdfbmV3Jz5Db3JyaWdlbmR1bSAgVG8gIFNlbGVjdGlvbiBOb3RpZmljYXRpb24gTm8uMjwvYSA+IDxsaSA+PGEgIGhyZWY9J2h0dHA6QWRtaXNzaW9ucy8xNDYucGRmJyB0YXJnZXQ9J19uZXcnPlNlbGVjdGlvbiBOb3RpZmljYXRpb24gTm8uIDEgZm9yIHZhcmlvdXMgcHJvZ3JhbW1lcyAoU2Vzc2lvbiAyMDE1KTwvYSA+IDxsaSA+PGEgIGhyZWY9J2h0dHA6QWRtaXNzaW9ucy8xNTIucGRmJyB0YXJnZXQ9J19uZXcnPlNlbGVjdGlvbiBOb3RpZmljYXRpb24gTm8uIDQgZm9yIHZhcmlvdXMgcHJvZ3JhbW1lcyAoU2Vzc2lvbiAyMDE1KTwvYSA+IDxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2NvdXJzZWluZm8vTVBoaWwvUHJlTG9naW4vbXBoaWxhZG1pdGNhcmQuYXNweCcgdGFyZ2V0PSdfbmV3JyA+IEFkbWl0IENhcmRzIGZvciAzIFllYXIgSW50ZWdyYXRlZCBQaC5EIEVudHJhbmNlIFRlc3Q8L2E+PGxpID48YSBocmVmPSdtZXJpdGxpc3QyMDE1LmFzcHgnIHRhcmdldD0nX25ldycgPiBNZXJpdCBMaXN0cyBvZiBLVSBFbnRyYW5jZSBUZXN0IC0gMjAxNTwvYT48bGkgPjxhICBocmVmPSdodHRwOkFkbWlzc2lvbnMvMTM0LnBkZicgdGFyZ2V0PSdfbmV3Jz5BZG1pc3Npb24gTm90aWZpY2F0aW9uIC0gMjAxNTwvYSA+IDxsaSA+PGEgaHJlZj0nZW50a2V5cy5hc3B4JyB0YXJnZXQ9J19uZXcnID4gQW5zd2VyIEtleXMgb2YgS1UgRW50cmFuY2UgVGVzdCAtIDIwMTU8L2E+PGxpID48YSBocmVmPSdodHRwOi8va2FzaG1pcnVuaXZlcnNpdHkubmV0L3BhcGVycy5hc3B4JyB0YXJnZXQ9J19uZXcnID4gUHJldmlvdXMgRW50cmFuY2UgVGVzdCBQYXBlcnM8L2E+PGxpID48YSBocmVmPSdodHRwOi8va2FzaG1pcnVuaXZlcnNpdHkubmV0L2VzeWxsYWJ1cy5hc3B4JyB0YXJnZXQ9J19uZXcnID4gUEcgRW50cmFuY2UgVGVzdCBTeWxsYWJ1czwvYT48bGkgPjxhIGhyZWY9J2h0dHA6Ly9lZ292Lmthc2htaXJ1bml2ZXJzaXR5Lm5ldC9jb3Vyc2VpbmZvL3BnL3BnYWRtaXNzaW9ucy9wcmVsb2dpbi9QR0FkbWlzc2lvbkZvcm0zcmQuYXNweCcgdGFyZ2V0PSdfbmV3JyA+IEFkbWlzc2lvbiBmb3JtIEZvciBQRyAybmQgWWVhci8zcmQgWWVhci80dGggWWVhci81dGggWWVhcjwvYT48bGkgPjxhIGhyZWY9J3Jlc2VhcmNoc3lsbGFiaS5hc3B4JyB0YXJnZXQ9J19uZXcnID4gTS5QaGlsbCAvIFBoLkQgRW50cmFuY2UgU3lsbGFiaTwvYT5kAgUPFgIfAAW5Bw0KICAgICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2NvdXJzZWluZm8vbWlncmF0aW9uL3ByZWxvZ2luL2luc3RydWN0aW9ucy5hc3B4JyB0YXJnZXQ9J19uZXcnID4gQXBwbGljYXRpb24gZm9ybSBmb3IgSW50ZXItVW5pdmVyc2l0eSBNaWdyYXRpb248L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvY291cnNlaW5mby9taWdyYXRpb24vcHJlbG9naW4vUHJpbnRGb3JtLmFzcHgnIHRhcmdldD0nX25ldycgPiBTdGF0dXMgb2YgSW50ZXItVW5pdmVyc2l0eSBNaWdyYXRpb24gQ2VydGlmaWNhdGU8L2E+PGxpID48YSBocmVmPSdodHRwOi8vZWdvdi5rYXNobWlydW5pdmVyc2l0eS5uZXQvY291cnNlaW5mby9wZ3N0YXR1cy9kZWZhdWx0LmFzcHgnIHRhcmdldD0nX25ldycgPiBSZWdpc3RyYXRpb24gU3RhdHVzIEZvciBQRyBTdHVkZW50czwvYT48bGkgPjxhIGhyZWY9J2h0dHA6Ly9lZ292Lmthc2htaXJ1bml2ZXJzaXR5Lm5ldC9jb3Vyc2VpbmZvL3N0cmVhbWNoYW5nZS9wcmVsb2dpbi9zdHJlYW1jaGFuZ2VzdGF0dXMuYXNweCcgdGFyZ2V0PSdfbmV3JyA+IFN0cmVhbSBDaGFuZ2UgU3RhdHVzPC9hPjxsaSA+PGEgaHJlZj0naHR0cDovL2Vnb3Yua2FzaG1pcnVuaXZlcnNpdHkubmV0L2NvdXJzZWluZm8nIHRhcmdldD0nX25ldycgPiBTdHVkZW50IEFjYWRlbWljIERldGFpbHM8L2E+PGxpID48YSAgaHJlZj0naHR0cDpSZWdpc3RyYXRpb24vMTMucGRmJyB0YXJnZXQ9J19uZXcnPk9yZGVyIE5vLjIgcmVnYXJkaW5nIEludGVyIENvbGxlZ2UgTWlncmF0aW9uPC9hID4gPGxpID48YSAgaHJlZj0naHR0cDpSZWdpc3RyYXRpb24vMTIucGRmJyB0YXJnZXQ9J19uZXcnPk9yZGVyIE5vLjMgcmVnYXJkaW5nIEludGVyIENvbGxlZ2UgTWlncmF0aW9uPC9hID4gZAIHDxYCHwAFzHcNCiAgICAgICAgICAgICANCiAgICAgICAgICAgIDxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yODA0LnBkZicgdGFyZ2V0PSdfbmV3Jz5Db3JyaWdlbmR1bSB0byBTZWxlY3Rpb24gTm90aWZpY2F0aW9uIE5vLiAxIGZvciBBZG1pc3Npb24gMjAxNSA7IERhdGVkOjEwLTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjgwMy5wZGYnIHRhcmdldD0nX25ldyc+U2VsZWN0aW9uIE5vdGlmaWNhdGlvbiBOby4gNiBGb3IgVGVhY2hlciBDYW5kaWRhdGVzIChTZXNzaW9uIDIwMTUpOyBEYXRlZDo5LTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjgwMi5wZGYnIHRhcmdldD0nX25ldyc+Q29ycmlnZW5kdW0gdG8gU2VsZWN0aW9uICBOb3RpZmljYXRpb24gTm8uIDUgZm9yIDIwMTU7IERhdGVkOjktNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yODAxLnBkZicgdGFyZ2V0PSdfbmV3Jz5EYXRlIEV4dGVuZGVkIGZvciBzdWJtaXNzaW9uIG9mIEFwcGxpY2F0aW9uIEZvcm1zIGZvciBBZG1pc3Npb24gdG8gUEcgRGlwbG9tYSwgRGlwbG9tYSAmIENlcnRpZmljYXRlIENvdXJzZXMgKFNlc3Npb24gMjAxNSk7IERhdGVkOjktNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yODAwLnBkZicgdGFyZ2V0PSdfbmV3Jz5TZWxlY3Rpb24gTm90aWZpY2F0aW9uIE5vLiA1IGZvciBBZG1pc3Npb24gU2Vzc2lvbiAyMDE1IDsgRGF0ZWQ6OS03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuc291dGhhc2lhZm91bmRhdGlvbi5vcmcvdW1pa3MtYXJ0aWNsZS01MjI3OC5odG0nIHRhcmdldD0nX25ldycgPkF3YXJkIG9mIE1hZGFuamVldCBTaW5naCBHcm91cCBTY2hvbGFyc2hpcHMgZm9yIHRoZSBKb2ludCBNYXN0ZXLigJlzIERlZ3JlZSBQcm9ncmFtbWUgd2l0aCBLVSAmIEpNSTsgRGF0ZWQ6OC03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3OTgucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgU3VibWlzc2lvbiBvZiBBZG1pc3Npb24gZm9ybXMgZm9yIE1GQyAzcmQgU2VtZXN0ZXIgOyBEYXRlZDo4LTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc5Ny5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBTZWxlY3Rpb24gVHJpYWxzIGZvciBDcmlja2V0IFRlYW0gKERpcmVjdG9yYXRlIG9mIFBoeXNpY2FsIEVkdWNhdGlvbiAmIFNwb3J0cyk7IERhdGVkOjgtNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzk2LnBkZicgdGFyZ2V0PSdfbmV3Jz5DZW50cmUgTm90aWNlIGZvciBDb25kdWN0IG9mIEVudHJhbmNlIFRlc3QgZm9yIEIuVGVjaCBjb3Vyc2VzIG9mIEJhYmEgR2h1bGFtIFNoYWggQmFhZHNoYWggVW5pdmVyc2l0eS0gMjAxNTsgRGF0ZWQ6OC03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3OTUucGRmJyB0YXJnZXQ9J19uZXcnPkNpcmN1bGFyIGZyb20gQ2hpZWYgUHJvY3RvciByZWdhcmRpbmcgYW50aS1yYWdnaW5nIGFmZmlkYXZpdDsgRGF0ZWQ6OC03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3OTQucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgdGhlIHN0dWRlbnRzIHdobyBmYWlsZWQgdG8gc3VibWl0IHRoZWlyIEIuZWQgRXhhbWluYXRpb24gRm9ybSA7IERhdGVkOjgtNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzkzLnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIENvdW5zZWxpbmcgZm9yIEdlbmVyaWMgYW5kIE9wZW4gRWxlY3RpdmVzIGZvciB0aGUgc3R1ZGVudCBvZiBNQSBNYXNzIENvbW11bmljYXRpb24gJiBKb3VybmFsaXNtIDFzdCBTZW1lc3RlciAyMDE1LTIwMTY7IERhdGVkOjctNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzkyLnBkZicgdGFyZ2V0PSdfbmV3Jz5EYXRlIEV4dGVuZGVkIGZvciBTdWJtaXNzaW9uIG9mIEFwcGxpY2F0aW9uIEZvcm0gZm9yIEJBTExCLCBCUEhBUk0gYW5kIExMTS0yMDE1IDsgRGF0ZWQ6Ny03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3OTEucGRmJyB0YXJnZXQ9J19uZXcnPkRhdGUgRXh0ZW5kZWQgZm9yIFN1Ym1pc3Npb24gb2YgQXBwbGljYXRpb24gRm9ybSBmb3IgTUJBLCBNQkEgKEZpbmFuY2lhbCBNYW5hZ2VtZW50KSwgSU1CQSwgQi5UZWNoIGFuZCBNLlBoYXJtOyBEYXRlZDo3LTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc5MC5wZGYnIHRhcmdldD0nX25ldyc+SW50ZXItVW5pdmVyc2l0eSAvIENvbGxlZ2UgSHVzbi1lLU5hYXQgQ29tcGV0aXRpb24gb3JnYW5pc2VkIGJ5IERTVzsgRGF0ZWQ6Ni03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3ODkucGRmJyB0YXJnZXQ9J19uZXcnPk9yZGVyIE5vLjMgcmVnYXJkaW5nIEludGVyIENvbGxlZ2UgTWlncmF0aW9uOyBEYXRlZDo2LTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc4OC5wZGYnIHRhcmdldD0nX25ldyc+RGF0ZSBFeHRlbmRlZCBmb3IgU3VibWlzc2lvbiBvZiBvbmxpbmUgQWRtaXNzaW9uIGZvcm1zIGZvciBCYWNoZWxvciBvZiBBcnRzIGluIEpvdXJuYWxpc20gJiBNYXNzIENvbW11bmljYXRpb247IERhdGVkOjQtNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzg3LnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIFN0dWRlbnRzIHByb3Zpc2lvbmFsbHkgc2VsZWN0ZWQgZm9yIGFkbWlzc2lvbiB0byBJbnRlZ3JhdGVkIFBoLkQgcHJvZ3JhbW1lIGluIHRoZSBEZXBhcnRtZW50cyBvZiBIaXN0b3J5LCBNRVJDLCBQc3ljaG9sb2d5IGFuZCBTb2NpYWwgV29yazsgRGF0ZWQ6NC03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3ODYucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgSG9zdGVsIChHaXJscykgYWNjb21tb2RhdGlvbiBmb3IgdGhlIEFjYWRlbWljIFNlc3Npb24gMjAxNS0xNjsgRGF0ZWQ6NC03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3ODUucGRmJyB0YXJnZXQ9J19uZXcnPkRhdGUgRXh0ZW5kZWQgZm9yIFN1Ym1pc3Npb24gb2YgYWJzdHJhY3RzIGFuZCByZWdpc3RyYXRpb24gZm9yIHRoZSB0d28gZGF5IG5hdGlvbmFsIHN5bXBvc2l1bSBlbnRpdGxlZCBCaW90ZWNobm9sb2dpY2FsIEludGVydmVudGlvbnMgZm9yIHVwZ3JhZGF0aW9uIG9mIEZvb2QgUHJvZHVjdHMgb2YgSW5kaWE7IERhdGVkOjQtNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzg0LnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIFJldmlzZWQgRmVlIFN0cnVjdHVyZSBmb3IgdGhlIE0uU2MgR2VvLUluZm9ybWF0aWNzOyBEYXRlZDo0LTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc4My5wZGYnIHRhcmdldD0nX25ldyc+UmUtU2NoZWR1bGUgSW50ZXJ2aWV3IE5vdGlmaWNhdGlvbiBmb3IgdGhlIFBvc3Qgb2YgQ29udHJhY3R1YWwgTGVjdHVyZXIgYXZhaWxhYmxlIGluIHRoZSBCdXNpbmVzcyBTY2hvb2wsIChNRkMvTUJBIEZpbmFuY2lhbCBNYW5hZ2VtZW50KTsgRGF0ZWQ6My03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3ODIucGRmJyB0YXJnZXQ9J19uZXcnPkFkbWlzc2lvbiBOb3RpZmljYXRpb24gTm8uOSBmb3IgU2VsZi1maW5hbmNlZCBzZWF0cyAoU2Vzc2lvbiAyMDE1KTsgRGF0ZWQ6My03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3ODEucGRmJyB0YXJnZXQ9J19uZXcnPkFkbWlzc2lvbiBOb3RpZmljYXRpb24gZm9yIEIuRWQgUHJvZ3JhbW1lIGluIFByaXZhdGUgQ29sbGVnZXMgb2YgS2FzaG1pciBEaXZpc2lvbiBTZXNzaW9uIDIwMTU7IERhdGVkOjItNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzgwLnBkZicgdGFyZ2V0PSdfbmV3Jz5Db3Vuc2VsaW5nIE5vdGlmaWNhdGlvbiBOby4ybmQgZm9yIEFkbWlzc2lvbiB0byBJbnRlZ3JhdGVkIFBoLkQgcHJvZ3JhbW1lIGluIE1hcmthei1pLU5vb3IsIENlbnRyZSBmb3IgU2hhaWtoLXVsIEFsYW0gU3R1ZGllczsgRGF0ZWQ6Mi03LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3NzkucGRmJyB0YXJnZXQ9J19uZXcnPkFkbWlzc2lvbiBOb3RpZmljYXRpb24gZnJvbSBJbnN0aXR1dGUgb2YgRm9yZWlnbiBMYW5ndWFnZXMgOyBEYXRlZDoyLTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc3OC5wZGYnIHRhcmdldD0nX25ldyc+SW50ZXJ2aWV3IE5vdGlmaWNhdGlvbiBmb3IgdGhlIGVuZ2FnZW1lbnQgb2YgQ29udHJhY3R1YWwgTGVjdHVyZXJzIGluIHRoZSBzdWJqZWN0IG9mIExpYnJhcnkgJiBJbmZvcm1hdGlvbiBTY2llbmNlOyBEYXRlZDoyLTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc3Ny5wZGYnIHRhcmdldD0nX25ldyc+Rm91ci1Nb250aOKAmSBTa2lsbCBEZXZlbG9wbWVudCBUcmFpbmluZyBQcm9ncmFtbWUgKFNEVFApIGVudGl0bGVkIOKAnEF1dG9tb2JpbGUgVHJhaW5pbmctIEJhc2ljLCBBZHZhbmNlZCAmIERpYWdub3N0aWM7IERhdGVkOjItNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzc2LnBkZicgdGFyZ2V0PSdfbmV3Jz5TZWxlY3Rpb24gTm90aWZpY2F0aW9uIE5vLiA0IGZvciBBZG1pc3Npb24gdG8gMjAxNSBzZXNzaW9uOyBEYXRlZDoxLTctMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc3NS5wZGYnIHRhcmdldD0nX25ldyc+Q291bnNlbGxpbmcgTm90aWZpY2F0aW9uIGZvciBjYW5kaWRhdGVzIHdobyBoYXZlIGFwcGVhcmVkIGluIHRoZSBFbnRyYW5jZSBUZXN0IGZvciBhZG1pc3Npb24gdG8gSG9tZSBTY2llbmNlIDIwMTU7IERhdGVkOjEtNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzc0LnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIEtVIEVudHJhbmNlIFRlc3QgMjAxNSBCLlBoYXJtLCBCQS1MTEIgYW5kIExMLk07IERhdGVkOjEtNy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzczLnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gZnJvbSBEZXB0dCBvZiBQb2xpdGljYWwgU2NpZW5jZSByZWdhcmRpbmcgRGF0ZSBFeHRlbmRlZCBmb3Igc3VibWlzc2lvbiBvZiBBZG1pc3Npb24gL1JlZ2lzdHJhdGlvbiBmb3JtcyBmb3IgM3JkIFNlbWVzdGVyIFN0dWRlbnRzICYgSW50ZWdyYXRlZCBNLlBoaWwvUGguRCBTY2hvbGFycyA7IERhdGVkOjI5LTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc3MS5wZGYnIHRhcmdldD0nX25ldyc+U2VsZWN0aW9uIE5vdGlmaWNhdGlvbiBOby4gMyBmb3IgQWRtaXNzaW9uIHRvIDIwMTUgc2Vzc2lvbjsgRGF0ZWQ6MjktNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzcwLnBkZicgdGFyZ2V0PSdfbmV3Jz5TZWxlY3Rpb24gTm90aWZpY2F0aW9uIE5vLiAyIGZvciBBZG1pc3Npb24gdG8gMjAxNSBzZXNzaW9uOyBEYXRlZDoyNy02LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3NjkucGRmJyB0YXJnZXQ9J19uZXcnPlNlbGVjdGlvbiBOb3RpZmljYXRpb24gTm8uIDIgKFNlc3Npb24gMjAxNSk7IERhdGVkOjI2LTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc2OC5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBQZXJpb2QgU3BlbnQgYnkgVGVhY2hlcnMgb24gcHVyc3VpbmcgUmVzZWFyY2ggRGVncmVlcyBvbiBQYXJ0IFRpbWUgQmFzaXMgdG8gYmUgQ291bnRlZCBhcyBUZWFjaGluZyBFeHBlcmllbmNlIGZvciB0aGUgUG9zdCBvZiBBc3NvY2lhdGUgUHJvZmVzc29yczsgRGF0ZWQ6MjYtNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzY3LnBkZicgdGFyZ2V0PSdfbmV3Jz5Db3JyZWlnZW5kdW0gZm9yIEFkbWlzc2lvbiBOb3RpZmljYXRpb24gTm8uIDc7IERhdGVkOjI2LTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc2Ni5wZGYnIHRhcmdldD0nX25ldyc+U2VsZWN0aW9uIE5vdGlmaWNhdGlvbiBOby4gMSBmb3IgQWRtaXNzaW9uIHRvIDIwMTUgc2Vzc2lvbjsgRGF0ZWQ6MjYtNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzY1LnBkZicgdGFyZ2V0PSdfbmV3Jz5DaXJjdWxhciByZWdhcmRpbmcgRGVwYXJ0bWVudCBvZiBMaWJyYXJ5ICYgSW5mb3JtYXRpb24gU2NpZW5jZXMgU2hpZnRlZCBmcm9tIHRoZSBGYWN1bHR5IG9mIEFydHMgdG8gRmFjdWx0eSBvZiBTb2NpYWwgU2NpZW5jZXMgOyBEYXRlZDoyNS02LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3NjQucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgQ3JpdGVyaWEgZm9yIEFzc2lzdGFudCBEaXJlY3RvciwgRElRQS9Bc3Npc3RhbnQgUmVnaXN0cmFyIGFuZCBFcXVpdmFsZW50IE9mZmljZXIgbGV2ZWwgcG9zaXRpb25zOyBEYXRlZDoyNS02LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2RlZmF1bHQuYXNweCcgdGFyZ2V0PSdfbmV3JyA+UHJvZi4gTXVzYWRpcSBBLiBTYWhhZiBoYXMgYXNzdW1lZCB0aGUgY2hhcmdlIG9mIFJlZ2lzdHJhcixLVTsgRGF0ZWQ6MjQtNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzU1LnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIGV4YW1pbmF0aW9uIG9mIFNvY2lvbG9neSBCIGFuZCBFbmdsaXNoIExpdGVyYXR1cmUgQiBvZiBCRyBJSUkgeWVhciAoU2Vzc2lvbiBKdW5lLSBKdWx5LCAyMDE1KSBzY2hlZHVsZWQgdG8gYmUgaGVsZCBvbiAwOS0wNy0yMDE1LCB3aWxsIG5vdyBiZSBoZWxkIG9uIDExLTA3LTIwMTU7IERhdGVkOjI0LTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc1My5wZGYnIHRhcmdldD0nX25ldyc+QWRtaXNzaW9uIE5vdGlmaWNhdGlvbiBmb3IgUEcgRGlwbG9tYSwgRGlwbG9tYSAmIENlcnRpZmljYXRlIENvdXJzZXM7IERhdGVkOjIzLTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc1Mi5wZGYnIHRhcmdldD0nX25ldyc+QWRtaXNzaW9uIE5vdGlmaWNhdGlvbiBmb3IgTUJBLCBNQkEgKEZpbmFuY2lhbCBNYW5hZ2VtZW50KSwgTVRUTSwgSU1CQSAoQkJBLU1CQSkgWzUgeWVhciBpbnRlZ3JhdGVkIHByb2dyYW1dLCBNLlBoYXJtIGFuZCBCLlRlY2g7IERhdGVkOjIzLTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjc0Mi5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBTdHJlYW0gQ2hhbmdlIG9mIFUuRyBDb3Vyc2VzOyBEYXRlZDoxNi02LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3MzgucGRmJyB0YXJnZXQ9J19uZXcnPkRhdGUgU2hlZXQgZm9yIEJpLUFubnVhbCBFeGFtaW5hdGlvbiBvZiBCLkEvQi5TYy9CLkNvbS9CLkNvbSBJSSBZZWFyIChTZXNzaW9uIEp1bmUvSnVseSwgMjAxNSkgZm9yIHRoZSBDYW5kaWRhdGVzIG9mIERpc3RyaWN0IExlaDsgRGF0ZWQ6MTUtNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzM2LnBkZicgdGFyZ2V0PSdfbmV3Jz5BZG1pc3Npb24gTm90aWZpY2F0aW9uIGZvciBCYWNoZWxvciBvZiBBcnRzIGluIOKAnEpvdXJuYWxpc20gJiBNYXNzIENvbW11bmljYXRpb27igJ0sIHNlc3Npb24gMjAxNS0xNiA7IERhdGVkOjE1LTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjczMy5wZGYnIHRhcmdldD0nX25ldyc+Qi5FZCBBZG1pc3Npb24gTm90aWZpY2F0aW9uLTIwMTUtMTYgZm9yIFAuRy4gRGVwYXJ0bWVudCBvZiBFZHVjYXRpb247IERhdGVkOjEyLTYtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjcyNy5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIGZyb20gRGVwYXJ0bWVudCBvZiBGb29kIFNjaWVuY2UgJiBUZWNobm9sb2d5IHJlZ2FyZGluZyBUd28tV2VlayBUcmFpbmluZyBQcm9ncmFtbWUgb24gRm9vZCBQcm9jZXNzaW5nIDsgRGF0ZWQ6MTEtNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzIyLnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIFN1YmplY3QgQ29tYmluYXRpb24gaW4gQXJ0cywgU2NpZW5jZSwgJiBjb21tZXJjZSBzdHJlYW1zIGF0IFVuZGVyLWdyYWR1YXRlIGxldmVsICA7IERhdGVkOjktNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzA4LnBkZicgdGFyZ2V0PSdfbmV3Jz5BZG1pc3Npb24gTm90aWZpY2F0aW9uIChVbmRlciBTZW1lc3RlciBTY2hlbWUpIGZvciBVbmRlci1HcmFkdWF0ZSAgMXN0IFNlbWVzdGVyIG9mIDIwMTU7IERhdGVkOjItNi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNzAwLnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIEtVIEFkbWlzc2lvbiAgLSAyMDE1OyBEYXRlZDozMC01LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI2OTMucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgQWRtaXNzaW9uIFBvbGljeSAyMDE1OyBEYXRlZDozMC01LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI2MzkucGRmJyB0YXJnZXQ9J19uZXcnPkFkbWlzc2lvbiBOb3RpZmljYXRpb24gZm9yIGFkbWlzc2lvbiB0byBhbGwgUEcgUHJvZ3JhbW1lcyBmb3IgdGhlIHNlc3Npb24gMjAxNTsgRGF0ZWQ6Mi01LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI2MzgucGRmJyB0YXJnZXQ9J19uZXcnPkNpcmN1bGFyIHJlZ2FyZGluZyBzb21lIERlcHR0cy9SZXNlYXJjaCBJbnN0aXR1dGVzL2NlbnRlcnMgaGF2ZSBlbmdhZ2VkIHJlc2VhcmNoIHNjaG9sYXJzLCByZWdpc3RlciBmb3IgcHVyc3VpdCBvZiBNLlBoaWwvUGguRCBkZWdyZXMgYXMgZnVsbC10aW1lIENvbnRyYWN0dWFsIGxlY3R1cmVzIDsgRGF0ZWQ6Mi01LTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI2MzYucGRmJyB0YXJnZXQ9J19uZXcnPkNpcmN1bGFyIGZyb20gRGVwYXJ0bWVudCBvZiBTdHVkZW50cyBXZWxmYXJlIGZvciBhbGwgSGVhZHMvRGlyZWN0b3JzL2RlcHR0L0luc3R0OyBEYXRlZDoxLTUtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjYyMy5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBVbml2ZXJzaXR5IERlcGFydG1lbnRzL0NvbGxlZ2VzLyBEaXJlY3RvcmF0ZXMgQ29uY2VybmVkIHNoYWxsIGFwcGx5IGZvciBpbnRyb2R1Y3Rpb24gb2YgTmV3IENvdXJzZXMvcHJvZ3JhbW1lcyA7IERhdGVkOjI3LTQtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjUzNC5wZGYnIHRhcmdldD0nX25ldyc+TmF0aW9uYWwgU3ltcG9zaXVtIG9uIEJpb3RlY2hub2xvZ2ljYWwgSW50ZXJ2ZW50aW9ucyBmb3IgVXBncmFkYXRpb24gb2YgRm9vZCBQcm9kdWN0cyBvZiBJbmRpYSAoQklVRlBJKSA5LTEwIFNlcHRlbWJlciwgMjAxNTsgRGF0ZWQ6MjctMy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNTIwLnBkZicgdGFyZ2V0PSdfbmV3Jz5DaXJjdWxhciByZWdhcmRpbmcgUmVzZWFyY2ggZ3JvdXBzIGluIHZhcmlvdXMgUC5HIERlcHR0cy9DZW50cmUvSW5zdGl0dXRlcyBhcmUgaW52aXRlZCB0byBzdWJtaXQgYSBwZWRhZ29naWNhbCByZXN1bWUgb2YgdGhlaXIgcmVzZWFyY2ggd29yazsgRGF0ZWQ6MjUtMy0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yNDMxLnBkZicgdGFyZ2V0PSdfbmV3Jz5GaW5hbCBCdWxsZXRpbiByZWdhcmRpbmcgSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIOKAnExpdGVyYXJ5IExlZ2FjeSBvZiBJbmRvLUNlbnRyYWwgQXNpYSwgQWZnaGFuaXN0YW4gYW5kIElyYW7igJ0gOyBEYXRlZDozLTMtMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjM4OS5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBDZW50cmFsIFNlY3RvciBTY2hvbGFyc2hpcCBTY2hlbWUgZm9yIENvbGxlZ2VzICYgVW5pdmVyc2l0eSBTdHVkZW50cyA7IERhdGVkOjIxLTItMjAxNTwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjM3OS5wZGYnIHRhcmdldD0nX25ldyc+Q2lyY3VsYXIgcmVnYXJkaW5nIFNtYXJ0IFNhdmVyIEZhY2lsaXR5IFNjaGVtZSBmb3Igb3BlcmF0aW9uYWwgR1AgRnVuZCBBY2NvdW50IDsgRGF0ZWQ6MTktMi0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yMzY0LnBkZicgdGFyZ2V0PSdfbmV3Jz5BcHBsaWNhdGlvbiBGb3JtIC8gVW5kZXJ0YWtpbmcgRm9ybSBmb3IgRWR1Y2F0aW9uYWwgVG91ciBvcmdhbmlzZWQgYnkgRFNXOyBEYXRlZDoxNC0yLTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzIzMTcucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgdGhlIHNjcmVlbmluZyBvZiB0aGUgYXBwbGljYXRpb24gZm9ybXMgZm9yIGFwcG9pbnRtZW50LyBwcm9tb3Rpb24vcGxhY2VtZW50IG9mIHRoZSB0ZWFjaGVyczsgRGF0ZWQ6MjctMS0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yMjkyLnBkZicgdGFyZ2V0PSdfbmV3Jz5DaXJjdWxhciBmb3IgQWRtaXNzaW9uIHByb2Nlc3MtMjAxNTsgRGF0ZWQ6MjAtMS0yMDE1PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yMjg3LnBkZicgdGFyZ2V0PSdfbmV3Jz5OYXRpb25hbCBTZW1pbmFyIG9uIElzc3VlcyByZWxhdGVkIHRvIHRoZSBMaWJyYXJ5IGFuZCBJbmZvcm1hdGlvbiBTY2llbmNlIFByb2Zlc3Npb24gaW4gdGhlIE5vcnRoLVdlc3Rlcm4gUmVnaW9uIG9mIEluZGlhOyBEYXRlZDoxNS0xLTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzIyNjkucGRmJyB0YXJnZXQ9J19uZXcnPkNhbGwgZm9yIFBhcGVyIHRvIDUtRGF5IEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSDigJxMaXRlcmFyeSBMZWdhY3kgb2YgSW5kby1DZW50cmFsIEFzaWEsIEFmZ2hhbmlzdGFuIGFuZCBJcmFu4oCdOyBEYXRlZDoxMC0xLTIwMTU8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzIyNDYucGRmJyB0YXJnZXQ9J19uZXcnPlN0YXR1dGVzIGdvdmVybmluZyBhZG1pc3Npb24gJiBhd2FyZCBvZiBpbnRlZ3JhdGVkIGRvY3RvciBvZiBwaGlsb3NvcGh5IChQaC5EKTsgRGF0ZWQ6MzAtMTItMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjIxNC5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBRdWVzdGlvbiBQYXBlciBwYXR0ZXJuIGZvciBCRyAxc3QgeWVhciA7IERhdGVkOjQtMTItMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjE4NS5wZGYnIHRhcmdldD0nX25ldyc+RXhhbWluYXRpb24gcmVsYXRlZCBpbnN0cnVjdGlvbnMgZm9yIHN0dWRlbnRzOyBEYXRlZDoxOC0xMS0yMDE0PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yMTc3LnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIG5ldyBwYXltZW50IHByb2NlZHVyZSBmb3IgRXhhbWluYXRpb24sIEV2YWx1YXRpb24sIHJlLUV2YWx1YXRpb24sIFNldHRpbmcgb2YgUXVlc3Rpb24gcGFwZXI7IERhdGVkOjEzLTExLTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzIxMzAucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiBmb3IgSGVhZCBvZiBhbGwgUC5HLkRlcHR0cywgVW5pdmVyc2l0eSBvZiBLYXNobWlyLC8gUHJpbmNpcGFscyBvZiBBZmZpbGlhdGVkLyBDb25zdGl0dWVudCBDb2xsZWdlcyByZWdhcmRpbmcgU3VibWlzc2lvbiBvZiBJbnRlcm5hbCBBc3Nlc3NtZW50L01pZHRlcm0gQXdhcmRzOyBEYXRlZDoxOC0xMC0yMDE0PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8yMTAwLnBkZicgdGFyZ2V0PSdfbmV3Jz5TeWxsYWJ1cyBmb3IgMXN0IGFuZCAybmQgU2VtZXN0ZXIgb2YgQlRlY2ggcHJvZ3JhbS0yMDE0OyBEYXRlZDoxMS0xMC0yMDE0PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8xOTQzLnBkZicgdGFyZ2V0PSdfbmV3Jz5TeWxsYWJ1cyBmb3IgQi5FL0IuVGVjaCBsYXRlcmFsIEVudHJ5IFRlc3Q7IERhdGVkOjctOC0yMDE0PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8xOTQwLnBkZicgdGFyZ2V0PSdfbmV3Jz5Ob3RpZmljYXRpb24gcmVnYXJkaW5nIHNpbmdsZSBwYXBlciBzY2hlbWUgZm9yIFVHIENvdXJzZXM7IERhdGVkOjctOC0yMDE0PC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8xNjQ0LnBkZicgdGFyZ2V0PSdfbmV3Jz5HdWlkZWxpbmVzIGZvciBBbGxvdG1lbnQgb2YgUmVzaWRlbnRpYWwgQWNjb21tb2RhdGlvbjsgRGF0ZWQ6Ni01LTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzE2MzUucGRmJyB0YXJnZXQ9J19uZXcnPkNpcmN1bGFyIHJlZ2FyZGluZyB0aGUgRGV2ZWxvcG1lbnQvVXBkYXRpbmcvVHJhaW5pbmcgdGhlIERlcGFydG1lbnRhbCBXZWJzaXRlOyBEYXRlZDo1LTUtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMTU2OS5wZGYnIHRhcmdldD0nX25ldyc+RXh0ZW5zaW9uIGluIGxhc3QgRGF0ZSBmb3IgQWR2ZXJ0aXNlbWVudCBOb3RpY2UgTm8uIEkgb2YgMjAxNCBkYXRlZCAwMS0wMy0yMDE0OyBEYXRlZDoxOS00LTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzE0MzIucGRmJyB0YXJnZXQ9J19uZXcnPk5vdGlmaWNhdGlvbiByZWdhcmRpbmcgQ2hhbmdlIG9mIFN0cmVhbS9TdWJqZWN0cyBvZiBVRyBDb3Vyc2VzOyBEYXRlZDoxMC0zLTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzE0MjAucGRmJyB0YXJnZXQ9J19uZXcnPkFkdmVydGlzZW1lbnQgTm90aWNlIE5vLjEgb2YgMjAxNCBmb3IgdGhlIHZhcmlvdXMgcG9zdHMuIERhdGVkOiAwMS0wMy0yMDE0OyBEYXRlZDo1LTMtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMTM3OC5wZGYnIHRhcmdldD0nX25ldyc+SW5zdHJ1Y3Rpb25zIGZvciBjYW5kaWRhdGVzIGFwcGVhcmluZyBmb3Igd3JpdHRlbiB0ZXN0IChSZWNydWl0bWVudCkgOyBEYXRlZDo3LTItMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMTIyNC5wZGYnIHRhcmdldD0nX25ldyc+Q2lyY3VsYXIgcmVnYXJkaW5nIERpZ2l0aXphdGlvbiBvZiBSYXJlIGFuZCBDb3B5cmlnaHQgRnJlZSBCb29rcyAocHJlLTE5NTQgcHVibGljYXRpb24pOyBEYXRlZDoyNy0xMS0yMDEzPC9hPjxsaT48YSBocmVmPSdodHRwOmV2ZW50cy8xMjIyLnBkZicgdGFyZ2V0PSdfbmV3Jz5DaXJjdWxhciBhYm91dCBhdXRoZW50aWNpdHkvcmVjb2duaXRpb24gb2YgY291cnNlcy9kZWdyZWVzIGF3YXJkZWQgYnkgdGhlIFVuaXZlcnNpdGllcyBvdXRzaWRlIHRoZSBTdGF0ZSBvZiBKJks7IERhdGVkOjIyLTExLTIwMTM8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzEyMTgucGRmJyB0YXJnZXQ9J19uZXcnPmUtY29udGVudCBiYXNlZCBvbiB1bmRlcmdyYWR1YXRlIHN5bGxhYnVzIG9mIEJvdGFueSBoYXMgYmVlbiBsYXVuY2hlZCBhdCBTQUtTSEFUIHBvcnRhbCBvZiBNaW5pc3RyeSBvZiBIdW1hbiBSZXNvdXJzZSBEZXZlbG9wbWVudCAoTUhSRCk7IERhdGVkOjIxLTExLTIwMTM8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzg4OS5wZGYnIHRhcmdldD0nX25ldyc+Q2lyY3VsYXIgcmVnYXJkaW5nIFZpc2l0aW5nIEhvdXJzIGluIEV4YW1pbmF0aW9uIEJsb2NrIG9mIHRoZSBVbml2ZXJzaXR5OyBEYXRlZDozMC01LTIwMTM8L2E+PGxpPjxhIGhyZWY9J2h0dHBzOi8vd3d3LnByb3F1ZXN0LmNvbS90cmlhbHMvdHJpYWxTdW1tYXJ5LmFjdGlvbj92aWV3PXN1YmplY3QmdHJpYWxCZWFuLnRva2VuPUZKODZFUU9XTE9BWTM3RjY5TUwyJyB0YXJnZXQ9J19uZXcnID5Qcm9RdWVzdCBIaXN0b3JpY2FsIE5ld3NwYXBlcnM6IFRoZSBUaW1lcyBvZiBJbmRpYSAoMTgzOC0yMDAzKTsgRGF0ZWQ6MjYtMTItMjAxMjwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMzc3LnBkZicgdGFyZ2V0PSdfbmV3Jz5HdWlkZWxpbmVzICBmb3IgSXNzdWFuY2Ugb2YgQ2VydGlmaWNhdGVzOyBEYXRlZDoxMS0xLTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzM0Ny5wZGYnIHRhcmdldD0nX25ldyc+RXhhbWluYXRpb24gUmVsYXRlZCBHdWlkZWxpbmVzIGZvciB0aGUgU3R1ZGVudHM7IERhdGVkOjExLTEtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMzI0LnBkZicgdGFyZ2V0PSdfbmV3Jz5TdWJtaXNzaW9uIG9mIE9ubGluZSBBcHBsaWNhdGlvbiBGb3JtcyBmb3IgTWlncmF0aW9uIGNlcnRpZmljYXRlOyBEYXRlZDoxMS0xLTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI3Ny5wZGYnIHRhcmdldD0nX25ldyc+QXBwZWFsIGZvciBLVUFBIE1lbWJlcnNoaXA7IERhdGVkOjExLTEtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjQ3LnBkZicgdGFyZ2V0PSdfbmV3Jz5JbXBvcnRhbnQgSW5zdHJ1Y3Rpb25zIGZvciBFdmFsdWF0b3JzOyBEYXRlZDoxMS0xLTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzI0Ni5wZGYnIHRhcmdldD0nX25ldyc+SW1wb3J0YW50IGd1aWRlbGluZXMgZm9yIFBhcGVyIFNldHRlcnM7IERhdGVkOjExLTEtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvMjM5LnBkZicgdGFyZ2V0PSdfbmV3Jz5MaXN0IG9mIGxpZmUgbWVtYmVycyBvZiBLYXNobWlyIFVuaXZlcnNpdHkgQWx1bWluaSBBc3NvY2lhdGlvbiAoS1VBQSkgOyBEYXRlZDoxMS0xLTIwMTQ8L2E+PGxpPjxhIGhyZWY9J2h0dHA6ZXZlbnRzLzE3Ni5wZGYnIHRhcmdldD0nX25ldyc+Tm90aWZpY2F0aW9uIHJlZ2FyZGluZyBhbWVuZG1lbnQgaW4gU3RhdHV0ZXMgb2YgUHJlc2VydmF0aW9uIG9mIE1hcmtlZCBBbnN3ZXIgQm9va3M7IERhdGVkOjExLTEtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvNDQucGRmJyB0YXJnZXQ9J19uZXcnPmUtR292ZXJuYW5jZSBTeXN0ZW0gUHJhY3RpY2VzIG9mIHRoZSBVbml2ZXJzaXR5IG9mIEthc2htaXI7IERhdGVkOjExLTEtMjAxNDwvYT48bGk+PGEgaHJlZj0naHR0cDpldmVudHMvNDMucGRmJyB0YXJnZXQ9J19uZXcnPk1vZGFsaXRpZXMgZm9yIHBsYWNlbWVudC9wcm9tb3Rpb25zIG9mIFRlYWNoZXJzICYgb3RoZXIgQWNhZGVtaWMgU3RhZmYgdW5kZXIgQ2FyZWVyIEFkdmFuY2VtZW50IFNjaGVtZSBpbiAgdGhlIFVuaXZlcnNpdHkgb2YgS2FzaG1pcjsgRGF0ZWQ6MTEtMS0yMDE0PC9hPmQCCQ8WAh8ABawGDQogICAgICAgICAgICANCiAgICAgICAgICA8bGkgY2xhc3M9J2NsZWFyJyB0aXRsZT0nTmF0aW9uYWwgU3ltcG9zaXVtIG9uIEJpb3RlY2hub2xvZ2ljYWwgSW50ZXJ2ZW50aW9ucyBmb3IgVXBncmFkYXRpb24gb2YgRm9vZCBQcm9kdWN0cyBvZiBJbmRpYSAoQklVRlBJKSA5LTEwIFNlcHRlbWJlciwgMjAxNSc+PHRpbWUgZGF0ZXRpbWU9JzIwMTUtMDktMDlUMDMrMjM6MTcnIGNsYXNzPSdkYXRlLWljb24nPjxzdHJvbmc+U2VwPC9zdHJvbmc+IDxlbT4wOTwvZW0+PC90aW1lPiA8ZGl2PiA8cCBjbGFzcz0nbm9zcGFjZSB0aW1lcyBmb250LW1lZGl1bSc+PGEgICBocmVmPSdodHRwOkZvcnRoQ29taW5nRXZlbnRzLzUxLnBkZicgdGFyZ2V0PSdfbmV3Jz5OYXRpb25hbCBTeW1wb3NpdW0uLi48L2E+PC9wPiA8cCBjbGFzcz0nbm9zcGFjZSc+TmF0aW9uYWwgU3ltcG9zaXVtIG9uIEJpb3RlY2hub2xvZ2ljYWwgSW50ZXJ2Li4uPC9wPjwvZGl2PjwvbGk+IDxsaSBjbGFzcz0nY2xlYXInIHRpdGxlPScxMXRoIEpLIFNjaWVuY2UgQ29uZ3Jlc3MnPjx0aW1lIGRhdGV0aW1lPScyMDE1LTEwLTEyVDAzKzIzOjE3JyBjbGFzcz0nZGF0ZS1pY29uJz48c3Ryb25nPk9jdDwvc3Ryb25nPiA8ZW0+MTI8L2VtPjwvdGltZT4gPGRpdj4gPHAgY2xhc3M9J25vc3BhY2UgdGltZXMgZm9udC1tZWRpdW0nPjxhIGhyZWY9J2h0dHA6Ly9qa3NjLnVvay5lZHUuaW4vJyAgdGFyZ2V0PSdfbmV3JyA+IDExdGggSksgU2NpZW5jZSBDby4uLjwvYT48L3A+IDxwIGNsYXNzPSdub3NwYWNlJz4xMXRoIEpLIFNjaWVuY2UgQ29uZ3Jlc3M8L3A+PC9kaXY+PC9saT5kZNzTcvUD7PBJ76PwGFCq7hmEBtYnY6UcjkNtZjNM6nEn" />
+</div>
+
+    <div class="wrapper row4">
+        <div role="main" class="container">
+            <!-- ################################################################################################ -->
+            <div id="homepage">
+                <!-- ########################################################################################## -->
+                <!-- ########################################################################################## -->
+                <!-- ########################################################################################## -->
+                <div class="col-3-4 first">
+                    <!-- ################################################################################################ -->
+                    <section class="clear">
+          <h2><span>University of Kashmir</span></h2>
+          <div class="col-1-2 first"><img class="boxholder" src="images/demo/vice-chancellor2.jpg" alt=""></div>
+          <div class="col-1-2">
+            <h3>About Us</h3>
+            <p style="text-align:justify">The University of Jammu and Kashmir was founded in the year 1948. 
+            In the year 1969 it was bifurcated into two full-fledged Universities: University of Kashmir at
+             Srinagar and University of Jammu at Jammu. The University of Kashmir is situated at Hazratbal 
+             in Srinagar. It is flanked by the world famous Dal Lake on its eastern side and Nigeen Lake on 
+             the western side. The Main Campus of the University spread over 247 acres of   </p>
+            <br />
+            <p><a href="AboutUok.aspx" class="button small red">Read More &raquo;</a></p>
+          </div>
+        </section>
+                    <!-- ################################################################################################ -->
+                    <div class="clear">
+                    </div>
+                    <!-- ################################################################################################ -->
+                    <section class="clear">
+          <div class="col-1-3 first">
+            <h2><span>Services</span></h2>
+            <ul class="nospace spacing">
+            <li><a class="button block pad20 purple clear" href="uokmail.aspx"><span class="icon-envelope-alt icon-2x imgl"></span>
+                <p class="nospace times font-medium">KU Mail</p>
+                <p class="nospace">Official e-Mail Service</p>
+                </a></li>
+              <li><a class="button block pad20 green clear" href="jobs.aspx"><span class="icon-briefcase icon-2x imgl"></span>
+                <p class="nospace times font-medium">Jobs/Recruitment</p>
+                <p class="nospace">Adverstisements,Call Letters</p>
+                </a></li>
+              <li><a class="button block pad20 orange clear" href="tenders.aspx"><span class="icon-file-text-alt icon-2x imgl"></span>
+                <p class="nospace times font-medium">Tenders</p>
+                <p class="nospace">Notices,eTenders...</p>
+                </a></li>
+              <li><a class="button block pad20 yellow clear" href="http://egov.kashmiruniversity.net/courseinfo/"><span class="icon-calendar-empty icon-2x imgl"></span>
+                <p class="nospace times font-medium">Academic Details</p>
+                <p class="nospace">Student Academic Details</p>
+                </a></li>
+              <li><a class="button block pad20 red clear" href="download.aspx"><span class="icon-download-alt icon-2x imgl"></span>
+                <p class="nospace times font-medium">Downloads</p>
+                <p class="nospace">Forms,Applications...</p>
+                </a></li>
+
+                <li><a class="button block pad20 blue clear" href="photogallery.aspx"><span class=" icon-camera icon-2x imgl"></span>
+                <p class="nospace times font-medium">Photogallery</p>
+                <p class="nospace">Conferences,Workshops...</p>
+                </a></li>
+                
+            </ul>
+          </div>
+
+          <div class="col-2-3">
+          <h2><span>Notifications and Annoucements</span></h2>
+              
+           <b>Research Highlights </b>
+         <div class="alert-msg info sidebar"> 
+             <ul style="list-style-type:None;padding:0px;">
+                <li>
+                    <strong>Nuclear Physics Research at the Department of Physics</strong><br />
+                    Atomic nucleus is a cornerstone in our quest to explore the deeper mysteries of the universe.  The knowledge of nuclear properties forms an essential ingredient in our understanding of  many fascinating phenomena in the universe.
+                   For instance, properties of nuclei are essential  in the determination... 
+                   <a href="ResearchPage.aspx">Read More >></a>
+
+                
+                
+
+                </li>
+            </ul>
+        
+         </div>
+      
+    
+            
+
+
+  
+        <div class="accordion-wrapper"><a href="javascript:void(0)" class="accordion-title active"><span>General Notices</span></a>
+          <div class="accordion-content default" style="height:150px; overflow:auto">
+           <p>
+            <ul id="lstGeneralNotifications" class="list doughnut">
+             
+            <li ><a href='http://egov.kashmiruniversity.net/courseinfo/ugforms/prelogin/default.aspx?id=4' target='_new' > Admit Cards for UG 3dr Year Examination (Annual) for Leh College</a><li ><a href='http://egov.kashmiruniversity.net/eConduct/' target='_new' > Examination form for MA 1st & 2nd Semester (Private)) </a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/ugforms/preloginbed/Defaultbed00.aspx' target='_new' > Examination forms for B.Ed Examination (Backlog Candidates/Mercy)</a><li ><a href='http://egov.kashmiruniversity.net/eConduct/' target='_new' > Examination forms & Admit Cards for PG, BTech,BE & Diploma Courses</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/ugforms/prelogin/default.aspx?id=1' target='_new' > Admit Cards for UG 1st Year BiAnnual Examination (Cold Zone)</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/ugforms/prelogin/default.aspx?id=3' target='_new' > Admit  Card  for UG 3rd Year Examination (Fresh Private) of Leh College</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/ugforms/prelogin/default.aspx?id=2' target='_new' > Admit Cards for UG 2nd Year Examination (Backlog) of Leh College only</a></ul>
+          </p>
+          </div>
+        </div>   
+      <div class="accordion-wrapper"><a href="javascript:void(0)" class="accordion-title"><span>Admissions</span></a>
+          <div class="accordion-content" style="height:150px; overflow:auto">
+            <p>
+            <ul id="lstAdmissions" class="list doughnut">
+              
+            <li ><a href='http://egov.kashmiruniversity.net/eEntrance/BED/Instructionsnlocal.aspx' target='_new' > Application form for B.Ed Programme in Private Colleges (Session 2015)</a><li ><a  href='http:Admissions/159.pdf' target='_new'>Selection Notification No. 5 for Admission Session 2015</a > <li ><a href='http://egov.kashmiruniversity.net/eAdmissions/Prelogin/PaymentApplicationForm.aspx' target='_new' > Application form for Self Financed Seats for PG Courses</a><li ><a  href='http:Admissions/160.pdf' target='_new'>Corrigendum to Selection  Notification No. 5 for 2015</a > <li ><a href='http://egov.kashmiruniversity.net/courseinfo/PGAdmission/PreLogin/AdmissionForm.aspx' target='_new' > Admission form for 1st Semester (Session 2015)</a><li ><a href='http://egov.kashmiruniversity.net/eadmissions/Prelogin/EntranceHome.aspx' target='_new' > Application Form for BA LLB/B.Pharma/LLM Courses</a><li ><a href='http://egov.kashmiruniversity.net/mba/postlogin/default.aspx' target='_new' > Application form for MBA/MBA-Financial Management/MTTM</a><li ><a href='http://egov.kashmiruniversity.net/eadmission/postlogin/default.aspx' target='_new' > Application form for PG Diploma/Diploma/Certificates Courses</a><li ><a href='http://egov.kashmiruniversity.net/eEntrance/Mpharma/MpharmaAppForm.aspx' target='_new' > Application form for M.Pharm Course - 2015</a><li ><a href='http://egov.kashmiruniversity.net/mcmp/postlogin/default.aspx' target='_new' > Application form for Bachelors in Journalism & mass Communication in GMC of Education,Jammu</a><li ><a href='http://egov.kashmiruniversity.net/imba/postlogin/default.aspx' target='_new' > Application form for IMBA</a><li ><a href='http://egov.kashmiruniversity.net/btech/postlogin/default.aspx' target='_new' > Application form for BTech Course - 2015</a><li ><a href='http://egov.kashmiruniversity.net/eadmissions/Prelogin/ResultStatus.aspx' target='_new' > Result Status  for KU Entrance Test 2015</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/PGAdmission/PreLogin/AdmissionTo3rdSem.aspx' target='_new' > Admission form for 3rd Semester (CBCS) - Batch 2014</a><li ><a  href='http:Admissions/147.pdf' target='_new'>Selection Notification No. 2 (Session 2015)</a > <li ><a  href='http:Admissions/150.pdf' target='_new'>Selection Notification no. 3 (Session 2015)</a > <li ><a  href='http:Admissions/149.pdf' target='_new'>Corrigendum  To  Selection Notification No.2</a > <li ><a  href='http:Admissions/146.pdf' target='_new'>Selection Notification No. 1 for various programmes (Session 2015)</a > <li ><a  href='http:Admissions/152.pdf' target='_new'>Selection Notification No. 4 for various programmes (Session 2015)</a > <li ><a href='http://egov.kashmiruniversity.net/courseinfo/MPhil/PreLogin/mphiladmitcard.aspx' target='_new' > Admit Cards for 3 Year Integrated Ph.D Entrance Test</a><li ><a href='meritlist2015.aspx' target='_new' > Merit Lists of KU Entrance Test - 2015</a><li ><a  href='http:Admissions/134.pdf' target='_new'>Admission Notification - 2015</a > <li ><a href='entkeys.aspx' target='_new' > Answer Keys of KU Entrance Test - 2015</a><li ><a href='http://kashmiruniversity.net/papers.aspx' target='_new' > Previous Entrance Test Papers</a><li ><a href='http://kashmiruniversity.net/esyllabus.aspx' target='_new' > PG Entrance Test Syllabus</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/pg/pgadmissions/prelogin/PGAdmissionForm3rd.aspx' target='_new' > Admission form For PG 2nd Year/3rd Year/4th Year/5th Year</a><li ><a href='researchsyllabi.aspx' target='_new' > M.Phill / Ph.D Entrance Syllabi</a></ul>
+          </p>
+         </div>
+        </div>
+        <div class="accordion-wrapper"><a href="javascript:void(0)" class="accordion-title"><span>Student Registration</span></a>
+          <div class="accordion-content" style="height:150px; overflow:auto">
+           <p>
+            <ul id="lstRegistration" class="list doughnut">
+              
+            <li ><a href='http://egov.kashmiruniversity.net/courseinfo/migration/prelogin/instructions.aspx' target='_new' > Application form for Inter-University Migration</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/migration/prelogin/PrintForm.aspx' target='_new' > Status of Inter-University Migration Certificate</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/pgstatus/default.aspx' target='_new' > Registration Status For PG Students</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo/streamchange/prelogin/streamchangestatus.aspx' target='_new' > Stream Change Status</a><li ><a href='http://egov.kashmiruniversity.net/courseinfo' target='_new' > Student Academic Details</a><li ><a  href='http:Registration/13.pdf' target='_new'>Order No.2 regarding Inter College Migration</a > <li ><a  href='http:Registration/12.pdf' target='_new'>Order No.3 regarding Inter College Migration</a > </ul>
+          </p>
+          </div>
+        </div>
+       <div class="accordion-wrapper"><a href="javascript:void(0)" class="accordion-title"><span>Notifications</span></a>
+          <div class="accordion-content" style="height:150px; overflow:auto">
+           <p>
+            <ul id="lstNewsAndAnnouncements" class="list doughnut">
+             
+            <li><a href='http:events/2804.pdf' target='_new'>Corrigendum to Selection Notification No. 1 for Admission 2015 ; Dated:10-7-2015</a><li><a href='http:events/2803.pdf' target='_new'>Selection Notification No. 6 For Teacher Candidates (Session 2015); Dated:9-7-2015</a><li><a href='http:events/2802.pdf' target='_new'>Corrigendum to Selection  Notification No. 5 for 2015; Dated:9-7-2015</a><li><a href='http:events/2801.pdf' target='_new'>Date Extended for submission of Application Forms for Admission to PG Diploma, Diploma & Certificate Courses (Session 2015); Dated:9-7-2015</a><li><a href='http:events/2800.pdf' target='_new'>Selection Notification No. 5 for Admission Session 2015 ; Dated:9-7-2015</a><li><a href='http://www.southasiafoundation.org/umiks-article-52278.htm' target='_new' >Award of Madanjeet Singh Group Scholarships for the Joint Master‚Äôs Degree Programme with KU & JMI; Dated:8-7-2015</a><li><a href='http:events/2798.pdf' target='_new'>Notification regarding Submission of Admission forms for MFC 3rd Semester ; Dated:8-7-2015</a><li><a href='http:events/2797.pdf' target='_new'>Notification regarding Selection Trials for Cricket Team (Directorate of Physical Education & Sports); Dated:8-7-2015</a><li><a href='http:events/2796.pdf' target='_new'>Centre Notice for Conduct of Entrance Test for B.Tech courses of Baba Ghulam Shah Baadshah University- 2015; Dated:8-7-2015</a><li><a href='http:events/2795.pdf' target='_new'>Circular from Chief Proctor regarding anti-ragging affidavit; Dated:8-7-2015</a><li><a href='http:events/2794.pdf' target='_new'>Notification regarding the students who failed to submit their B.ed Examination Form ; Dated:8-7-2015</a><li><a href='http:events/2793.pdf' target='_new'>Notification regarding Counseling for Generic and Open Electives for the student of MA Mass Communication & Journalism 1st Semester 2015-2016; Dated:7-7-2015</a><li><a href='http:events/2792.pdf' target='_new'>Date Extended for Submission of Application Form for BALLB, BPHARM and LLM-2015 ; Dated:7-7-2015</a><li><a href='http:events/2791.pdf' target='_new'>Date Extended for Submission of Application Form for MBA, MBA (Financial Management), IMBA, B.Tech and M.Pharm; Dated:7-7-2015</a><li><a href='http:events/2790.pdf' target='_new'>Inter-University / College Husn-e-Naat Competition organised by DSW; Dated:6-7-2015</a><li><a href='http:events/2789.pdf' target='_new'>Order No.3 regarding Inter College Migration; Dated:6-7-2015</a><li><a href='http:events/2788.pdf' target='_new'>Date Extended for Submission of online Admission forms for Bachelor of Arts in Journalism & Mass Communication; Dated:4-7-2015</a><li><a href='http:events/2787.pdf' target='_new'>Notification regarding Students provisionally selected for admission to Integrated Ph.D programme in the Departments of History, MERC, Psychology and Social Work; Dated:4-7-2015</a><li><a href='http:events/2786.pdf' target='_new'>Notification regarding Hostel (Girls) accommodation for the Academic Session 2015-16; Dated:4-7-2015</a><li><a href='http:events/2785.pdf' target='_new'>Date Extended for Submission of abstracts and registration for the two day national symposium entitled Biotechnological Interventions for upgradation of Food Products of India; Dated:4-7-2015</a><li><a href='http:events/2784.pdf' target='_new'>Notification regarding Revised Fee Structure for the M.Sc Geo-Informatics; Dated:4-7-2015</a><li><a href='http:events/2783.pdf' target='_new'>Re-Schedule Interview Notification for the Post of Contractual Lecturer available in the Business School, (MFC/MBA Financial Management); Dated:3-7-2015</a><li><a href='http:events/2782.pdf' target='_new'>Admission Notification No.9 for Self-financed seats (Session 2015); Dated:3-7-2015</a><li><a href='http:events/2781.pdf' target='_new'>Admission Notification for B.Ed Programme in Private Colleges of Kashmir Division Session 2015; Dated:2-7-2015</a><li><a href='http:events/2780.pdf' target='_new'>Counseling Notification No.2nd for Admission to Integrated Ph.D programme in Markaz-i-Noor, Centre for Shaikh-ul Alam Studies; Dated:2-7-2015</a><li><a href='http:events/2779.pdf' target='_new'>Admission Notification from Institute of Foreign Languages ; Dated:2-7-2015</a><li><a href='http:events/2778.pdf' target='_new'>Interview Notification for the engagement of Contractual Lecturers in the subject of Library & Information Science; Dated:2-7-2015</a><li><a href='http:events/2777.pdf' target='_new'>Four-Month‚Äô Skill Development Training Programme (SDTP) entitled ‚ÄúAutomobile Training- Basic, Advanced & Diagnostic; Dated:2-7-2015</a><li><a href='http:events/2776.pdf' target='_new'>Selection Notification No. 4 for Admission to 2015 session; Dated:1-7-2015</a><li><a href='http:events/2775.pdf' target='_new'>Counselling Notification for candidates who have appeared in the Entrance Test for admission to Home Science 2015; Dated:1-7-2015</a><li><a href='http:events/2774.pdf' target='_new'>Notification regarding KU Entrance Test 2015 B.Pharm, BA-LLB and LL.M; Dated:1-7-2015</a><li><a href='http:events/2773.pdf' target='_new'>Notification from Deptt of Political Science regarding Date Extended for submission of Admission /Registration forms for 3rd Semester Students & Integrated M.Phil/Ph.D Scholars ; Dated:29-6-2015</a><li><a href='http:events/2771.pdf' target='_new'>Selection Notification No. 3 for Admission to 2015 session; Dated:29-6-2015</a><li><a href='http:events/2770.pdf' target='_new'>Selection Notification No. 2 for Admission to 2015 session; Dated:27-6-2015</a><li><a href='http:events/2769.pdf' target='_new'>Selection Notification No. 2 (Session 2015); Dated:26-6-2015</a><li><a href='http:events/2768.pdf' target='_new'>Notification regarding Period Spent by Teachers on pursuing Research Degrees on Part Time Basis to be Counted as Teaching Experience for the Post of Associate Professors; Dated:26-6-2015</a><li><a href='http:events/2767.pdf' target='_new'>Correigendum for Admission Notification No. 7; Dated:26-6-2015</a><li><a href='http:events/2766.pdf' target='_new'>Selection Notification No. 1 for Admission to 2015 session; Dated:26-6-2015</a><li><a href='http:events/2765.pdf' target='_new'>Circular regarding Department of Library & Information Sciences Shifted from the Faculty of Arts to Faculty of Social Sciences ; Dated:25-6-2015</a><li><a href='http:events/2764.pdf' target='_new'>Notification regarding Criteria for Assistant Director, DIQA/Assistant Registrar and Equivalent Officer level positions; Dated:25-6-2015</a><li><a href='default.aspx' target='_new' >Prof. Musadiq A. Sahaf has assumed the charge of Registrar,KU; Dated:24-6-2015</a><li><a href='http:events/2755.pdf' target='_new'>Notification regarding examination of Sociology B and English Literature B of BG III year (Session June- July, 2015) scheduled to be held on 09-07-2015, will now be held on 11-07-2015; Dated:24-6-2015</a><li><a href='http:events/2753.pdf' target='_new'>Admission Notification for PG Diploma, Diploma & Certificate Courses; Dated:23-6-2015</a><li><a href='http:events/2752.pdf' target='_new'>Admission Notification for MBA, MBA (Financial Management), MTTM, IMBA (BBA-MBA) [5 year integrated program], M.Pharm and B.Tech; Dated:23-6-2015</a><li><a href='http:events/2742.pdf' target='_new'>Notification regarding Stream Change of U.G Courses; Dated:16-6-2015</a><li><a href='http:events/2738.pdf' target='_new'>Date Sheet for Bi-Annual Examination of B.A/B.Sc/B.Com/B.Com II Year (Session June/July, 2015) for the Candidates of District Leh; Dated:15-6-2015</a><li><a href='http:events/2736.pdf' target='_new'>Admission Notification for Bachelor of Arts in ‚ÄúJournalism & Mass Communication‚Äù, session 2015-16 ; Dated:15-6-2015</a><li><a href='http:events/2733.pdf' target='_new'>B.Ed Admission Notification-2015-16 for P.G. Department of Education; Dated:12-6-2015</a><li><a href='http:events/2727.pdf' target='_new'>Notification from Department of Food Science & Technology regarding Two-Week Training Programme on Food Processing ; Dated:11-6-2015</a><li><a href='http:events/2722.pdf' target='_new'>Notification regarding Subject Combination in Arts, Science, & commerce streams at Under-graduate level  ; Dated:9-6-2015</a><li><a href='http:events/2708.pdf' target='_new'>Admission Notification (Under Semester Scheme) for Under-Graduate  1st Semester of 2015; Dated:2-6-2015</a><li><a href='http:events/2700.pdf' target='_new'>Notification regarding KU Admission  - 2015; Dated:30-5-2015</a><li><a href='http:events/2693.pdf' target='_new'>Notification regarding Admission Policy 2015; Dated:30-5-2015</a><li><a href='http:events/2639.pdf' target='_new'>Admission Notification for admission to all PG Programmes for the session 2015; Dated:2-5-2015</a><li><a href='http:events/2638.pdf' target='_new'>Circular regarding some Deptts/Research Institutes/centers have engaged research scholars, register for pursuit of M.Phil/Ph.D degres as full-time Contractual lectures ; Dated:2-5-2015</a><li><a href='http:events/2636.pdf' target='_new'>Circular from Department of Students Welfare for all Heads/Directors/deptt/Instt; Dated:1-5-2015</a><li><a href='http:events/2623.pdf' target='_new'>Notification regarding University Departments/Colleges/ Directorates Concerned shall apply for introduction of New Courses/programmes ; Dated:27-4-2015</a><li><a href='http:events/2534.pdf' target='_new'>National Symposium on Biotechnological Interventions for Upgradation of Food Products of India (BIUFPI) 9-10 September, 2015; Dated:27-3-2015</a><li><a href='http:events/2520.pdf' target='_new'>Circular regarding Research groups in various P.G Deptts/Centre/Institutes are invited to submit a pedagogical resume of their research work; Dated:25-3-2015</a><li><a href='http:events/2431.pdf' target='_new'>Final Bulletin regarding International Conference on ‚ÄúLiterary Legacy of Indo-Central Asia, Afghanistan and Iran‚Äù ; Dated:3-3-2015</a><li><a href='http:events/2389.pdf' target='_new'>Notification regarding Central Sector Scholarship Scheme for Colleges & University Students ; Dated:21-2-2015</a><li><a href='http:events/2379.pdf' target='_new'>Circular regarding Smart Saver Facility Scheme for operational GP Fund Account ; Dated:19-2-2015</a><li><a href='http:events/2364.pdf' target='_new'>Application Form / Undertaking Form for Educational Tour organised by DSW; Dated:14-2-2015</a><li><a href='http:events/2317.pdf' target='_new'>Notification regarding the screening of the application forms for appointment/ promotion/placement of the teachers; Dated:27-1-2015</a><li><a href='http:events/2292.pdf' target='_new'>Circular for Admission process-2015; Dated:20-1-2015</a><li><a href='http:events/2287.pdf' target='_new'>National Seminar on Issues related to the Library and Information Science Profession in the North-Western Region of India; Dated:15-1-2015</a><li><a href='http:events/2269.pdf' target='_new'>Call for Paper to 5-Day International Conference ‚ÄúLiterary Legacy of Indo-Central Asia, Afghanistan and Iran‚Äù; Dated:10-1-2015</a><li><a href='http:events/2246.pdf' target='_new'>Statutes governing admission & award of integrated doctor of philosophy (Ph.D); Dated:30-12-2014</a><li><a href='http:events/2214.pdf' target='_new'>Notification regarding Question Paper pattern for BG 1st year ; Dated:4-12-2014</a><li><a href='http:events/2185.pdf' target='_new'>Examination related instructions for students; Dated:18-11-2014</a><li><a href='http:events/2177.pdf' target='_new'>Notification regarding new payment procedure for Examination, Evaluation, re-Evaluation, Setting of Question paper; Dated:13-11-2014</a><li><a href='http:events/2130.pdf' target='_new'>Notification for Head of all P.G.Deptts, University of Kashmir,/ Principals of Affiliated/ Constituent Colleges regarding Submission of Internal Assessment/Midterm Awards; Dated:18-10-2014</a><li><a href='http:events/2100.pdf' target='_new'>Syllabus for 1st and 2nd Semester of BTech program-2014; Dated:11-10-2014</a><li><a href='http:events/1943.pdf' target='_new'>Syllabus for B.E/B.Tech lateral Entry Test; Dated:7-8-2014</a><li><a href='http:events/1940.pdf' target='_new'>Notification regarding single paper scheme for UG Courses; Dated:7-8-2014</a><li><a href='http:events/1644.pdf' target='_new'>Guidelines for Allotment of Residential Accommodation; Dated:6-5-2014</a><li><a href='http:events/1635.pdf' target='_new'>Circular regarding the Development/Updating/Training the Departmental Website; Dated:5-5-2014</a><li><a href='http:events/1569.pdf' target='_new'>Extension in last Date for Advertisement Notice No. I of 2014 dated 01-03-2014; Dated:19-4-2014</a><li><a href='http:events/1432.pdf' target='_new'>Notification regarding Change of Stream/Subjects of UG Courses; Dated:10-3-2014</a><li><a href='http:events/1420.pdf' target='_new'>Advertisement Notice No.1 of 2014 for the various posts. Dated: 01-03-2014; Dated:5-3-2014</a><li><a href='http:events/1378.pdf' target='_new'>Instructions for candidates appearing for written test (Recruitment) ; Dated:7-2-2014</a><li><a href='http:events/1224.pdf' target='_new'>Circular regarding Digitization of Rare and Copyright Free Books (pre-1954 publication); Dated:27-11-2013</a><li><a href='http:events/1222.pdf' target='_new'>Circular about authenticity/recognition of courses/degrees awarded by the Universities outside the State of J&K; Dated:22-11-2013</a><li><a href='http:events/1218.pdf' target='_new'>e-content based on undergraduate syllabus of Botany has been launched at SAKSHAT portal of Ministry of Human Resourse Development (MHRD); Dated:21-11-2013</a><li><a href='http:events/889.pdf' target='_new'>Circular regarding Visiting Hours in Examination Block of the University; Dated:30-5-2013</a><li><a href='https://www.proquest.com/trials/trialSummary.action?view=subject&trialBean.token=FJ86EQOWLOAY37F69ML2' target='_new' >ProQuest Historical Newspapers: The Times of India (1838-2003); Dated:26-12-2012</a><li><a href='http:events/377.pdf' target='_new'>Guidelines  for Issuance of Certificates; Dated:11-1-2014</a><li><a href='http:events/347.pdf' target='_new'>Examination Related Guidelines for the Students; Dated:11-1-2014</a><li><a href='http:events/324.pdf' target='_new'>Submission of Online Application Forms for Migration certificate; Dated:11-1-2014</a><li><a href='http:events/277.pdf' target='_new'>Appeal for KUAA Membership; Dated:11-1-2014</a><li><a href='http:events/247.pdf' target='_new'>Important Instructions for Evaluators; Dated:11-1-2014</a><li><a href='http:events/246.pdf' target='_new'>Important guidelines for Paper Setters; Dated:11-1-2014</a><li><a href='http:events/239.pdf' target='_new'>List of life members of Kashmir University Alumini Association (KUAA) ; Dated:11-1-2014</a><li><a href='http:events/176.pdf' target='_new'>Notification regarding amendment in Statutes of Preservation of Marked Answer Books; Dated:11-1-2014</a><li><a href='http:events/44.pdf' target='_new'>e-Governance System Practices of the University of Kashmir; Dated:11-1-2014</a><li><a href='http:events/43.pdf' target='_new'>Modalities for placement/promotions of Teachers & other Academic Staff under Career Advancement Scheme in  the University of Kashmir; Dated:11-1-2014</a></ul>
+          </p>
+          </div>
+        </div>
+            
+            <div class="clear"></div>
+          </div>
+
+
+        </section>
+                    <!-- ################################################################################################ -->
+                </div>
+                <!-- ################################################################################################ -->
+                <!-- ################################################################################################ -->
+                <div id="sidebar_1" class="sidebar col-1-4">
+                    <aside> 
+          <!-- ########################################################################################## -->
+          <h2><span>Upcoming Events</span></h2>
+          <ul id="lstEvents" class="nospace spacing push50" style="height:245px;overflow:auto;">
+            
+          <li class='clear' title='National Symposium on Biotechnological Interventions for Upgradation of Food Products of India (BIUFPI) 9-10 September, 2015'><time datetime='2015-09-09T03+23:17' class='date-icon'><strong>Sep</strong> <em>09</em></time> <div> <p class='nospace times font-medium'><a   href='http:ForthComingEvents/51.pdf' target='_new'>National Symposium...</a></p> <p class='nospace'>National Symposium on Biotechnological Interv...</p></div></li> <li class='clear' title='11th JK Science Congress'><time datetime='2015-10-12T03+23:17' class='date-icon'><strong>Oct</strong> <em>12</em></time> <div> <p class='nospace times font-medium'><a href='http://jksc.uok.edu.in/'  target='_new' > 11th JK Science Co...</a></p> <p class='nospace'>11th JK Science Congress</p></div></li></ul>
+          <!-- /Upcoming Events -->
+          <h2><span>University Tarana</span></h2>
+          <div id="player" class="mediabox">
+                
+          </div>
+          <div class="clear push50"></div>
+          <!-- /Video Tour -->
+          <h2><span>Quick Links</span></h2>
+          <nav>
+            <ul>
+            <li><a href="http://egov.kashmiruniversity.net/Results/" target="_blank">Results</a></li>
+            <li><a href="http://egov.kashmiruniversity.net/ReEvaluation/" target="_blank">Re-Evaluation</a></li>
+            <li><a href="http://egov.kashmiruniversity.net/ReChecking/" target="_blank">Re-Checking</a></li>
+              <li><a href="http://egov.kashmiruniversity.net/courseinfo/syllabus/prelogin/course.aspx?coursetype=UGP" target="_blank">Syllabus & Statutes</a></li>
+             
+              <li><a href="http://itss.uok.edu.in/" target="_blank">Directorate of IT & SS</a></li>
+              
+              <li><a href="http://dspaces.uok.edu.in:8080/jspui" target="_blank">Digital Repository</a></li>
+               <li><a href="FBdisclaimer.aspx">KU Facebook Disclaimer</a></li>
+              
+
+              
+            </ul>
+          </nav>
+          <!-- /Sidebar Navigation --> 
+          <!-- ########################################################################################## --> 
+        </aside>
+                </div>
+                <!-- ########################################################################################## -->
+                <!-- ########################################################################################## -->
+                <!-- ########################################################################################## -->
+            </div>
+            <!-- ################################################################################################ -->
+            <div class="clear">
+            </div>
+            <!-- Ensure That Everything Has Been Cleared -->
+        </div>
+        <!-- End class=container -->
+    </div>
+    <!-- End wrapper row4 -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- Footer START -->
+    <!-- LINK BLOCK -->
+<div class="wrapper row5">
+  <div class="linkblock">
+    <!--<h2 class="title">Optional block of links</h2>-->
+    <nav class="clear">
+      <div class="col-1-5 first">
+        <ul>
+           <li><a href="Aid.aspx" >Scholarships & Student Aid</a></li>    
+          <li><a href="Housing.aspx" >Hostel Accomodation</a></li>
+          <li><a href="http://ccpc.uok.edu.in/" target="_blank">Career Counselling</a></li>
+          <li><a href="http://dsw.uok.edu.in/" target="_blank">Student Welfare</a></li>
+          <li><a href="Health.aspx" >Health Services</a></li>
+          <li><a href="http://pghostels.uok.edu.in/" target="_blank">Girls Hostel</a></li>    
+          <li><a href="http://dpe.uok.edu.in/" >Sports</a></li>     
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>
+          <li><a href="http://prc.uok.edu.in/" target="_blank" >Public Relation Centre</a></li>
+          <li><a href="http://ucc.uok.edu.in/" target="_blank">Convocation Complex</a></li>
+          <li><a href="Procter.aspx" target="_blank">Proctoral Organisation</a></li>
+          <li><a href="download/antiragging.pdf" target="_blank">Norms Against Ragging</a></li>
+          
+          <li><a href="RTI.aspx" >RTI Information Cell</a></li>
+          <li><a href="FBdisclaimer.aspx">KU Facebook Disclaimer</a></li>
+          
+          
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>      
+          <li><a href="EmployeeDownloads.aspx">Employee Online Services</a></li>
+          <li><a href="http://asc.uok.edu.in" target="_blank">Academic Staff College</a></li>     
+          <li><a href="http://kashmiruniversity.net/estates/" target="_blank">Estates Section</a></li>
+           <li><a href="eGov.aspx">e-Governance</a></li>
+          <li><a href="http://kashmiruniversity.net/diqa/" target="_blank">DIQA</a></li>   
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>    
+          <li><a href="download/Examination Statutes.pdf" target="_blank">Examination Statutes</a></li>
+          <li><a href="download/UniCal.pdf" target="_blank">University Calender</a></li>
+           <li><a href="http://egov.kashmiruniversity.net/eConduct/about" target="_blank">Academic Section</a></li>
+          <li><a href="download/UGC Guidelines.pdf" target="_blank">UGC Guidelines</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-1-5">
+        <ul>
+          <li><a href="importantlinks.aspx">Important Links</a></li>
+          <li><a href="notifications.aspx">Notifications</a></li>
+          <li><a href="media.aspx">KU Media</a></li>
+          <li><a href="Circular.aspx">Circulars</a></li>
+          
+          
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- FOOTER -->
+<div class="wrapper row6">
+  <footer role="contentinfo" id="p-footer" class="clear center"> 
+    <!-- BLOCK 1 -->
+    <div class="col-1-4 first">
+    <a href="http://egov.kashmiruniversity.net/feedbackforum" style="color:inherit">
+      <div class="block push30"><span class="cc circle icon-paste"></span></div>
+       <h6 class="push20">Feedback Forum</h6>
+       <p class="nospace">Comment, Suggestion</p>
+       <p class="nospace">Grievance ....</p>
+    </a>
+    </div>
+    <!-- BLOCK 2 -->
+    <div class="col-1-4">
+    <a href="Directory.aspx"  style="color:inherit;">
+      <div class="block push30"><span class="cc circle icon-phone"></span></div>
+      <h6 class="push20">Telephone Directory</h6>
+      <p class="nospace">+91 194 227 2096</p>
+      <p class="nospace">+91 194 227 2097</p>
+    </a>
+    </div>
+    <!-- BLOCK 3 -->
+    <div class="col-1-4">
+      <div class="block push30"><span class="cc circle icon-envelope-alt"></span></div>
+      <h6 class="push20">Email</h6>
+      <p class="nospace"><a href="#" style="color:White">info@uok.edu.in</a><br>
+        <a href="#" style="color:White">pro@uok.edu.in</a></p>
+    </div>
+    <!-- BLOCK 4 -->
+    <div class="col-1-4">
+
+    <a href="contact.aspx" style="color:inherit;">
+      <div class="block push30"><span class="cc circle icon-map-marker"></span></div>
+
+      <h6 class="push20">Address</h6>
+      <address>
+      Hazratbal, Srinagar<br>
+       J&K, India 190006
+      </address>
+      </a>
+     
+      <!--<form method="post" action="#">
+        <input type="text" value="">
+        <input type="submit" value="Subscribe">
+      </form>-->
+      
+    </div>
+  </footer>
+  <!-- COPYRIGHT -->
+  <div id="copyright" class="clear"> 
+    <div class="fl_left">Copyright <a href='http://egov.kashmiruniversity.net/CourseInfo/login.aspx' target="_blank" >&copy;</a> 2015 University of Kashmir | Beta Version 1.9 </div>
+    <div class="fl_right">
+      <ul class="nospace inline">
+        <li><a href="http://itss.uok.edu.in" target="_blank">Developed & Maintained By Directorate of IT & SS</a> | </li>
+        <li><a href="disclaimer.aspx">Disclaimer</a>|</li><li><a href="FBdisclaimer.aspx">KU Facebook Disclaimer</a></li>
+        <!--<li><a href="#">Link 3</a> / </li>
+        <li><a href="#">Link 4</a> / </li>
+        <li><a href="#">Link 5</a></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- END FOOTER --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- BACK TO TOP BUTTON --> 
+<a href="#top" id="scrolltotop" title="Back To Top"><span class="icon-arrow-up icon-2x"></span></a> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+    <!-- Footer END -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- JAVASCRIPTS -->
+    <!-- JS START -->
+    <!-- JAVASCRIPTS --> 
+<!-- <script src="http://code.jquery.com/jquery-latest.min.js"></script> --> 
+<script src="layout/scripts/jquery-latest.min.js"></script> 
+<!-- <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script> --> 
+<script src="layout/scripts/jquery-ui.min.js"></script> 
+<!-- Media --> 
+<script src="layout/scripts/fitvids/jquery.fitvids.js"></script> 
+<!-- Custom Settings --> 
+<script src="layout/scripts/custom.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $('head').append("<style>.ColouredList li:before{color:" + layoutColorName + ";} </style>");
+    });
+</script>
+
+    <!-- JS END -->
+    <!-- Slider -->
+    <script src="layout/scripts/flexslider/jquery.flexslider-min.js"></script>
+    <script src="layout/scripts/flexslider/jquery.flexslider-setup.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            //            $("#lstEvents").niceScroll({ autohidemode: true, cursorcolor:layoutColor});
+            //            $(".accordion-content").niceScroll({ autohidemode: true, cursorcolor: layoutColor });
+            //            $(".alert-msg").niceScroll({ autohidemode: true, cursorcolor: layoutColor });
+            $("li.active").removeClass("active");
+            $("#lnkHome").addClass("active");
+        });
+    </script>
+    <script src="JWPlayer/jwplayer.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jwplayer("player").setup({
+            autostart: false,
+            image: "images/demo/video0.png",
+            flashplayer: "jwplayer/player.swf",
+            file: "video/Tarana.flv",
+            width: 250,
+            height: 200
+        });
+    </script>
+    </form>
+</body>
+</html>ÊA◊≤¿A      UüõUüõ;YÉE       ":http://www.kashmiruniversity.net/ necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Fri, 10 Jul 2015 10:13:45 GMT
+Content-Length: 80081
+ charset UTF-8 uncompressed-len 0  8—

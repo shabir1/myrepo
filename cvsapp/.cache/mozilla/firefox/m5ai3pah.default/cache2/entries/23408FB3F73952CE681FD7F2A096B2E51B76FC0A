@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNukeÔøΩ - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2010                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="Syllabi" /><meta id="MetaKeywords" name="KEYWORDS" content="Syllabi,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2012@ Department of Physics,University of Kashmir" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="Department of Physics,University of Kashmir" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link id="APortals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="APortals__default_Skins_MinimalExtropy_" rel="stylesheet" type="text/css" href="/Portals/_default/Skins/MinimalExtropy/skin.css" /><link id="APortals__default_Skins_MinimalExtropy_index_1280_css" rel="stylesheet" type="text/css" href="/Portals/_default/Skins/MinimalExtropy/index 1280.css" /><link id="APortals__default_Containers_MinimalExtropy_" rel="stylesheet" type="text/css" href="/Portals/_default/Containers/MinimalExtropy/container.css" /><link id="APortals__default_Containers_MinimalExtropy_Title_Grey_css" rel="stylesheet" type="text/css" href="/Portals/_default/Containers/MinimalExtropy/Title_Grey.css" /><link id="APortals_0_" rel="stylesheet" type="text/css" href="/Portals/0/portal.css" /><!--[if LT IE 7]><link id="IE6Minus" rel="stylesheet" type="text/css" href="/Portals/_default/Skins/MinimalExtropy/css/ie6skin.css" /><![endif]--><script type="text/javascript" src="/Resources/Shared/Scripts/jquery/jquery.min.js" ></script><title>
+	Syllabi
+</title></head>
+<body id="Body">
+    <form name="Form" method="post" action="/Syllabi.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDIyOTEzMjkPZBYGZg8WAh4EVGV4dAV5PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPmQCAQ9kFg4CBA8WAh4HVmlzaWJsZWhkAgUPFgIeB2NvbnRlbnQFB1N5bGxhYmlkAgYPFgIfAgUWU3lsbGFiaSxEb3ROZXROdWtlLEROTmQCBw8WAh8CBTtDb3B5cmlnaHQgMjAxMkAgRGVwYXJ0bWVudCBvZiBQaHlzaWNzLFVuaXZlcnNpdHkgb2YgS2FzaG1pcmQCCA8WAh8CBQtEb3ROZXROdWtlIGQCCQ8WAh8CBStEZXBhcnRtZW50IG9mIFBoeXNpY3MsVW5pdmVyc2l0eSBvZiBLYXNobWlyZAIMDxYCHwIFDUlOREVYLCBGT0xMT1dkAgIPZBYCAgEPZBYEAgQPZBYCZg9kFg4CAQ9kFgICAQ9kFgJmDxYCHwFoFgJmD2QWAmYPZBYGAgMPEGRkFgBkAg8PZBYCZg8PFgYeCEltYWdlVXJsBRQvaW1hZ2VzL2NvbGxhcHNlLmdpZh4NQWx0ZXJuYXRlVGV4dAUITWluaW1pemUeB1Rvb2xUaXAFCE1pbmltaXplFgoeB3VzZXJjdHIFCVVzYWJpbGl0eR4HdXNlcmtleQUUQ29udHJvbFBhbmVsVmlzaWJsZTAeB29uY2xpY2sFUWlmIChfX2Rubl9TZWN0aW9uTWF4TWluKHRoaXMsICAnZG5uX0ljb25CYXIuYXNjeF9yb3dDb250cm9sUGFuZWwnKSkgcmV0dXJuIGZhbHNlOx4IbWF4X2ljb24FEi9pbWFnZXMvZXhwYW5kLmdpZh4IbWluX2ljb24FFC9pbWFnZXMvY29sbGFwc2UuZ2lmZAIRD2QWAgIBD2QWAgIBD2QWEAIBDxBkZBYAZAIFDxBkZBYAZAIHDxBkZBYAZAILDxBkZBYAZAIPDxBkZBYAZAIVDxBkZBYAZAIZDxBkZBYBZmQCHQ8QZGQWAGQCAw9kFghmDxYCHwFoZAIBDxAPFgIfAWhkZBYAZAICDxYCHwFoZAIDDxYCHwFoZAIFD2QWCgIBDw8WAh4LTmF2aWdhdGVVcmwFD34vL2Fib3V0dXMuYXNweGQWAmYPFgIfAAUQQWJvdXQgRGVwYXJ0bWVudGQCAw8PFgIfCwUTfi8vYWNoaWV2ZW1lbnQuYXNweGQWAmYPFgIfAAUMQWNoaWV2ZW1lbnRzZAIFDw8WAh8LBRR+Ly9QaG90b2dhbGxlcnkuYXNweGQWAmYPFgIfAAUMUGhvdG9nYWxsZXJ5ZAIHDw8WAh8LBQ9+Ly9TeWxsYWJpLmFzcHhkFgJmDxYCHwAFB1N5bGxhYmlkAgkPDxYCHwsFEX4vL0NvbnRhY3RVcy5hc3B4ZBYCZg8WAh8ABQpDb250YWN0IFVzZAIJD2QWAgICD2QWCAIBD2QWAgICDw9kFgIeBWNsYXNzBQ9ETk5fSFRNTENvbnRlbnQWAgIBD2QWAgICDxYCHwFoZAIDD2QWAmYPDxYCHwFoZGQCBQ9kFgJmDw8WAh8BaGRkAgcPZBYCZg8PFgIfAWhkZAILD2QWAgICD2QWCAIBD2QWAgICDw9kFgIfDAUPRE5OX0hUTUxDb250ZW50FgICAQ9kFgICAg8WAh8BaGQCAw9kFgJmDw8WAh8BaGRkAgUPZBYCZg8PFgIfAWhkZAIHD2QWAmYPDxYCHwFoZGQCDQ9kFgICAg9kFggCAQ9kFgICAg8PZBYCHwwFD0ROTl9IVE1MQ29udGVudBYCAgEPZBYCAgIPFgIfAWhkAgMPZBYCZg8PFgIfAWhkZAIFD2QWAmYPDxYCHwFoZGQCBw9kFgJmDw8WAh8BaGRkAg8PZBYCAgIPZBYIAgEPZBYCAgIPD2QWAh8MBQ9ETk5fSFRNTENvbnRlbnQWAgIBD2QWAgICDxYCHwFoZAIDD2QWAmYPDxYCHwFoZGQCBQ9kFgJmDw8WAh8BaGRkAgcPZBYCZg8PFgIfAWhkZAIKDxQrAAJkZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFGRubiRkbm5OQVYkY3RsZG5uTkFW2/nFTVix+2v+/AAq+rF1W03dYkY=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=e-Zx0bvhzz9bAAMy2-M8oQ2&amp;t=633802830069218315" type="text/javascript"></script>
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=o48hjc11xyxPA7f3q5KwDWAh1ZvrO68LL_qu4sHDqYug-_k3VbWnLQr7z2Xsb00Zbm4sywOgMjNJlkkQslK4U6bgjwVnHrTQ0&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=o48hjc11xyxPA7f3q5KwDWAh1ZvrO68LL_qu4sHDqYug-_k3VbWnLQr7z2Xsb00Zbm4sywOgMjMXGNiQLt4DAJ4K-x2IfdvpwCNvsbXfOTA1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<script src="/js/dnn.xml.js" type="text/javascript"></script>
+<script src="/js/dnn.xmlhttp.js" type="text/javascript"></script>
+<script src="/js/dnn.dom.positioning.js" type="text/javascript"></script>
+<script src="/js/dnn.controls.js" type="text/javascript"></script>
+<script src="/js/dnn.controls.dnnmenu.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+dnn.controls.submitComp.onsubmit();
+return true;
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', document.getElementById('Form'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+        
+        
+
+    
+    
+    <div id="s_wrap_main">
+    <div id="s_wrap_sub">
+        <div class="template_style">
+            <div class="cpanel_left">
+                <div class="cpanel_right">
+                    <div id="dnn_ControlPanel">
+                    
+</div>
+                </div>
+            </div>
+            <div class="top_space">
+                <div class="lang_pad">
+                    
+                </div>
+            </div>
+            <div class="logo_top">
+                
+                <div class="logo_left">
+                    <div class="logo_right">
+                        <div class="logo_pad">
+                            <div class="s_logo">
+                                
+
+<div class="top-navigation">
+                                    <div class="FL">
+                                        <img src="/images/left-crv.gif" /></div>
+                                    <ul>
+                                    
+                                        <li> <a id="dnn_ShowLinks1_linkAbt" href="/aboutus.aspx">About Department</a></a></li>
+                                        <li><a id="dnn_ShowLinks1_Link1" href="/achievement.aspx">Achievements</a></li>
+                                        <li><a id="dnn_ShowLinks1_Link2" href="/Photogallery.aspx">Photogallery</a></li>
+                                        <li><a id="dnn_ShowLinks1_Link3" href="/Syllabi.aspx">Syllabi</a></li>
+                                        <li><a id="dnn_ShowLinks1_Link4" href="/ContactUs.aspx">Contact Us</a></li>
+                                        <li class="last-link"><a id="dnn_ShowLinks1_Link5"></a></li>
+                                     </ul>
+                                </div>
+                                
+&nbsp;<div class="cear-ie"></div>
+                            </div>
+                            <div class="clear_float">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="menu_left">
+                <div class="menu_right">
+                    <div class="menu_bg">
+                        <div class="search_style">
+                            <div class="search_bg">
+                                
+                            </div>
+                        </div>
+                        <div class="menu_style">
+                            <span><span class="" id="dnn_dnnNAV_ctldnnNAV"></span></span>
+                        </div>
+                        <div class="clear_float">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="center_bg">
+                <div class="left_bg">
+                    <div class="right_bg">
+                        <div class="content_pad">
+                            <div class="content_width">
+                                <div id="dnn_TopPane" class="TopPane" style=" background-color:White; border:0px solid #e5e5e5;">
+                                
+                                
+                                <a name="446"></a>
+<div class="c_container c_head_grey">
+    
+    <div class="c_content">
+        <div id="dnn_ctr446_ContentPane" class="Normal c_contentpane">
+        
+        <!-- Start_Module_446 --><div id="dnn_ctr446_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr446_HtmlModule_lblContent" class="Normal">
+	<img alt="" src="/Portals/0/cs/images/sans.png" />
+</div>
+
+</div><!-- End_Module_446 --></div>
+    </div>
+    <div class="c_footer">
+        
+        
+        
+    </div>
+</div>
+</div>
+                                <div class="clr">
+                                </div>
+                                <div class="main-area">
+                                   
+                                      
+                                    <div id="dnn_LeftPane" class="left-area">
+                                      
+                                    <a name="751"></a>
+<div class="c_container c_head_grey">
+    
+    <div class="c_content">
+        <div id="dnn_ctr751_ContentPane" class="Normal c_contentpane">
+        
+        <!-- Start_Module_751 --><div id="dnn_ctr751_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr751_HtmlModule_lblContent" class="Normal">
+	<h3 style="font-size: 16px; color: #3c3c3c; line-height: 30px;">Quick Links<img alt="" width="34" height="46" style="vertical-align: middle;" src="http://phy.uok.edu.in/Portals/0/images/up-arrow.jpg" /></h3>
+<ul style="margin: 0px; padding: 0px; line-height: 18px;">
+    <li style="list-style-type: none; margin: 0px; padding: 3px 0px;"><a style="color: #644d4d; list-style-type: none; background-image: url(&quot;http://phy.uok.edu.in/images/arrow.gif&quot;); line-height: 20px; padding-left: 20px; background-position: 0px 5px;" target="_blank" href="http://egov.uok.edu.in/results">University Results</a></li>
+    <li style="list-style-type: none; margin: 0px; padding: 3px 0px;"><a style="color: #644d4d; list-style-type: none; background-image: url(&quot;http://phy.uok.edu.in/images/arrow.gif&quot;); line-height: 20px; padding-left: 20px; background-position: 0px 5px;" target="_blank" href="http://egov.uok.edu.in/reevaluation/">Re-Evaluation</a>&nbsp;</li>
+    <li style="list-style-type: none; margin: 0px; padding: 3px 0px;"><a style="color: #644d4d; list-style-type: none; background-image: url(&quot;http://phy.uok.edu.in/images/arrow.gif&quot;); line-height: 20px; padding-left: 20px; background-position: 0px 5px;" target="_blank" href="http://egov.uok.edu.in/feedbackforum/">Feedback Forum</a></li>
+    <li style="list-style-type: none; margin: 0px; padding: 3px 0px;"><a style="color: #644d4d; list-style-type: none; background-image: url(&quot;http://phy.uok.edu.in/images/arrow.gif&quot;); line-height: 20px; padding-left: 20px; background-position: 0px 5px;" target="_blank" href="http://egov.uok.edu.in/courseinfo/">Student Academic Details</a></li>
+    <li style="list-style-type: none; margin: 0px; padding: 3px 0px;"><a style="color: #644d4d; list-style-type: none; background-image: url(&quot;http://phy.uok.edu.in/images/arrow.gif&quot;); line-height: 20px; padding-left: 20px; background-position: 0px 5px;" target="_blank" href="http://kashmiruniversity.net/pgadmissions.aspx">Admission 2012</a></li>
+</ul>
+</div>
+
+</div><!-- End_Module_751 --></div>
+    </div>
+    <div class="c_footer">
+        
+        
+        
+    </div>
+</div>
+</div>
+                                    
+                                    <div id="dnn_ContentPane" class="center-area" style="width:658px; border-right:none;">
+
+                                   <a name="500"></a>
+<div class="c_container c_head_grey">
+    
+    <div class="c_content">
+        <div id="dnn_ctr500_ContentPane" class="Normal c_contentpane">
+        
+        <!-- Start_Module_500 --><div id="dnn_ctr500_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr500_HtmlModule_lblContent" class="Normal">
+	<div><span style="font-size: 16px;"><strong>Summer Semesters</strong> <br />
+<hr />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size: 10px;">Download pdf reader to view syllabus</span><br />
+Semester - I</span><span style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="" width="52" height="52" usemap="#rade_img_map_1331553395236" src="/Portals/0/../../../../../../../Portals/0/cs/images/reader_128.jpg" style="width: 52px; height: 52px; border: 0px solid;" /></span><span style="font-size: 16px;">
+<table width="565" height="157" class="telerik-reTable-4">
+    <thead>
+    </thead>
+    <tbody>
+        <tr class="telerik-reTableHeaderRow-4">
+            <td class="telerik-reTableHeaderFirstCol-4"><span style="font-size: 16px;">&nbsp;<span style="font-size: 12px;">Course Name</span><br />
+            </span></td>
+            <td class="telerik-reTableHeaderOddCol-4"><span style="font-size: 16px;"><span style="font-size: 12px;">Course Code </span><br />
+            </span></td>
+            <td class="telerik-reTableHeaderLastCol-4"><span style="font-size: 14px;"><span style="font-size: 12px;">Syllabus</span><br />
+            </span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;COMPUTER FUNDAMENTALS AND APPLICATIONS</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-1T0</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1228.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableEvenRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;MICROPROCESSOR, ALP AND ITS APPLICATIONS</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-1T1</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1229.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;TECHNICAL COMMUNICATION</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-1T2</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1230.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableFooterRow-4">
+            <td class="telerik-reTableFooterFirstCol-4"><span style="font-size: 10px;">&nbsp;PROGRAMMING LANGUAGE PRINCIPLES</span></td>
+            <td class="telerik-reTableFooterOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-1T3</span></td>
+            <td class="telerik-reTableFooterLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1231.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableFooterRow-4">
+            <td class="telerik-reTableFooterFirstCol-4"><span style="font-size: 10px;">&nbsp;ADVANCED DATABASE MANAGEMENT SYSTEMS</span></td>
+            <td class="telerik-reTableFooterOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-1T4</span></td>
+            <td class="telerik-reTableFooterLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1232.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableFooterRow-4">
+            <td class="telerik-reTableFooterFirstCol-4"><span style="font-size: 10px;">&nbsp;DISCRETE MATHEMATICS</span></td>
+            <td class="telerik-reTableFooterOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-1T5</span></td>
+            <td class="telerik-reTableFooterLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1233.PDF">Download</a></span></td>
+        </tr>
+    </tbody>
+</table>
+<style type="text/css" id="telerik-reTable-4">
+    .telerik-reTable-4 {
+    BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-COLLAPSE: collapse; FONT-FAMILY: Tahoma; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid
+    }
+    .telerik-reTable-4 TR.telerik-reTableHeaderRow-4 {
+    PADDING-BOTTOM: 0in; LINE-HEIGHT: 115%; BORDER-RIGHT-WIDTH: 1pt; MARGIN: 0in 0in 10pt; PADDING-LEFT: 5.4pt; WIDTH: 119.7pt; PADDING-RIGHT: 5.4pt; FONT-FAMILY: "Calibri","sans-serif"; BACKGROUND: #4f81bd; BORDER-TOP-WIDTH: 1pt; BORDER-BOTTOM-WIDTH: 3pt; COLOR: #ffffff; FONT-SIZE: 11pt; BORDER-LEFT-WIDTH: 1pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableHeaderFirstCol-4 {
+    PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableHeaderLastCol-4 {
+    PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableHeaderOddCol-4 {
+    PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableHeaderEvenCol-4 {
+    PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TR.telerik-reTableOddRow-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-WIDTH: 1pt; COLOR: #666666; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 1pt
+    }
+    .telerik-reTable-4 TR.telerik-reTableEvenRow-4 {
+    COLOR: #666666; FONT-SIZE: 10pt; VERTICAL-ALIGN: top
+    }
+    .telerik-reTable-4 TD.telerik-reTableFirstCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; BORDER-LEFT: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-RIGHT-COLOR: #4f81bd; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableLastCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-LEFT-COLOR: #4f81bd; BORDER-LEFT-WIDTH: 1pt; BORDER-RIGHT: #4f81bd 1pt solid; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableOddCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-RIGHT-COLOR: #4f81bd; BORDER-LEFT-COLOR: #4f81bd; BORDER-LEFT-WIDTH: 1pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableEvenCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-RIGHT-COLOR: #4f81bd; BORDER-LEFT-COLOR: #4f81bd; BORDER-LEFT-WIDTH: 1pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TR.telerik-reTableFooterRow-4 {
+    PADDING-BOTTOM: 0in; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; COLOR: #355c8c; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableFooterFirstCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; BORDER-LEFT: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-RIGHT-COLOR: #4f81bd; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableFooterLastCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-LEFT-COLOR: #4f81bd; BORDER-LEFT-WIDTH: 1pt; BORDER-RIGHT: #4f81bd 1pt solid; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableFooterOddCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-RIGHT-COLOR: #4f81bd; BORDER-LEFT-COLOR: #4f81bd; BORDER-LEFT-WIDTH: 1pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-4 TD.telerik-reTableFooterEvenCol-4 {
+    BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 0in; BORDER-RIGHT-WIDTH: 1pt; BORDER-TOP-COLOR: #4f81bd; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP-WIDTH: 1pt; BORDER-RIGHT-COLOR: #4f81bd; BORDER-LEFT-COLOR: #4f81bd; BORDER-LEFT-WIDTH: 1pt; PADDING-TOP: 0in
+    }
+</style>
+<br />
+Semester - III<br />
+<table width="567" height="154" class="telerik-reTable-4">
+    <thead>
+    </thead>
+    <tbody>
+        <tr class="telerik-reTableHeaderRow-4">
+            <td class="telerik-reTableHeaderFirstCol-4">&nbsp;Course Name<br />
+            </td>
+            <td class="telerik-reTableHeaderOddCol-4">Course Code <br />
+            </td>
+            <td class="telerik-reTableHeaderLastCol-4">Syllabus<br />
+            </td>
+        </tr>
+        <tr class="telerik-reTableOddRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;ADVANCED OPERATING SYSTEMS</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-3T1</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1240.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableEvenRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;NUMERICAL AND STATISTICAL COMPUTING</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-3T2</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1241.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;COMPUTER GRAPHICS</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-3T3</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1242.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableFooterRow-4">
+            <td class="telerik-reTableFooterFirstCol-4"><span style="font-size: 10px;">&nbsp;COMPUTER NETWORKS,PROTOCOLS AND PROGRAMING</span></td>
+            <td class="telerik-reTableFooterOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-3T4</span></td>
+            <td class="telerik-reTableFooterLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1243.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableFooterRow-4">
+            <td class="telerik-reTableFooterFirstCol-4"><span style="font-size: 10px;">&nbsp;DESIGNS AND ANALYSIS OF ALGORITHMS</span></td>
+            <td class="telerik-reTableFooterOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-3T5</span></td>
+            <td class="telerik-reTableFooterLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1244.PDF">Download</a></span></td>
+        </tr>
+    </tbody>
+</table>
+<br />
+Semester - V<br />
+<table width="571" height="154" class="telerik-reTable-4">
+    <thead>
+    </thead>
+    <tbody>
+        <tr class="telerik-reTableHeaderRow-4">
+            <td class="telerik-reTableHeaderFirstCol-4">&nbsp;Course Name<br />
+            </td>
+            <td class="telerik-reTableHeaderOddCol-4">Course Code <br />
+            </td>
+            <td class="telerik-reTableHeaderLastCol-4">Syllabus<br />
+            </td>
+        </tr>
+        <tr class="telerik-reTableOddRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;JAVA PROGRAMMING</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-5T1</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1257.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableEvenRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;THEORY OF COMPUTATION AND FORMAL LANGUAGES</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-5T2</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1256.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-4">
+            <td class="telerik-reTableFirstCol-4"><span style="font-size: 10px;">&nbsp;OPTIMIZATION TECHNIQUES</span></td>
+            <td class="telerik-reTableOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-5T3</span></td>
+            <td class="telerik-reTableLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1258.PDF">Download</a></span></td>
+        </tr>
+        <tr class="telerik-reTableFooterRow-4">
+            <td class="telerik-reTableFooterFirstCol-4"><span style="font-size: 10px;">&nbsp;WEB PROGRAMMING</span></td>
+            <td class="telerik-reTableFooterOddCol-4"><span style="font-size: 10px;">&nbsp;MCA-5T4</span></td>
+            <td class="telerik-reTableFooterLastCol-4"><span style="font-size: 10px;">&nbsp;<a target="_blank" href="/Portals/0/cs/syllabus/1259.PDF">Download</a></span></td>
+        </tr>
+    </tbody>
+</table>
+<table width="570" height="122" class="telerik-reTable-3">
+    <thead>
+    </thead>
+    <tbody>
+        <tr class="telerik-reTableHeaderRow-3">
+            <td class="telerik-reTableHeaderFirstCol-3">&nbsp;Elective Name<br />
+            </td>
+            <td class="telerik-reTableHeaderOddCol-3">Elective Code<br />
+            </td>
+            <td class="telerik-reTableHeaderLastCol-3">Syllabus <br />
+            </td>
+        </tr>
+        <tr class="telerik-reTableOddRow-3">
+            <td class="telerik-reTableFirstCol-3"><span style="font-size: 10px;">&nbsp;WIRELESS AND MOBILE COMMUNICATION</span></td>
+            <td class="telerik-reTableOddCol-3"><span style="font-size: 10px;">&nbsp;MCA-5EL1</span></td>
+            <td class="telerik-reTableLastCol-3"><span style="font-size: 10px;">&nbsp;Download</span></td>
+        </tr>
+        <tr class="telerik-reTableEvenRow-3">
+            <td class="telerik-reTableFirstCol-3"><span style="font-size: 10px;">&nbsp;BIO-INFORMATICS</span></td>
+            <td class="telerik-reTableOddCol-3"><span style="font-size: 10px;">&nbsp;MCA-5EL2</span></td>
+            <td class="telerik-reTableLastCol-3"><span style="font-size: 10px;">&nbsp;Download</span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-3">
+            <td class="telerik-reTableFirstCol-3"><span style="font-size: 10px;">&nbsp;DIGITAL IMAGE PROCESSING</span></td>
+            <td class="telerik-reTableOddCol-3"><span style="font-size: 10px;">&nbsp;MCA-5EL3</span></td>
+            <td class="telerik-reTableLastCol-3"><span style="font-size: 10px;">&nbsp;Download</span></td>
+        </tr>
+        <tr class="telerik-reTableEvenRow-3">
+            <td class="telerik-reTableFirstCol-3"><span style="font-size: 10px;">&nbsp;QUALITY ASSURANCE AND TESTING</span></td>
+            <td class="telerik-reTableOddCol-3"><span style="font-size: 10px;">&nbsp;MCA-5EL4</span></td>
+            <td class="telerik-reTableLastCol-3"><span style="font-size: 10px;">&nbsp;Download</span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-3">
+            <td class="telerik-reTableFirstCol-3"><span style="font-size: 10px;">&nbsp;DESIGN AND DEVELOPMENT OF EMBEDDED SYSTEMS</span></td>
+            <td class="telerik-reTableOddCol-3"><span style="font-size: 10px;">&nbsp;MCA-5EL5</span></td>
+            <td class="telerik-reTableLastCol-3"><span style="font-size: 10px;">&nbsp;Download</span></td>
+        </tr>
+        <tr class="telerik-reTableOddRow-3">
+            <td class="telerik-reTableFirstCol-3"><span style="font-size: 10px;">&nbsp;NETWORK SECURITY &amp; CRYPTOGRAPHY</span></td>
+            <td class="telerik-reTableOddCol-3"><span style="font-size: 10px;">&nbsp;MCA-5EL6</span></td>
+            <td class="telerik-reTableLastCol-3"><span style="font-size: 10px;">&nbsp;Download</span></td>
+        </tr>
+    </tbody>
+</table>
+<style type="text/css" id="telerik-reTable-3">
+    .telerik-reTable-3 {
+    BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-COLLAPSE: collapse; FONT-FAMILY: Tahoma; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid
+    }
+    .telerik-reTable-3 TR.telerik-reTableHeaderRow-3 {
+    TEXT-ALIGN: left; PADDING-BOTTOM: 10px; TEXT-TRANSFORM: capitalize; BACKGROUND-COLOR: #c4d1e3; FONT-STYLE: normal; MARGIN: 10px; PADDING-LEFT: 10px; BORDER-SPACING: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Verdana; COLOR: #3a4663; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-TOP: 10px
+    }
+    .telerik-reTable-3 TD.telerik-reTableHeaderFirstCol-3 {
+    PADDING-BOTTOM: 0in; LINE-HEIGHT: 14pt; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; COLOR: #3a4663; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableHeaderLastCol-3 {
+    PADDING-BOTTOM: 0in; LINE-HEIGHT: 14pt; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; COLOR: #3a4663; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableHeaderOddCol-3 {
+    PADDING-BOTTOM: 0in; LINE-HEIGHT: 14pt; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; COLOR: #3a4663; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableHeaderEvenCol-3 {
+    PADDING-BOTTOM: 0in; LINE-HEIGHT: 14pt; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; COLOR: #3a4663; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TR.telerik-reTableOddRow-3 {
+    COLOR: #666666; FONT-SIZE: 10pt; VERTICAL-ALIGN: top
+    }
+    .telerik-reTable-3 TR.telerik-reTableEvenRow-3 {
+    COLOR: #666666; FONT-SIZE: 10pt; VERTICAL-ALIGN: top
+    }
+    .telerik-reTable-3 TD.telerik-reTableFirstCol-3 {
+    PADDING-BOTTOM: 0in; BACKGROUND-COLOR: #e7ebf7; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableLastCol-3 {
+    PADDING-BOTTOM: 0in; BACKGROUND-COLOR: #e7ebf7; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableOddCol-3 {
+    PADDING-BOTTOM: 0in; BACKGROUND-COLOR: #f7f3f7; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableEvenCol-3 {
+    PADDING-BOTTOM: 0in; BACKGROUND-COLOR: #e7ebf7; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TR.telerik-reTableFooterRow-3 {
+    LINE-HEIGHT: 11pt; BACKGROUND-COLOR: #c4d1e3; FONT-FAMILY: Verdana; COLOR: #3a4663; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+    }
+    .telerik-reTable-3 TD.telerik-reTableFooterFirstCol-3 {
+    TEXT-ALIGN: left; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableFooterLastCol-3 {
+    TEXT-ALIGN: left; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableFooterOddCol-3 {
+    TEXT-ALIGN: left; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+    .telerik-reTable-3 TD.telerik-reTableFooterEvenCol-3 {
+    TEXT-ALIGN: left; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0in
+    }
+</style>
+</span><span style="font-size: 16px;"><br />
+</span></div>
+<map id="rade_img_map_1331553395236" name="rade_img_map_1331553395236">
+<area target="_blank" coords="1,0,50,50" shape="RECT" href="http://get.adobe.com/reader/" /></map>
+</div>
+
+</div><!-- End_Module_500 --></div>
+    </div>
+    <div class="c_footer">
+        
+        
+        
+    </div>
+</div>
+</div>
+                                    
+                                    
+ 	
+                                    
+                                    <div class="clr">
+                                    </div>
+                                </div>
+                                <div id="dnn_BottomPane" class="BottomPane">
+                                <a name="399"></a>
+<div class="c_container c_head_grey">
+    
+    <div class="c_content">
+        <div id="dnn_ctr399_ContentPane" class="Normal c_contentpane">
+        
+        <!-- Start_Module_399 --><div id="dnn_ctr399_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr399_HtmlModule_lblContent" class="Normal">
+	<div class="bottom-main">
+<div class="bottom">
+<div class="bottom-left"></div>
+<div class="bottom-link" style="color: white;"><a href="/home.aspx" style="color: white;"><span>Home</span></a> | <a href="/aboutus.aspx" style="color: white;">About Us</a> | <a href="/campus.aspx" style="color: white;">Campus</a>   | <a href="/importantlinkslist.aspx" style="color: white;">Important Links</a>
+<div class="copy-right" style="color: white;">Copyright &copy; 2012,University of Kashmir</div>
+</div>
+<div class="bottom-right"></div>
+</div>
+</div>
+</div>
+
+</div><!-- End_Module_399 --></div>
+    </div>
+    <div class="c_footer">
+        
+        
+        
+    </div>
+</div>
+</div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+    
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" value="`{`__scdoff`:`1`,`dnn_dnnNAV_ctldnnNAV_json`:`{nodes:[{id:\`60\`,key:\`60\`,txt:\`KU Home\`,ca:\`3\`,url:\`http://www.kashmiruniversity.net\`,img:\`\`,cssIcon:\` \`,nodes:[]},{id:\`40\`,key:\`40\`,txt:\`Home\`,ca:\`3\`,url:\`http://cs.uok.edu.in/Home.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[]},{enabled:\`0\`,id:\`236\`,key:\`236\`,txt:\`People\`,ca:\`3\`,url:\`http://cs.uok.edu.in/People.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[{id:\`59\`,key:\`59\`,txt:\`FACULTY\`,ca:\`3\`,url:\`http://cs.uok.edu.in/People/FACULTY.aspx\`,img:\`\`,nodes:[]},{id:\`218\`,key:\`218\`,txt:\`STAFF\`,ca:\`3\`,url:\`http://cs.uok.edu.in/People/STAFF.aspx\`,img:\`\`,nodes:[]},{id:\`237\`,key:\`237\`,txt:\`SCHOLARS\`,ca:\`3\`,url:\`http://cs.uok.edu.in/People/SCHOLARS.aspx\`,img:\`\`,nodes:[]},{id:\`238\`,key:\`238\`,txt:\`STUDENTS\`,ca:\`3\`,url:\`http://cs.uok.edu.in/People/STUDENTS.aspx\`,img:\`\`,nodes:[]}]},{id:\`62\`,key:\`62\`,txt:\`Courses offered\`,ca:\`3\`,url:\`http://cs.uok.edu.in/Coursesoffered.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[]},{id:\`64\`,key:\`64\`,txt:\`Notifications\`,ca:\`3\`,url:\`http://cs.uok.edu.in/Notifications.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[]},{id:\`65\`,key:\`65\`,txt:\`Student Services\`,ca:\`3\`,url:\`http://cs.uok.edu.in/StudentServices.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[]},{id:\`101\`,key:\`101\`,txt:\`Downloads\`,ca:\`3\`,url:\`http://cs.uok.edu.in/Downloads.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[]},{id:\`93\`,key:\`93\`,txt:\`Events\`,ca:\`3\`,url:\`http://cs.uok.edu.in/Events.aspx\`,img:\`\`,cssIcon:\` \`,nodes:[]}]}`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+<script type="text/javascript">dnn.setVar('dnn_dnnNAV_ctldnnNAV_p', '{callback:\'dnn.xmlhttp.doCallBack(\\\'ctldnnNAV dnn_dnnNAV_ctldnnNAV\\\',\\\'[NODEXML]\\\',this.callBackSuccess,mNode,this.callBackFail,this.callBackStatus,null,null,0);\',easeType:\'3\',mbcss:\'mainMenu\',easeDir:\'0\',orient:\'0\',rmode:\'0\',anim:\'0\',sysimgpath:\'/images/\',suborient:\'1\',postback:\'__doPostBack(\\\'dnn$dnnNAV$ctldnnNAV\\\',\\\'[NODEID]~|~Click\\\')\'}');dnn.controls.initMenu($get('dnn_dnnNAV_ctldnnNAV'));</script></form>
+</body>
+</html>
+lMS ê      U•˘U•˘;]Ì*       ":http://cs.uok.edu.in/Syllabi.aspx necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+X-Powered-By: ASP.NET
+Date: Wed, 15 Jul 2015 06:09:33 GMT
+Content-Length: 39570
+ charset UTF-8 uncompressed-len 0   öí

@@ -1,0 +1,1594 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=9" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>
+	Techopedia â€“ IT Dictionary for Computer Terms and Tech Definitions
+</title><meta name="rating" content="general" /><link rel="search" href="http://www.techopedia.com/opensearch_desc.xml" type="application/opensearchdescription+xml" title="www.Techopedia.com" /><link id="lnkRss" rel="alternate" type="application/rss+xml" title="Insight and inspiration from the latest Technology-related content on Techopedia" href="http://www.techopedia.com/feed/content/rss" /><link rel="shortcut icon" href="http://cdn.techopedia.com/resource/images/favicon/favicon.ico" /><link rel="apple-touch-icon" sizes="57x57" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-57x57.png" /><link rel="apple-touch-icon" sizes="114x114" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-114x114.png" /><link rel="apple-touch-icon" sizes="72x72" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" sizes="144x144" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon" sizes="60x60" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-60x60.png" /><link rel="apple-touch-icon" sizes="120x120" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-120x120.png" /><link rel="apple-touch-icon" sizes="76x76" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-76x76.png" /><link rel="apple-touch-icon" sizes="152x152" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="http://cdn.techopedia.com/resource/images/favicon/apple-touch-icon-180x180.png" /><link rel="icon" type="image/png" href="http://cdn.techopedia.com/resource/images/favicon/favicon-192x192.png" sizes="192x192" /><link rel="icon" type="image/png" href="http://cdn.techopedia.com/resource/images/favicon/favicon-160x160.png" sizes="160x160" /><link rel="icon" type="image/png" href="http://cdn.techopedia.com/resource/images/favicon/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/png" href="http://cdn.techopedia.com/resource/images/favicon/favicon-16x16.png" sizes="16x16" /><link rel="icon" type="image/png" href="http://cdn.techopedia.com/resource/images/favicon/favicon-32x32.png" sizes="32x32" /><link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700" rel="stylesheet" type="text/css" /><meta name="application-name" content="Techopedia" /><meta name="msapplication-config" content="/browserconfig.xml" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="//ad.idgtn.net/tnc.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        (function () {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/platform.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+    <link href="/resource/styles/sitecss?v=KTeNvk7NGwaMbAi7P5ZWSi7GnmavoJR_7f65I-L55NY1" rel="stylesheet"/>
+<link href="/resource/styles/elementcss?v=vWGxd92vNWSPEtmyDgxGzjrcuQafENop9_nAI5KKl1U1" rel="stylesheet"/>
+
+        <link href="/resource/styles/plugins/internads.min.css" rel="stylesheet" />
+        <script src="/resource/scripts/socialjs?v=qibQGbCwCwpHL4XkD_sGLmFFlNkYc17Gs2LvtHWUvPM1"></script>
+<script src="/googledfpjsbundle?v=hXI8jCxO2Z4H_1b8g2ToFGD11pwjNU0Ed9QZ5wj-hDU1"></script>
+
+  
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (navigator.appVersion.match(/MSIE [\d.]+/)) {
+                addPlaceHolderForIE($('#txtTodEmail'), "Sign up for the Term-of-the-Day");
+            }
+        });
+    </script>
+
+<meta name="dcterms.dateCopyrighted" content="Copyright (c) 2010 - 2015 Janalta Interactive Inc." /><link href="https://plus.google.com/+Techopedia" rel="publisher" /><meta name="description" content=" More than just a glossary, our dictionary of information technology covers everything from the basics of hardware and software to cloud computing and ERP." /><meta name="keywords" content="online, computer,dictionary,internet,encyclopedia,education,terms,social media,newsletters,subscribe,unsubscribe,techopedia,information technology,IT,tech,IT Dictionary,definiton,defintion" /></head>
+<body class="noTopMostAd">
+    <form method="post" action="dictionary" id="bodyForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="oOE4E0OCAWWbGzp0shSxkZLEZA6B3fmikAS0CX25E54IL7npAFn/AkdtL4VL2VH/RhpUdh4QZbC2jwj5Gr1RsWZbhm4=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="75ED7AEF" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="6QLKMMIJPXfjfrXCgsT/FvGsJ8/8Im0IEzdo6tXBq4kC9+gZqc0S0eiB8Ql/San/XfmEVLG0jZY+9qXYsu07BFTYW1/uFTCKRv72/8gsPbE5EjMBrcxziOyGf/Bojg0sEdC7DxncoGg9dY/yffrCzJwN90M=" />
+</div>
+        <!-- Techopedia_Fireplace -->
+        <div id='techopedia_fireplace' style='width: 1px; height: 1px;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () { googletag.display('techopedia_fireplace'); });
+            </script>
+        </div>
+        
+        <div>
+            
+            <div class="row siteWideAd text-center visible-desktop">
+                <a target="_blank" href="https://survey.researchresults.com/survey/selfserve/53b/g002/s0064127/Techopedia_Landing_Page.html">
+                    
+                    <div class="label label-danger">ALERT</div>
+                    <h4>
+                        Help us out with a survey and be eligible to win a $500 Amazon gift card.
+                        
+                    </h4>
+                </a>
+            </div>
+            
+        </div>
+        <div id="containerDiv" class="container containerWrapper" itemscope itemtype="http://schema.org/WebPage">
+            <div class="row divSignInWrapper">
+                
+                
+
+<div id="signInBarWrapper" class="hidden-xs">
+    <div id="signInBar">
+        <ul id="secondaryNav" class="visible-lg visible-md contentNavigation">
+            <li class="homeIcon"><a href="/">Home</a></li>
+            <li><a href="/dictionary">Dictionary</a></li>
+            <li><a href="/it-articles">Articles</a></li>
+            <li><a href="/it-tutorials">Tutorials</a></li>
+            <li><a href="/subscribe">Newsletters</a></li>
+            <li><a href="http://research.techopedia.com/">Free Resources</a></li>
+        </ul>
+        <ul id="signInNavigation" class="jq-signinNavigation" style="display: none">
+            <li class="loggedIn">Welcome, <span id="spnUserName"></span>&nbsp;<a href="/userarea/myprofile.aspx">(account)</a></li>
+            <li class="loggedIn"><a href='/account/logout.aspx' id="aLogOut">sign-out</a></li>
+            <li class="first notLoggedIn"><a class="jq-aLogin">Sign-In</a></li>
+            <li class="notLoggedIn"><a id="aRegistration" class="jq-aRegistration">Join Techopedia</a></li>
+        </ul>
+    </div>
+</div>
+<div class="modal fade" id="ajaxModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" id="modalContent">
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        setLoginText();
+    });
+</script>
+
+
+
+            </div>
+            <div id="headerWrapper" class="row">
+                <div id="header">
+                    <div class="flyoutMenuButtons visible-xs">
+                        <a href="#navigation" class="open-menu"><i class="fa fa-bars fa-3x"></i></a>
+                        <a href="#" class="close-menu"><i class="fa fa-bars fa-3x"></i></a>
+                    </div>
+                    <div id="logo_and_search">
+                        <div class="logoAndPhoneSearch" itemscope itemtype="http://schema.org/Organization">
+                            <a id="logo" itemprop="url" href="http://www.techopedia.com" title="Where IT and Business Meet">
+                                <span data-picture="" data-alt="Where IT and Business Meet">
+                                    <span data-src="http://cdn.techopedia.com/resource/images/techopedia_logo_389x80.png?width=170&height=42" data-media="(min-width: 320px) and (max-width:767px)"></span>
+                                    <span data-src="http://cdn.techopedia.com/resource/images/techopedia_logo_389x80.png" data-media="(min-width: 768px)"></span>
+                                    <noscript>
+                                        <img src="http://cdn.techopedia.com/resource/images/techopedia_logo_389x80.png?width=170&height=42" alt="Where IT and Business Meet" itemprop="logo">
+                                    </noscript>
+                                </span>
+                            </a>
+                            <a class="searchIcon visible-xs" href="javascript:void(0);"><i class="fa fa-search"></i></a>
+                        </div>
+                        <div id="top-search" class="hidden-xs">
+                            <div id="top-searchbox">
+                                <div class="tabs">
+                                    <div id="termsTab" class="tab active" onclick="SearchTabs();">
+                                        <span>Terms</span><div class="arrow">
+                                        </div>
+                                    </div>
+                                    <div id="articlesTab" class="tab inactive" onclick="SearchTabs();">
+                                        <span>Articles</span><div class="arrow">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clear">
+                                </div>
+                                <input name="ctl00$ctl00$txtSearch" type="text" maxlength="100" id="txtSearch" autocomplete="off" placeholder="Search the site..." />
+                                <input type="button" id="btnSearch" value="Search" class="button" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="phoneSearchBox" style="display: none">
+                        <input type="text" class="searchtextPhone form-control" placeholder="Search the Site..." />
+                        <input type="button" class="btn btn-inverse btnPhoneSearch" value="Search" />
+                    </div>
+                    <div id="navigation" data-intent="" data-in-mobile-before="#containerDiv" data-in-tablet-after="#logo_and_search" data-in-standard-after="#logo_and_search">
+                        
+<div>
+    <div class="megamenu_container megamenu_dark_bar megamenu_light">
+        <!-- Begin Menu Container -->
+        <ul class="megamenu">
+            <!-- Begin Menu -->
+            <li class="megamenu_button hidden-xs"><a href="javascript:void(0);">Menu</a></li>
+            <li class="menuHome"><a href="/">Home</a></li>
+            <li><a href="/dictionary" class="megamenu_drop">Dictionary<span></span></a>
+                <!-- Begin Item -->
+                <div class="dropdown_fullwidth dictionaryTab">
+                    <!-- Begin Item Container -->
+                    <div class="col_4 todWrapper">
+                        
+                        <div class="defImage">
+                            <div class="todFavicon">
+                                <span>&nbsp;</span>
+                            </div>
+                            <div class="todTitle">
+                                <h3>Term of the Day</h3>
+                                <h2><a href="/definition/4687/windows-icons-menus-and-pointing-device-wimp">Windows, Icons, Menus And Pointing Device</a></h2>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <hr />
+                        
+                        <p>
+                            Windows, icons, menus and pointing device (WIMP) denotes a style of computer-human interaction involving the aforementioned elements of the graphical user interface (GUI) which is the most common interaction method being used by desktop computers today. WIMP interaction was developed at Xerox PARC in 1973, and the term coined by Merzouga Wilberts...
+                            <a class="readMoreLink" href="/definition/4687/windows-icons-menus-and-pointing-device-wimp">Read more</a>
+                        </p>
+                        
+                    </div>
+                    <div class="col_4 responsive_halfs">
+                        <h3>Newest Terms</h3>
+                        <ul class="list_def">
+                            
+                                    <li><a title="New Media" href="/definition/416/new-media">New Media</a></li>
+                                
+                                    <li><a title="Offset Printing" href="/definition/486/offset-printing">Offset Printing</a></li>
+                                
+                                    <li><a title="Image Stabilization" href="/definition/2028/image-stabilization-is">Image Stabilization</a></li>
+                                
+                                    <li><a title="Number Lock" href="/definition/5540/number-lock-num-lock">Number Lock</a></li>
+                                
+                                    <li><a title="Non-Impact Printer" href="/definition/3614/non-impact-printer-nip">Non-Impact Printer</a></li>
+                                
+                                    <li><a title="Offline Browser" href="/definition/8658/offline-browser">Offline Browser</a></li>
+                                
+                                    <li><a title="Online Editing" href="/definition/2027/online-editing">Online Editing</a></li>
+                                
+                                    <li><a title="Phase-Locked Loop" href="/definition/5080/phase-locked-loop-pll">Phase-Locked Loop</a></li>
+                                
+                                    <li><a title="Cyber Library" href="/definition/31029/cyber-library">Cyber Library</a></li>
+                                
+                                    <li><a title="Business-to-Business Gateway" href="/definition/31041/business-to-business-gateway">Business-to-Business Gateway</a></li>
+                                
+                        </ul>
+                        <a href="/dictionary" title="View all terms" class="viewAll">View All...&nbsp;</a>
+                    </div>
+                    <div class="col_4 responsive_halfs">
+                        <h3>Top Categories</h3>
+                        <ul class="list_def">
+                            
+                                    <li><a title="Communication"
+                                        href="/dictionary/tags/communication">Communication</a></li>
+                                
+                                    <li><a title="Data"
+                                        href="/dictionary/tags/data">Data</a></li>
+                                
+                                    <li><a title="Development"
+                                        href="/dictionary/tags/development">Development</a></li>
+                                
+                                    <li><a title="Enterprise"
+                                        href="/dictionary/tags/enterprise">Enterprise</a></li>
+                                
+                                    <li><a title="Hardware"
+                                        href="/dictionary/tags/hardware">Hardware</a></li>
+                                
+                                    <li><a title="Internet"
+                                        href="/dictionary/tags/internet">Internet</a></li>
+                                
+                                    <li><a title="IT Business"
+                                        href="/dictionary/tags/it-business">IT Business</a></li>
+                                
+                                    <li><a title="Networking"
+                                        href="/dictionary/tags/networks">Networking</a></li>
+                                
+                                    <li><a title="Security"
+                                        href="/dictionary/tags/security">Security</a></li>
+                                
+                                    <li><a title="Software"
+                                        href="/dictionary/tags/software">Software</a></li>
+                                
+                        </ul>
+                        <a href="/dictionary/tags" title="View Tag Cloud" class="viewAll">View Tag Cloud...&nbsp;</a>
+                    </div>
+                </div>
+                <!-- End Item Container -->
+            </li>
+            <!-- End Item -->
+            
+                    <li><a href="/topic/237/big-data" class="megamenu_drop">Big Data<span></span></a>
+                        <!-- Begin Item -->
+                        <div class="dropdown_fullwidth topics">
+                            <!-- Begin Item Container -->
+                            <div class="col_8 relatedArticlesWrapper">
+                                <ul class="topicArticles">
+                                    
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31245/technology-trends/big-data/weighing-the-pros-and-cons-of-real-time-big-data-analytics" title="Weighing the Pros and Cons of Real-Time Big Data Analytics" style='display: block'>
+                                                <img alt="Weighing the Pros and Cons of Real-Time Big Data Analytics" src="http://cdn.techopedia.com/images/uploads/40e71b4f95d046cbadb77102a81b1922.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31245/technology-trends/big-data/weighing-the-pros-and-cons-of-real-time-big-data-analytics" title="Weighing the Pros and Cons of Real-Time Big Data Analytics">Weighing the Pros and Cons of Real-Time Big Data Analytics</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31215/enterprise/5-research-tools-for-enterprise-in-a-new-business-world" title="5 Research Tools for Enterprise in a New Business World" style='display: block'>
+                                                <img alt="5 Research Tools for Enterprise in a New Business World" src="http://cdn.techopedia.com/images/uploads/4ef8766b2e614b60ac419354665c7f67.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31215/enterprise/5-research-tools-for-enterprise-in-a-new-business-world" title="5 Research Tools for Enterprise in a New Business World">5 Research Tools for Enterprise in a New Business World</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31248/trends/cloud-computing/born-in-the-cloud" title="Born in the Cloud: The Next Generation of Cloud Services" style='display: block'>
+                                                <img alt="Born in the Cloud: The Next Generation of Cloud Services" src="http://cdn.techopedia.com/images/uploads/c67ccefbc0364192ac3d7c1f2ace78de.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31248/trends/cloud-computing/born-in-the-cloud" title="Born in the Cloud: The Next Generation of Cloud Services">Born in the Cloud: The Next Generation of Cloud Services</a></strong></li>
+                                        
+                                </ul>
+                                <div class="clearfix"></div>
+                                <hr />
+                                <div class="col_12 moreRecentContent">
+                                    <h4>More Recent Content in Big Data</h4>
+                                    <ul>
+                                        
+                                                <li><a href="/2/31144/trends/big-data/tackling-big-data-analytics-pain-points" title="Tackling Big Data Analytics Pain Points">Tackling Big Data Analytics Pain Points</a></li>
+                                            
+                                                <li><a href="/2/30431/it-business/business-intelligence-bi/4-bad-business-intelligence-habits-to-avoid-at-all-costs" title="4 Bad Business Intelligence Habits to Avoid at All Costs">4 Bad Business Intelligence Habits to Avoid at All Costs</a></li>
+                                            
+                                                <li><a href="/2/31175/trends/big-data/what-big-data-trends-are-on-the-horizon" title="What Big Data Trends Are on the Horizon?">What Big Data Trends Are on the Horizon?</a></li>
+                                            
+                                    </ul>
+                                    <a href="/topic/237/big-data" title="View All" class="viewAll">View All...&nbsp;</a>
+                                </div>
+                            </div>
+                            <div class="col_4 topicTitle">
+                                <div><a href='/topic/237/big-data'>Big Data</a> <a href="/dictionary" class="homeIcon">Home</a></div>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTags">
+                                <ul class="list_def">
+                                    
+                                            <li><a href='/topic/1/cloud-computing'>Cloud Computing</a></li>
+                                        
+                                            <li><a href='/topic/11/virtualization'>Virtualization</a></li>
+                                        
+                                            <li><a href='/topic/21/enterprise'>Enterprise</a></li>
+                                        
+                                            <li><a href='/topic/8/databases'>Databases</a></li>
+                                        
+                                            <li><a href='/topic/67/buzzwords-and-jargon'>Buzzwords and Jargon</a></li>
+                                        
+                                </ul>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTerms">
+                                <ul class="list_def">
+                                    
+                                            <li><a title="BigQuery" href="/definition/31282/bigquery">BigQuery</a></li>
+                                        
+                                            <li><a title="Indexing" href="/definition/7705/indexing">Indexing</a></li>
+                                        
+                                            <li><a title="Real-Time Data" href="/definition/31256/real-time-data">Real-Time Data</a></li>
+                                        
+                                            <li><a title="Hadoop Ecosystem" href="/definition/31255/hadoop-ecosystem">Hadoop Ecosystem</a></li>
+                                        
+                                            <li><a title="Genomic Data" href="/definition/31247/genomic-data">Genomic Data</a></li>
+                                        
+                                            <li><a title="Cognos" href="/definition/14673/cognos">Cognos</a></li>
+                                        
+                                            <li><a title="Spatial Data Mining" href="/definition/30595/spatial-data-mining">Spatial Data Mining</a></li>
+                                        
+                                            <li><a title="Predictive Data Mining" href="/definition/30597/predictive-data-mining">Predictive Data Mining</a></li>
+                                        
+                                            <li><a title="Statistical Package for the Social Sciences" href="/definition/12401/statistical-package-for-the-social-sciences-spss">Statistical Package for the Social Sciences</a></li>
+                                        
+                                            <li><a title="Instructional Technology" href="/definition/20045/instructional-technology">Instructional Technology</a></li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- End Item Container -->
+                    </li>
+                
+                    <li><a href="/topic/1/cloud-computing" class="megamenu_drop">Cloud Computing<span></span></a>
+                        <!-- Begin Item -->
+                        <div class="dropdown_fullwidth topics">
+                            <!-- Begin Item Container -->
+                            <div class="col_8 relatedArticlesWrapper">
+                                <ul class="topicArticles">
+                                    
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31280/trends/the-four-major-cloud-players-pros-and-cons" title="The Four Major Cloud Players: Pros and Cons" style='display: block'>
+                                                <img alt="The Four Major Cloud Players: Pros and Cons" src="http://cdn.techopedia.com/images/uploads/69292aa54e704034a8eef4f079add9cf.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31280/trends/the-four-major-cloud-players-pros-and-cons" title="The Four Major Cloud Players: Pros and Cons">The Four Major Cloud Players: Pros and Cons</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31248/trends/cloud-computing/born-in-the-cloud" title="Born in the Cloud: The Next Generation of Cloud Services" style='display: block'>
+                                                <img alt="Born in the Cloud: The Next Generation of Cloud Services" src="http://cdn.techopedia.com/images/uploads/c67ccefbc0364192ac3d7c1f2ace78de.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31248/trends/cloud-computing/born-in-the-cloud" title="Born in the Cloud: The Next Generation of Cloud Services">Born in the Cloud: The Next Generation of Cloud Services</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/29906/trends/geolocation-what-is-it-and-what-are-the-possibilities" title="Geolocation: What It Is, What It Has to Offer" style='display: block'>
+                                                <img alt="Geolocation: What It Is, What It Has to Offer" src="http://cdn.techopedia.com/images/uploads/d129c05141ca47ee94a01d8aad2b86be.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/29906/trends/geolocation-what-is-it-and-what-are-the-possibilities" title="Geolocation: What It Is, What It Has to Offer">Geolocation: What It Is, What It Has to Offer</a></strong></li>
+                                        
+                                </ul>
+                                <div class="clearfix"></div>
+                                <hr />
+                                <div class="col_12 moreRecentContent">
+                                    <h4>More Recent Content in Cloud Computing</h4>
+                                    <ul>
+                                        
+                                                <li><a href="/2/31241/technology-trends/a-look-at-the-growth-of-cloud-service" title="A Look at the Growth of Cloud Services">A Look at the Growth of Cloud Services</a></li>
+                                            
+                                                <li><a href="/2/31070/trends/cloud-computing/can-niche-cloud-providers-compete-with-the-big-guys" title="Can Niche Cloud Providers Compete with the 'Big Guys'?">Can Niche Cloud Providers Compete with the 'Big Guys'?</a></li>
+                                            
+                                                <li><a href="/2/31076/technology-trends/grounding-the-cloud-brokerages-and-cloud-service-brokers" title="Grounding the Cloud: What You Need to Know About Cloud Service Brokers">Grounding the Cloud: What You Need to Know About Cloud Service Brokers</a></li>
+                                            
+                                    </ul>
+                                    <a href="/topic/1/cloud-computing" title="View All" class="viewAll">View All...&nbsp;</a>
+                                </div>
+                            </div>
+                            <div class="col_4 topicTitle">
+                                <div><a href='/topic/1/cloud-computing'>Cloud Computing</a> <a href="/dictionary" class="homeIcon">Home</a></div>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTags">
+                                <ul class="list_def">
+                                    
+                                            <li><a href='/topic/11/virtualization'>Virtualization</a></li>
+                                        
+                                            <li><a href='/topic/67/buzzwords-and-jargon'>Buzzwords and Jargon</a></li>
+                                        
+                                            <li><a href='/topic/231/software-as-a-service-saas'>Software-as-a-Service (SaaS)</a></li>
+                                        
+                                            <li><a href='/topic/40/distributed-computing'>Distributed Computing</a></li>
+                                        
+                                            <li><a href='/topic/216/data-centers'>Data Centers</a></li>
+                                        
+                                            <li><a href='/topic/15/open-source'>Open Source</a></li>
+                                        
+                                </ul>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTerms">
+                                <ul class="list_def">
+                                    
+                                            <li><a title="Virtual Website" href="/definition/4921/virtual-website">Virtual Website</a></li>
+                                        
+                                            <li><a title="BigQuery" href="/definition/31282/bigquery">BigQuery</a></li>
+                                        
+                                            <li><a title="Born in the Cloud" href="/definition/31295/born-in-the-cloud">Born in the Cloud</a></li>
+                                        
+                                            <li><a title="Elastic Load Balancing" href="/definition/31281/elastic-load-balancing-elb">Elastic Load Balancing</a></li>
+                                        
+                                            <li><a title="Google App Engine" href="/definition/31267/google-app-engine-gae">Google App Engine</a></li>
+                                        
+                                            <li><a title="Web-Scale IT" href="/definition/31230/web-scale-it">Web-Scale IT</a></li>
+                                        
+                                            <li><a title="Cloud App Policy" href="/definition/31197/cloud-app-policy">Cloud App Policy</a></li>
+                                        
+                                            <li><a title="Cloud Middleware" href="/definition/30630/cloud-middleware-software">Cloud Middleware</a></li>
+                                        
+                                            <li><a title="Security Framework" href="/definition/30605/security-framework-cloud-computing">Security Framework</a></li>
+                                        
+                                            <li><a title="Amazon Web Services S3" href="/definition/31126/amazon-web-services-s3">Amazon Web Services S3</a></li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- End Item Container -->
+                    </li>
+                
+                    <li><a href="/topic/57/mobile-computing" class="megamenu_drop">Mobile Computing<span></span></a>
+                        <!-- Begin Item -->
+                        <div class="dropdown_fullwidth topics">
+                            <!-- Begin Item Container -->
+                            <div class="col_8 relatedArticlesWrapper">
+                                <ul class="topicArticles">
+                                    
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/29906/trends/geolocation-what-is-it-and-what-are-the-possibilities" title="Geolocation: What It Is, What It Has to Offer" style='display: block'>
+                                                <img alt="Geolocation: What It Is, What It Has to Offer" src="http://cdn.techopedia.com/images/uploads/d129c05141ca47ee94a01d8aad2b86be.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/29906/trends/geolocation-what-is-it-and-what-are-the-possibilities" title="Geolocation: What It Is, What It Has to Offer">Geolocation: What It Is, What It Has to Offer</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31226/personal-tech/mobile-technology-top-twitter-influencers-to-follow" title="Mobile Technology: Top Twitter Influencers to Follow" style='display: block'>
+                                                <img alt="Mobile Technology: Top Twitter Influencers to Follow" src="http://cdn.techopedia.com/images/uploads/b2b901b62d024903ab6878757b8cdff1.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31226/personal-tech/mobile-technology-top-twitter-influencers-to-follow" title="Mobile Technology: Top Twitter Influencers to Follow">Mobile Technology: Top Twitter Influencers to Follow</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31156/personal-tech/new-technologies-that-are-older-than-you-think" title="New Technologies That Are Older Than You Think" style='display: block'>
+                                                <img alt="New Technologies That Are Older Than You Think" src="http://cdn.techopedia.com/images/uploads/7c3f6aa6fc4243ce958746c0381a8d43.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31156/personal-tech/new-technologies-that-are-older-than-you-think" title="New Technologies That Are Older Than You Think">New Technologies That Are Older Than You Think</a></strong></li>
+                                        
+                                </ul>
+                                <div class="clearfix"></div>
+                                <hr />
+                                <div class="col_12 moreRecentContent">
+                                    <h4>More Recent Content in Mobile Computing</h4>
+                                    <ul>
+                                        
+                                                <li><a href="/2/31205/trends/are-wearable-devices-a-threat-to-corporate-networks" title="Are Wearable Devices a Threat to Corporate Networks?">Are Wearable Devices a Threat to Corporate Networks?</a></li>
+                                            
+                                                <li><a href="/2/30987/technology-trends/virtualization/5-things-mobile-virtualization-will-do" title="5 Things Mobile Virtualization Will Do">5 Things Mobile Virtualization Will Do</a></li>
+                                            
+                                                <li><a href="/2/30825/in-the-news/web-roundup-oops-apple-does-it-again-" title="Web Roundup: Oops! Apple Does It Again">Web Roundup: Oops! Apple Does It Again</a></li>
+                                            
+                                    </ul>
+                                    <a href="/topic/57/mobile-computing" title="View All" class="viewAll">View All...&nbsp;</a>
+                                </div>
+                            </div>
+                            <div class="col_4 topicTitle">
+                                <div><a href='/topic/57/mobile-computing'>Mobile Computing</a> <a href="/dictionary" class="homeIcon">Home</a></div>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTags">
+                                <ul class="list_def">
+                                    
+                                            <li><a href='/topic/238/mobile-development'>Mobile Development</a></li>
+                                        
+                                            <li><a href='/topic/102/internet'>Internet</a></li>
+                                        
+                                            <li><a href='/topic/5/networks'>Networking</a></li>
+                                        
+                                            <li><a href='/topic/263/cio'>CIO</a></li>
+                                        
+                                            <li><a href='/topic/109/data'>Data</a></li>
+                                        
+                                            <li><a href='/topic/7/enterprise-applications'>Enterprise Applications</a></li>
+                                        
+                                            <li><a href='/topic/6/wireless'>Wireless</a></li>
+                                        
+                                </ul>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTerms">
+                                <ul class="list_def">
+                                    
+                                            <li><a title="Rooting" href="/definition/31284/rooting-smartphones">Rooting</a></li>
+                                        
+                                            <li><a title="PalmPilot" href="/definition/10208/palmpilot">PalmPilot</a></li>
+                                        
+                                            <li><a title="Pocket PC" href="/definition/2130/pocket-pc-ppc">Pocket PC</a></li>
+                                        
+                                            <li><a title="Android Lollipop" href="/definition/31235/android-lollipop">Android Lollipop</a></li>
+                                        
+                                            <li><a title="Personal Communications Service" href="/definition/2967/personal-communications-service-pcs">Personal Communications Service</a></li>
+                                        
+                                            <li><a title="Multimedia Messaging Service" href="/definition/26918/multimedia-messaging-service-mms">Multimedia Messaging Service</a></li>
+                                        
+                                            <li><a title="WirelessHD" href="/definition/5113/wirelesshd-wihd">WirelessHD</a></li>
+                                        
+                                            <li><a title="Quad HD" href="/definition/10824/quad-hd-qhd">Quad HD</a></li>
+                                        
+                                            <li><a title="Phantom Vibration Syndrome" href="/definition/31221/phantom-vibration-syndrome">Phantom Vibration Syndrome</a></li>
+                                        
+                                            <li><a title="Voice Dial" href="/definition/16613/voice-dial">Voice Dial</a></li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- End Item Container -->
+                    </li>
+                
+                    <li><a href="/topic/4/security" class="megamenu_drop">Security<span></span></a>
+                        <!-- Begin Item -->
+                        <div class="dropdown_fullwidth topics">
+                            <!-- Begin Item Container -->
+                            <div class="col_8 relatedArticlesWrapper">
+                                <ul class="topicArticles">
+                                    
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31250/trends/how-network-virtualization-is-used-as-a-security-tool" title="How Network Virtualization is Used as a Security Tool" style='display: block'>
+                                                <img alt="How Network Virtualization is Used as a Security Tool" src="http://cdn.techopedia.com/images/uploads/ac1413abf0f04280831ceb38b51c5acd.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31250/trends/how-network-virtualization-is-used-as-a-security-tool" title="How Network Virtualization is Used as a Security Tool">How Network Virtualization is Used as a Security Tool</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31117/security/aggregated-security-with-opendns" title="Aggregated Security with OpenDNS" style='display: block'>
+                                                <img alt="Aggregated Security with OpenDNS" src="http://cdn.techopedia.com/images/uploads/05f57a21527e45deb38b1fcc9fb6d297.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31117/security/aggregated-security-with-opendns" title="Aggregated Security with OpenDNS">Aggregated Security with OpenDNS</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31200/security/how-should-businesses-respond-to-a-ransomware-attack" title="How Should Businesses Respond to a Ransomware Attack?" style='display: block'>
+                                                <img alt="How Should Businesses Respond to a Ransomware Attack?" src="http://cdn.techopedia.com/images/uploads/6b0b23e73eb745ec8ec490125988c20d.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31200/security/how-should-businesses-respond-to-a-ransomware-attack" title="How Should Businesses Respond to a Ransomware Attack?">How Should Businesses Respond to a Ransomware Attack?</a></strong></li>
+                                        
+                                </ul>
+                                <div class="clearfix"></div>
+                                <hr />
+                                <div class="col_12 moreRecentContent">
+                                    <h4>More Recent Content in Security</h4>
+                                    <ul>
+                                        
+                                                <li><a href="/2/31007/trends/virtualization/10-ways-virtualization-can-improve-security" title="10 Ways Virtualization Can Improve Security">10 Ways Virtualization Can Improve Security</a></li>
+                                            
+                                                <li><a href="/2/31158/security/does-a-car-really-need-a-smart-key" title="Does a Car Really Need a 'Smart Key'?">Does a Car Really Need a 'Smart Key'?</a></li>
+                                            
+                                                <li><a href="/2/31205/trends/are-wearable-devices-a-threat-to-corporate-networks" title="Are Wearable Devices a Threat to Corporate Networks?">Are Wearable Devices a Threat to Corporate Networks?</a></li>
+                                            
+                                    </ul>
+                                    <a href="/topic/4/security" title="View All" class="viewAll">View All...&nbsp;</a>
+                                </div>
+                            </div>
+                            <div class="col_4 topicTitle">
+                                <div><a href='/topic/4/security'>Security</a> <a href="/dictionary" class="homeIcon">Home</a></div>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTags">
+                                <ul class="list_def">
+                                    
+                                            <li><a href='/topic/220/hacking'>Hacking</a></li>
+                                        
+                                            <li><a href='/topic/216/data-centers'>Data Centers</a></li>
+                                        
+                                            <li><a href='/topic/223/forensics'>Forensics</a></li>
+                                        
+                                            <li><a href='/topic/197/legal'>Legal</a></li>
+                                        
+                                            <li><a href='/topic/26/viruses'>Viruses</a></li>
+                                        
+                                            <li><a href='/topic/30/software'>Software</a></li>
+                                        
+                                </ul>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTerms">
+                                <ul class="list_def">
+                                    
+                                            <li><a title="NIST 800 Series" href="/definition/16518/nist-800-series">NIST 800 Series</a></li>
+                                        
+                                            <li><a title="Universal Authentication" href="/definition/13702/universal-authentication">Universal Authentication</a></li>
+                                        
+                                            <li><a title="Windows Defender" href="/definition/13520/windows-defender">Windows Defender</a></li>
+                                        
+                                            <li><a title="Wired Equivalent Privacy 2" href="/definition/10962/wired-equivalent-privacy-2-wep2">Wired Equivalent Privacy 2</a></li>
+                                        
+                                            <li><a title="Web Application Security Consortium" href="/definition/13711/web-application-security-consortium-wasc">Web Application Security Consortium</a></li>
+                                        
+                                            <li><a title="Wiretap Trojan" href="/definition/13715/wiretap-trojan">Wiretap Trojan</a></li>
+                                        
+                                            <li><a title="Voice Logger" href="/definition/16169/voice-logger">Voice Logger</a></li>
+                                        
+                                            <li><a title="Zero Filling" href="/definition/10143/zero-filling">Zero Filling</a></li>
+                                        
+                                            <li><a title="SoakSoak Malware" href="/definition/31233/soaksoak-malware">SoakSoak Malware</a></li>
+                                        
+                                            <li><a title="Vulnerability Disclosure" href="/definition/16171/vulnerability-disclosure">Vulnerability Disclosure</a></li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- End Item Container -->
+                    </li>
+                
+                    <li><a href="/topic/241/online-privacy" class="megamenu_drop">Online Privacy<span></span></a>
+                        <!-- Begin Item -->
+                        <div class="dropdown_fullwidth topics">
+                            <!-- Begin Item Container -->
+                            <div class="col_8 relatedArticlesWrapper">
+                                <ul class="topicArticles">
+                                    
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/31157/in-the-news/web-roundup-major-privacy-updates-in-technology-worldwide" title="Web Roundup: Major Privacy Updates in Technology Worldwide" style='display: block'>
+                                                <img alt="Web Roundup: Major Privacy Updates in Technology Worldwide" src="http://cdn.techopedia.com/images/uploads/6f7af8fa72ad4b42a3188cc146542f3a.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/31157/in-the-news/web-roundup-major-privacy-updates-in-technology-worldwide" title="Web Roundup: Major Privacy Updates in Technology Worldwide">Web Roundup: Major Privacy Updates in Technology Worldwide</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/30973/trends/who-owns-your-information" title="Who Owns All the Data Collected About You? The Answer May Surprise You" style='display: block'>
+                                                <img alt="Who Owns All the Data Collected About You? The Answer May Surprise You" src="http://cdn.techopedia.com/images/uploads/9ef8b6496ea94f388f576d696dc18d47.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/30973/trends/who-owns-your-information" title="Who Owns All the Data Collected About You? The Answer May Surprise You">Who Owns All the Data Collected About You? The Answer May Surprise You</a></strong></li>
+                                        
+                                            <li><a class="thumbnail pull-left articleImage" href="/2/30904/in-the-news/web-roundup-smartphones-hackers-and-cutting-edge-mobile-technology" title="Web Roundup: Smartphones, Hackers and Cutting-Edge Mobile Technology" style='display: block'>
+                                                <img alt="Web Roundup: Smartphones, Hackers and Cutting-Edge Mobile Technology" src="http://cdn.techopedia.com/images/uploads/ad7f120fbb614059b06446d788ab4531.jpg?width=150&height=93&mode=crop" /></a>
+                                                <div class="clearfix"></div>
+                                                <strong><a href="/2/30904/in-the-news/web-roundup-smartphones-hackers-and-cutting-edge-mobile-technology" title="Web Roundup: Smartphones, Hackers and Cutting-Edge Mobile Technology">Web Roundup: Smartphones, Hackers and Cutting-Edge Mobile Technology</a></strong></li>
+                                        
+                                </ul>
+                                <div class="clearfix"></div>
+                                <hr />
+                                <div class="col_12 moreRecentContent">
+                                    <h4>More Recent Content in Online Privacy</h4>
+                                    <ul>
+                                        
+                                                <li><a href="/2/30699/security/whos-responsible-for-security-now" title="Who's Responsible for Cloud Security Now?">Who's Responsible for Cloud Security Now?</a></li>
+                                            
+                                                <li><a href="/2/30614/internet/internet-of-things/internet-of-things-who-owns-the-data" title="Internet of Things: Who Owns the Data?">Internet of Things: Who Owns the Data?</a></li>
+                                            
+                                                <li><a href="/2/30282/personal-tech/software-applications/6-ways-to-keep-apps-from-oversharing-your-personal-data" title="6 Ways to Keep Apps From Oversharing Your Personal Data">6 Ways to Keep Apps From Oversharing Your Personal Data</a></li>
+                                            
+                                    </ul>
+                                    <a href="/topic/241/online-privacy" title="View All" class="viewAll">View All...&nbsp;</a>
+                                </div>
+                            </div>
+                            <div class="col_4 topicTitle">
+                                <div><a href='/topic/241/online-privacy'>Online Privacy</a> <a href="/dictionary" class="homeIcon">Home</a></div>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTags">
+                                <ul class="list_def">
+                                    
+                                            <li><a href='/topic/102/internet'>Internet</a></li>
+                                        
+                                            <li><a href='/topic/225/trends'>Technology Trends</a></li>
+                                        
+                                            <li><a href='/topic/204/social-media'>Social Media</a></li>
+                                        
+                                            <li><a href='/topic/4/security'>Security</a></li>
+                                        
+                                </ul>
+                            </div>
+                            <div class="col_2 responsive_halfs relatedTerms">
+                                <ul class="list_def">
+                                    
+                                            <li><a title="Platform For Privacy Preferences Project" href="/definition/4052/platform-for-privacy-preferences-project-p3p">Platform For Privacy Preferences Project</a></li>
+                                        
+                                            <li><a title="Cloud App Policy" href="/definition/31197/cloud-app-policy">Cloud App Policy</a></li>
+                                        
+                                            <li><a title="Security Framework" href="/definition/30605/security-framework-cloud-computing">Security Framework</a></li>
+                                        
+                                            <li><a title="True Ultimate Standards Everywhere" href="/definition/13426/true-ultimate-standards-everywhere-truste">True Ultimate Standards Everywhere</a></li>
+                                        
+                                            <li><a title="End-to-End Email Encryption" href="/definition/30545/end-to-end-email-encryption">End-to-End Email Encryption</a></li>
+                                        
+                                            <li><a title="Passive Surveillance" href="/definition/30372/passive-surveillance">Passive Surveillance</a></li>
+                                        
+                                            <li><a title="Internet Information Services Certificate" href="/definition/29765/internet-information-services-certificate-iis-certificate">Internet Information Services Certificate</a></li>
+                                        
+                                            <li><a title="Wildcard Secure Socket Layer Certificate (Wildcard SSL Certificate)" href="/definition/29745/wildcard-secure-socket-layer-certificate-wildcard-ssl-certificate">Wildcard Secure Socket Layer Certificate (Wildcard SSL Certificate)</a></li>
+                                        
+                                            <li><a title="Extended Validation Secure Socket Layer" href="/definition/29754/extended-validation-secure-socket-layer-evssl">Extended Validation Secure Socket Layer</a></li>
+                                        
+                                            <li><a title="Website Security Certificate" href="/definition/29743/website-security-certificate">Website Security Certificate</a></li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- End Item Container -->
+                    </li>
+                
+            <!-- End Item -->
+            <li class="megamenu_right"><a href="/it-articles" class="megamenu_drop">All Topics<span></span></a>
+                <!-- Begin Right Item -->
+                <div class="dropdown_fullwidth dropdown_right dropdown_container droplast_right allTopics">
+                    <!-- Begin Right Item Container -->
+                    <div class="col_12">
+                        <div class="col_6 firstCategory">
+                            <h4>Technology</h4>
+                            <div class="col_4 responsive_halfs">
+                                <ul class="list">
+                                    <li><a href="/topic/216/data-centers">Data Centers</a></li>
+                                    <li><a href="/topic/11/virtualization">Virtualization</a></li>
+                                    <li><a href="/topic/10/storage">Storage</a></li>
+                                </ul>
+                            </div>
+                            <div class="col_4 responsive_halfs">
+                                <ul class="list">
+                                    <li><a href="/topic/206/windows-8">Windows 8</a></li>
+                                    <li><a href="/topic/102/internet">Internet</a></li>
+                                    <li><a href="/topic/177/crm">CRM</a></li>
+                                </ul>
+                            </div>
+                            <div class="col_4 responsive_halfs">
+
+                                <ul class="list2">
+                                    <li><a href="/topic/48/green-it">Green IT</a></li>
+                                    <li><a href="/topic/220/hacking">Hacking</a></li>
+                                    <li><a href="/topic/226/personal-tec">Personal Tech</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col_6 secondCategory">
+                            <h4>IT Business</h4>
+                            <div class="col_4 responsive_halfs">
+
+                                <ul class="list3">
+                                    <li><a href="/topic/67/buzzwords-and-jargon">Buzzwords and Jargon</a></li>
+                                    <li><a href="/topic/23/it-management">IT Management</a></li>
+                                    <li><a href="/topic/2/development">Developers</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col_4 responsive_halfs">
+
+                                <ul class="list3">
+                                    <li><a href="/topic/5/networks">Network Admins</a></li>
+                                    <li><a href="/topic/8/databasess">Database Admins</a></li>
+                                    <li><a href="/topic/227/tech-support">Tech Support</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col_4 responsive_halfs">
+
+                                <ul class="list4">
+                                    <li><a href="/topic/244/infographics">Infographics</a></li>
+                                    <li><a href="/topic/258/follow-on-twitter">Who To Follow</a></li>
+                                    <li><a href="/topic/21/enterprise">Enterprise</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Right Item Container -->
+            </li>
+            <!-- End Right Item -->
+        </ul>
+        <!-- End Menu -->
+    </div>
+    <!-- End Menu Container -->
+</div>
+
+                    </div>
+                    
+                    <div id="leaderBoard" class="visible-lg visible-md">
+                        <!-- Techopedia_728x90_ROS -->
+                        <div id='techopedia_728x90_ros'>
+                            <script type='text/javascript'>
+                                googletag.cmd.push(function () { googletag.display('techopedia_728x90_ros'); });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="pageWrapper" class="row">
+                <div class="main">
+                    <!-- Subscription popup div -->
+                    <div id="subscriptionModal" class="modal fade subscriptionPopupWrapper" tabindex="-1" aria-hidden="true" data-replace="true" data-focus-on="input:first">
+                        <div class="modal-dialog">
+                            <div class="modal-content" id="subscriptionModalContent">
+                            </div>
+                        </div>
+                    </div>
+                    
+  <div class="rightmenu twoColWide">
+    <div class="colleft">
+      <div class="firstColumn">
+        <div class="col-padding">
+          <!-- Left Column section -->
+          
+    <div class="breadCrumbs">
+        <ul>
+            <li><a href="/">Home</a></li>
+        </ul>
+    </div>
+    <h1 class="dictionaryHeader" itemprop="name">Technology Dictionary</h1>
+    <hr />
+    <p itemprop="description">
+        Techopedia has one of the web's most comprehensive computer dictionaries. More than just a glossary, each term page goes into further detail
+    with insights, real world examples and great related resources.
+    </p>
+    <div id="termOfTheDayWrap">
+        <h2>Term of the Day</h2>
+        <div id="termOfTheDayContent">
+            <div class="termOfTheDayTitle col-md-5 col-xs-5">
+                <h3><a title="Read more about 'Windows, Icons, Menus And Pointing Device'" href='definition/4687/windows-icons-menus-and-pointing-device-wimp'>Windows, Icons, Menus And Pointing Device</a></h3>
+            </div>
+            <div class="termOfTheDayForm col-xs-7">
+                <input type="text" id="txtTodEmail" class="text form-control" placeholder="Sign up for the Term-of-the-Day" />
+                <input type="button" id="btnSubscribeTod" value="Go" class="btn btn-inverse jq-tod" />
+            </div>
+        </div>
+    </div>
+    <div id="dictSearch">
+        <h2>Search the Dictionary</h2>
+        <input name="ctl00$ctl00$MainContent$leftColumnPlaceHolder$txtTermSearch" type="text" maxlength="300" id="txtTermSearch" class="form-control" autocomplete="off" placeholder="Enter a term to search for..." />
+        <input type="submit" name="ctl00$ctl00$MainContent$leftColumnPlaceHolder$btnTermSearch" value="Search" id="MainContent_leftColumnPlaceHolder_btnTermSearch" class="btn btn-inverse" />
+    </div>
+    <div id="dictAlphaList">
+        <h2>Browse by Alphabetical Listing</h2>
+        <ol>
+            
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_0" title="Terms beginning with #" class="btn btn-default btn-md btnAlpha" href="/term/1">#</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_1" title="Terms beginning with A" class="btn btn-default btn-md btnAlpha" href="/term/a">A</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_2" title="Terms beginning with B" class="btn btn-default btn-md btnAlpha" href="/term/b">B</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_3" title="Terms beginning with C" class="btn btn-default btn-md btnAlpha" href="/term/c">C</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_4" title="Terms beginning with D" class="btn btn-default btn-md btnAlpha" href="/term/d">D</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_5" title="Terms beginning with E" class="btn btn-default btn-md btnAlpha" href="/term/e">E</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_6" title="Terms beginning with F" class="btn btn-default btn-md btnAlpha" href="/term/f">F</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_7" title="Terms beginning with G" class="btn btn-default btn-md btnAlpha" href="/term/g">G</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_8" title="Terms beginning with H" class="btn btn-default btn-md btnAlpha" href="/term/h">H</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_9" title="Terms beginning with I" class="btn btn-default btn-md btnAlpha" href="/term/i">I</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_10" title="Terms beginning with J" class="btn btn-default btn-md btnAlpha" href="/term/j">J</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_11" title="Terms beginning with K" class="btn btn-default btn-md btnAlpha" href="/term/k">K</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_12" title="Terms beginning with L" class="btn btn-default btn-md btnAlpha" href="/term/l">L</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_13" title="Terms beginning with M" class="btn btn-default btn-md btnAlpha" href="/term/m">M</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_14" title="Terms beginning with N" class="btn btn-default btn-md btnAlpha" href="/term/n">N</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_15" title="Terms beginning with O" class="btn btn-default btn-md btnAlpha" href="/term/o">O</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_16" title="Terms beginning with P" class="btn btn-default btn-md btnAlpha" href="/term/p">P</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_17" title="Terms beginning with Q" class="btn btn-default btn-md btnAlpha" href="/term/q">Q</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_18" title="Terms beginning with R" class="btn btn-default btn-md btnAlpha" href="/term/r">R</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_19" title="Terms beginning with S" class="btn btn-default btn-md btnAlpha" href="/term/s">S</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_20" title="Terms beginning with T" class="btn btn-default btn-md btnAlpha" href="/term/t">T</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_21" title="Terms beginning with U" class="btn btn-default btn-md btnAlpha" href="/term/u">U</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_22" title="Terms beginning with V" class="btn btn-default btn-md btnAlpha" href="/term/v">V</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_23" title="Terms beginning with W" class="btn btn-default btn-md btnAlpha" href="/term/w">W</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_24" title="Terms beginning with X" class="btn btn-default btn-md btnAlpha" href="/term/x">X</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_25" title="Terms beginning with Y" class="btn btn-default btn-md btnAlpha" href="/term/y">Y</a>
+                    </li>
+                
+                    <li>
+                        <a id="MainContent_leftColumnPlaceHolder_rptAlphaList_hlTerm_26" title="Terms beginning with Z" class="btn btn-default btn-md btnAlpha" href="/term/z">Z</a>
+                    </li>
+                
+        </ol>
+    </div>
+    <div id="topTerms">
+        <div class="newestTermsColumn" itemscope itemtype="http://schema.org/ItemList">
+            <h2 itemprop="name">Newest Terms</h2>
+            <meta itemprop="itemListOrder" content="Descending" />
+            <ul>
+                
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="New Media" href="/definition/416/new-media">
+                            New Media</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Offset Printing" href="/definition/486/offset-printing">
+                            Offset Printing</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Image Stabilization" href="/definition/2028/image-stabilization-is">
+                            Image Stabilization</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Number Lock" href="/definition/5540/number-lock-num-lock">
+                            Number Lock</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Non-Impact Printer" href="/definition/3614/non-impact-printer-nip">
+                            Non-Impact Printer</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Offline Browser" href="/definition/8658/offline-browser">
+                            Offline Browser</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Online Editing" href="/definition/2027/online-editing">
+                            Online Editing</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Phase-Locked Loop" href="/definition/5080/phase-locked-loop-pll">
+                            Phase-Locked Loop</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Cyber Library" href="/definition/31029/cyber-library">
+                            Cyber Library</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Business-to-Business Gateway" href="/definition/31041/business-to-business-gateway">
+                            Business-to-Business Gateway</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Activity Stream" href="/definition/31046/activity-stream">
+                            Activity Stream</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="A-Law" href="/definition/31077/a-law">
+                            A-Law</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Internet Streaming Media Alliance" href="/definition/31083/internet-streaming-media-alliance-isma">
+                            Internet Streaming Media Alliance</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Open-Source License" href="/definition/8687/open-source-license">
+                            Open-Source License</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Right Click" href="/definition/5556/right-click">
+                            Right Click</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Soft Copy" href="/definition/5558/soft-copy">
+                            Soft Copy</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Lesser General Public License" href="/definition/3502/lesser-general-public-license-lgpl">
+                            Lesser General Public License</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Rich Text Format" href="/definition/1897/rich-text-format-rtf">
+                            Rich Text Format</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Session Initiation Protocol Trunking" href="/definition/15962/session-initiation-protocol-trunking-sip-trunking">
+                            Session Initiation Protocol Trunking</a></li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="JK Flip-Flop" href="/definition/20212/jk-flip-flop">
+                            JK Flip-Flop</a></li>
+                    
+            </ul>
+        </div>
+        <div class="topTermsColumn" itemscope itemtype="http://schema.org/ItemList">
+            <h2 itemprop="name">Top Tags</h2>
+            <meta itemprop="itemListOrder" content="Descending" />
+            <ul>
+                
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Buzzwords and Jargon"
+                            href="/dictionary/tags/buzzwords-and-jargon">
+                            Buzzwords and Jargon</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Communication"
+                            href="/dictionary/tags/communication">
+                            Communication</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Data"
+                            href="/dictionary/tags/data">
+                            Data</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Data Management"
+                            href="/dictionary/tags/data-management">
+                            Data Management</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Databases"
+                            href="/dictionary/tags/databases">
+                            Databases</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Development"
+                            href="/dictionary/tags/development">
+                            Development</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Enterprise"
+                            href="/dictionary/tags/enterprise">
+                            Enterprise</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Hardware"
+                            href="/dictionary/tags/hardware">
+                            Hardware</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Internet"
+                            href="/dictionary/tags/internet">
+                            Internet</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="IT Business"
+                            href="/dictionary/tags/it-business">
+                            IT Business</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="IT Management"
+                            href="/dictionary/tags/it-management">
+                            IT Management</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Networking"
+                            href="/dictionary/tags/networks">
+                            Networking</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Networking Hardware"
+                            href="/dictionary/tags/networking-hardware">
+                            Networking Hardware</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Operating Systems"
+                            href="/dictionary/tags/operating-systems">
+                            Operating Systems</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Programming Languages"
+                            href="/dictionary/tags/programming-languages">
+                            Programming Languages</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Security"
+                            href="/dictionary/tags/security">
+                            Security</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Software"
+                            href="/dictionary/tags/software">
+                            Software</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Software Applications"
+                            href="/dictionary/tags/software-applications">
+                            Software Applications</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Storage"
+                            href="/dictionary/tags/storage">
+                            Storage</a> </li>
+                    
+                        <li class="mobileFriendlyLink"><a itemprop="itemListElement" title="Technology Trends"
+                            href="/dictionary/tags/trends">
+                            Technology Trends</a> </li>
+                    
+            </ul>
+            <a href="/dictionary/tags" title="View Tag Cloud" class="viewTagCloud">View Tag Cloud...&nbsp;</a>
+        </div>
+    </div>
+    
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        displaySocialSharingMenu("", "", "", "",
+            "Techopedia", "", "");
+    });
+</script>
+<div class="jq-SocialSharingBarWrapper">
+    <div class="jq-SocialShareButtons"></div>
+    <div class="jq-SocialShareButtonsHorizontal socialSharingBarHorizontal" style="display: none;"></div>
+</div>
+
+
+          <div class="clear"></div>
+        </div>
+      </div>
+      <div class="secondColumn visible-md visible-lg">
+        <div id="rightColumn">
+          <!-- Right Column section -->
+          
+    
+
+<div id="moduleConnectWithUs" class="module titled">
+<div class="moduleHeader">
+<h4>Connect with us</h4>
+<div class="clear"></div>
+</div>
+<div class="moduleBody">
+  <ul class="postList">
+    <li>
+        <div data-hsocial="facebook" data-tooltipoffsety="49" data-tooltipoffsetx="-124" >
+		    <a href='http://www.facebook.com/techopedia' target="_blank" class="jq-socialFollow-facebook">
+		      <span title="Follow Techopedia on Facebook" class="todFacebook50"></span>
+		    </a>
+	    </div> 
+    </li>
+    <li>
+        <div data-hsocial="linkedin" data-tooltipoffsety="49" data-tooltipoffsetx="-145" >
+			<a href='http://www.linkedin.com/today/techopedia.com' target="_blank" class="jq-socialFollow-linkedin">
+			  <span title="Follow Techopedia on LinkedIn" class="todLinkedin50"></span>
+			</a>
+		</div>        		
+    </li>
+    <li>
+        <div data-hsocial="twitter" data-tooltipoffsety="49" data-tooltipoffsetx="-145">
+            <a href='https://twitter.com/techopedia' target="_blank" class="jq-socialFollow-twitter">
+              <span title="Follow Techopedia on Twitter" class="todTwitter50"></span>
+            </a>
+        </div>    
+    </li>
+    <li>
+        <div data-hsocial="googlep" data-tooltipoffsety="49" data-tooltipoffsetx="-225" >
+			<a href='https://plus.google.com/+Techopedia' target="_blank" class="jq-socialFollow-googleplus">
+			  <span title="Add Techopedia on Google Plus" class="todGooglePlus50"></span>
+			</a>
+		</div>
+    </li>
+    <li>
+        <div data-hsocial="newsltr" data-tooltipoffsety="49" data-tooltipoffsetx="-230" >
+			<a href="/feed/content/rss" id="MainContent_rightColumnPlaceHolder_SocialButtonsHomePage_socbutSub">
+			  <span title="Free RSS and ATOM Newsfeed" class="todEmail50"></span>
+			</a>
+		</div>    
+    </li>
+  </ul>
+</div>
+</div>
+
+<!-- social sharing popup that comes when we hover the sharing buttons -->
+<div id="socialToolTip" data-hsocial="modal" >
+    
+	<div id="socialToolTipFb" data-hsocial="facebookModal">
+    	<div class="toolTipHead"></div>
+        <div class="toolTipBody">
+            <div class="fb-like-box" data-href='http://www.facebook.com/techopedia' data-width="320" data-height="257" data-show-faces="true" data-stream="false" data-header="false"></div>
+			<div class="buttonConnectWithFb">
+                <div class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1" data-size="large"></div>
+			</div>
+        </div>
+    </div>
+    
+    <div id="socialToolTipLinkedin" data-hsocial="linkedinModal">
+	<div class="toolTipHead"></div>
+	<div class="toolTipBody">
+		<div class="socialThumb"><img alt="Techopedia on Linkedin" src='http://cdn.techopedia.com/resource/images/favicon/favicon-64x64.png' height="64" width="64"  /></div>
+		<div class="socialTitle">Techopedia on Linkedin
+		<a class="socialLink btn btn-sm btn-primary" href='http://www.linkedin.com/today/techopedia.com' target="_blank">Follow us on LinkedIn</a></div>			
+	</div>
+    </div>
+    
+    <div id="socialToolTipTwitter" data-hsocial="twitterModal">
+    	<div class="toolTipHead"></div>
+        <div class="toolTipBody">
+        	<div class="twitterBoxImage"><img src='http://cdn.techopedia.com/resource/images/favicon/favicon-64x64.png' height="64" width="64"  alt='Tweat cdn.techopedia.com'/></div>
+            <div class="twitterText">Techopedia on Twitter</div><br /><br />
+            <a href='https://twitter.com/techopedia' target="_blank">'@Techopedia'</a>
+        	<iframe class="iframeNoBorderNoScroll" src='http://platform.twitter.com/widgets/follow_button.html?screen_name=techopedia&amp;size=large'>
+			</iframe>
+        </div>
+    </div>
+    
+    <div id="socialToolTipGoogle" data-hsocial="googlePlusModal">
+    	<div class="toolTipHead"></div>
+        <div class="toolTipBody">			
+            <div class="googlePlusBox">
+                <div class="g-page" data-href="https://plus.google.com/+Techopedia" data-layout="landscape" data-rel="publisher"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="socialToolTipNewsletter" data-hsocial="newsletterModal">
+    	<div class="toolTipHead"></div>
+        <div class="toolTipBody">
+	    	<div class="signUpText">Sign up for Techopedia's Free Newsletter!</div>            
+            <input type="text" id="txtSignUpEmail" class="form-control" maxlength="100" placeholder="Sign up with your email..." />
+            <input id="btnSignUpNewsletter" type="button" class="btn btn-primary" value="Sign Up" />
+        </div>
+    </div>
+</div>
+    <!-- 
+
+<div id="webinarModule" class="module">
+    <div class="itemContextWrapper">
+        <div class="itemHead">
+            <strong class="itemHeadingText">Techwise Webinar Series</strong>
+        </div>
+        <div class="itemBody">
+            <div class="itemContextRow clearfix">
+                <a href="/reg/big-data-ecosystem.aspx" class="pull-right">
+                    <img alt="Understanding the Big Data Landscape" class="itemImage img-responsive" src='http://cdn.techopedia.com/resource/images/sponsor/bigdata-ecosystem.jpg'></a>
+                <br />
+                <a class="itemLink" href="/reg/big-data-ecosystem.aspx">Understanding the Big Data Landscape</a>
+                <div>
+                    Big Data is everywhere, that's for sure. But the big question for today's savvy enterprise is: exactly where does Big Data fit into your organization?
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="webinarRegisterButton">
+                <a href="/reg/big-data-ecosystem.aspx" class="btn btn-primary">Register Now</a>
+            </div>
+        </div>
+    </div>
+</div> -->
+    <div class="module right-ad" itemscope itemtype="http://schema.org/WPAdBlock">
+        <!-- Techopedia_300x600_ROS -->
+        <div id='techopedia_300x600_ros' style='width: 300px; height: 600px;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () { googletag.display('techopedia_300x600_ros'); });
+            </script>
+        </div>
+    </div>
+    <div class="module right-ad" itemscope itemtype="http://schema.org/WPAdBlock">
+        <div id="MainContent_rightColumnPlaceHolder_ucModuleMarketplace_divModuleMarketPlace">
+    <div class="itemContextWrapper">
+        <div class="itemHead">
+            <strong class="itemHeadingText">Resources</strong>
+        </div>
+        <div class="itemBody">
+            
+                    <div class="itemContextRow clearfix">
+                        <a href="https://survey.researchresults.com/survey/selfserve/53b/g002/s0064127/Techopedia_Landing_Page.html" style='display: none'
+                            class="pull-right">
+                            <img alt="Help us out with a survey and be eligible to win a $500 Amazon gift card." class="itemImage" src=''></a>
+                        <br />
+                        <a class="itemLink" href="https://survey.researchresults.com/survey/selfserve/53b/g002/s0064127/Techopedia_Landing_Page.html">Help us out with a survey and be eligible to win a $500 Amazon gift card.:</a>
+                        <div>
+                            
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                
+                    <div class="itemContextRow clearfix">
+                        <a href="http://servedby.flashtalking.com/click/4/42339;1142969;369307;211;0/?ft_width=1&ft_height=1&url=6636517" style='display: inline-block'
+                            class="pull-right">
+                            <img alt="Free 30 Day Trial: SolarWindsÂ® Log & Event Manager" class="itemImage" src='http://cdn.techopedia.com/images/uploads/5bcf5f2754c140cf8e6e3fc8a6ea4037.jpg?width=80&height=40'></a>
+                        <br />
+                        <a class="itemLink" href="http://servedby.flashtalking.com/click/4/42339;1142969;369307;211;0/?ft_width=1&ft_height=1&url=6636517">Free 30 Day Trial: SolarWindsÂ® Log & Event Manager:</a>
+                        <div>
+                            Use this powerful SIEM to tackle compliance audits, perform root cause analysis and manage all logs  in one place.
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                
+                    <div class="itemContextRow clearfix">
+                        <a href="http://vmturbo.com/downloads/operations-manager-30-day-trial/?utm_source=techopedia&utm_medium=cpmdisplay&utm_campaign=featured-content" style='display: inline-block'
+                            class="pull-right">
+                            <img alt="Free 30 Day Trial â€“ VMTurbo Operations Manager" class="itemImage" src='http://cdn.techopedia.com/images/uploads/b9da8a11b9744e79ba305791a3e06a79.png?width=80&height=40'></a>
+                        <br />
+                        <a class="itemLink" href="http://vmturbo.com/downloads/operations-manager-30-day-trial/?utm_source=techopedia&utm_medium=cpmdisplay&utm_campaign=featured-content">Free 30 Day Trial â€“ VMTurbo Operations Manager:</a>
+                        <div>
+                            Handles the scale and complexity of todayâ€™s virtual and cloud environments for you, keeping your application owners happy while maximizing...
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                
+        </div>
+    </div>
+</div>
+
+    </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+                </div>
+                
+<div id="footer" itemscope itemtype="http://schema.org/WPFooter">
+    <p class="hidden-xs">
+        Technology Terms:
+    
+            <a id="footer_rptAlphabet_hlTerm_0" title="Dictionary Terms beginning with #" itemprop="url" href="/term/1">#</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_1" title="Dictionary Terms beginning with A" itemprop="url" href="/term/a">A</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_2" title="Dictionary Terms beginning with B" itemprop="url" href="/term/b">B</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_3" title="Dictionary Terms beginning with C" itemprop="url" href="/term/c">C</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_4" title="Dictionary Terms beginning with D" itemprop="url" href="/term/d">D</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_5" title="Dictionary Terms beginning with E" itemprop="url" href="/term/e">E</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_6" title="Dictionary Terms beginning with F" itemprop="url" href="/term/f">F</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_7" title="Dictionary Terms beginning with G" itemprop="url" href="/term/g">G</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_8" title="Dictionary Terms beginning with H" itemprop="url" href="/term/h">H</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_9" title="Dictionary Terms beginning with I" itemprop="url" href="/term/i">I</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_10" title="Dictionary Terms beginning with J" itemprop="url" href="/term/j">J</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_11" title="Dictionary Terms beginning with K" itemprop="url" href="/term/k">K</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_12" title="Dictionary Terms beginning with L" itemprop="url" href="/term/l">L</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_13" title="Dictionary Terms beginning with M" itemprop="url" href="/term/m">M</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_14" title="Dictionary Terms beginning with N" itemprop="url" href="/term/n">N</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_15" title="Dictionary Terms beginning with O" itemprop="url" href="/term/o">O</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_16" title="Dictionary Terms beginning with P" itemprop="url" href="/term/p">P</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_17" title="Dictionary Terms beginning with Q" itemprop="url" href="/term/q">Q</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_18" title="Dictionary Terms beginning with R" itemprop="url" href="/term/r">R</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_19" title="Dictionary Terms beginning with S" itemprop="url" href="/term/s">S</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_20" title="Dictionary Terms beginning with T" itemprop="url" href="/term/t">T</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_21" title="Dictionary Terms beginning with U" itemprop="url" href="/term/u">U</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_22" title="Dictionary Terms beginning with V" itemprop="url" href="/term/v">V</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_23" title="Dictionary Terms beginning with W" itemprop="url" href="/term/w">W</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_24" title="Dictionary Terms beginning with X" itemprop="url" href="/term/x">X</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_25" title="Dictionary Terms beginning with Y" itemprop="url" href="/term/y">Y</a>&nbsp;&nbsp;
+        
+            <a id="footer_rptAlphabet_hlTerm_26" title="Dictionary Terms beginning with Z" itemprop="url" href="/term/z">Z</a>&nbsp;&nbsp;
+        
+    </p>
+    <p>
+        <a href="/default.aspx" title="Home" itemprop="url">Home</a> | <a href="/about/contact.aspx?m=2" title="Advertising Info" itemprop="url">Advertising Info</a> | <a href="/about/contributors.aspx" title="Write for Us" itemprop="url">Write for Us</a> | <a href="/about/about.aspx" title="About Us" itemprop="url">About</a> | <a href="/about/contact.aspx" title="Contact Us" itemprop="url">Contact Us</a>
+    </p>
+    <div class="copyright">
+        <p>
+            Copyright &copy; 
+        <span itemprop="copyrightYear">2010 - 2015
+        </span>
+            <span itemprop="copyrightHolder">Janalta Interactive Inc.</span> - <a href="/about/termsofuse.aspx" title="Terms of Use" itemprop="url">Terms of Use</a> - <a href="/about/privacypolicy.aspx" title="Privacy Policy" itemprop="url">Privacy Policy</a>
+        </p>
+        <p class="hidden-xs">
+            Partner Sites :
+            |<a href="http://www.divestopedia.com" title="The preeminent site for private company owners and entrepreneurs looking to sell their business" itemprop="url">Divestopedia</a>
+            |<a href="http://www.testopedia.com" title="Free practice questions, guides, and any other test prep material for career-related Continuing Education requirements" itemprop="url">Testopedia</a>
+            |<a href="http://www.securitiesce.com" title="Comprehensive training with online practice exams, testbooks, classes and exam prep products for the FINRA and NASAA securities exams" itemprop="url">Securities Institute</a>
+            |<a href="http://www.safeopedia.com" title="A database of your safety needs" itemprop="url">Safeopedia</a>
+            |<a href="http://www.zideate.com" title="Simplifying, Connecting, and Inspiring Business Strategy and Marketing" itemprop="url">Zideate</a>
+            |<a href="http://www.justipedia.com" title="Simplifying, Connecting, and Understanding Legal Concepts" itemprop="url">Justipedia</a>
+            |<a href="http://www.corrosionpedia.com" title="Maximizing the Value of Your Assets for Corrosion Professionals" itemprop="url">Corrosionpedia</a>
+            |<a href="http://www.insuranceopedia.com" title="Simplifying, Connecting, and Understanding Insurance Concepts" itemprop="url">Insuranceopedia</a>
+            |<a href="http://www.winefrog.com" title="Your wine education resource on the web" itemprop="url">Wine Frog</a>
+        </p>
+    </div>
+</div>
+
+
+                <div id="fb-root"></div>
+            </div>
+            
+  
+
+
+        </div>
+    </form>
+    <script src="/resource/scripts/jquery.internads.min.js"></script>
+    <script src="/resource/scripts/sitejs?v=XIM557bR-awC0_pOguO1mzWjnudesBYC1AGkisr1VPE1"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //Display the welcome ad
+            if ('True')
+                displayWelcomeAd('False');
+
+            var isDisplay = 'False';
+            var delay = '0';
+            var subscriptionPopupUrl = 'http://www.techopedia.com/subscription/msubscribe.aspx?utm_nooverride=1';
+            var popupCookieName = 'TECHPS';
+
+            /*Display the subscription popup only when the interstitial ad is not prompted to the user
+            A timeout of 500ms ensures the check for $('#internads') element is done correctly */
+            setTimeout(function () {
+                if (!$('#internads').is(":visible"))
+                    displayNewletterSubscriptionPopup(isDisplay, delay, subscriptionPopupUrl, popupCookieName);
+            }, 500);
+        });
+    </script>
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct: "p-BcqTkaNrTxfE3"
+        });
+    </script>
+    <noscript>
+        <div style="display: none;">
+            <img src="http://pixel.quantserve.com/pixel/p-BcqTkaNrTxfE3.gif" style="border-style: none;" height="1" width="1" alt="Quantcast" />
+        </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-17186399-3', 'techopedia.com');
+        ga('require', 'displayfeatures');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
+        
+
+        //Add the google universal analytics Keyword rank tracker code
+        if (document.referrer.match(/google.[a-z.]{2,10}/gi) && document.referrer.match(/cd/gi)) {
+            var myString = document.referrer;
+            var r = myString.match(/cd=(.*?)&/);
+            var rank = parseInt(r[1]);
+            var kw = myString.match(/q=(.*?)&/);
+
+            if (kw[1].length > 0) {
+                var keyWord = decodeURI(kw[1]);
+            } else {
+                keyWord = "(not provided)";
+            }
+
+            var p = document.location.pathname;
+            ga('send', 'event', 'RankTracker', keyWord, p, rank, { 'nonInteraction': 1 });
+        }
+    </script>
+    <!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function (d, s, i, r) {
+            if (d.getElementById(i)) { return; }
+            var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
+            n.id = i; n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/569473.js';
+            e.parentNode.insertBefore(n, e);
+        })(document, "script", "hs-analytics", 300000);
+    </script>
+    <!-- End of Async HubSpot Analytics Code -->
+
+    <!-- Exit Pop-up start-->
+    <div class="modal fade" id="subscriptionContainer">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title text-center">
+                        <h2>Techopedia</h2>
+                    </div>
+                    <div class="modal-title  text-center">
+                        <h1>TERM OF THE DAY</h1>
+                    </div>
+                    <div class="modal-title">
+                        <h3 class="text-center">Learn daily! Get a new 'techie term' in your in-box every morning.</h3>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <form role="form">
+                        <div class="col-sm-1 chalkBoardImage">
+                            <img src="http://cdn.techopedia.com/resource/images/chalkboard-arrow.png" />
+                        </div>
+                        <div class="col-sm-10">
+                            <div class="form-group">
+                                <input type="text" name="firstname" id="firstname" class="form-control input-sm" placeholder="First Name">
+                            </div>
+
+                            <div class="form-group">
+                                <input type="text" name="lastname" id="lastname" class="form-control input-sm" placeholder="Last Name">
+                            </div>
+
+                            <div class="form-group">
+                                <input type="email" name="email" id="email" class="form-control input-sm" placeholder="Email Address">
+                            </div>
+                            <div>
+                                <span class="errorMsg">Email is mandatory</span>
+                            </div>
+                        </div>
+                        <div class="col-sm-11">
+                            <input type="button" value="Challenge Me!" class="btn btn-warning btn-block challengeMeBtn">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="subscriptionThanks">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title  text-center">
+                        <h1>Thank You</h1>
+                    </div>
+                    <div class="modal-title">
+                        <h3 class="text-center">Your first term will be in your mailbox tomorrow!</h3>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <form role="form">
+                        <input type="button" value="Close" class="btn btn-info btn-block">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            ouibounce(document.getElementById('subscriptionContainer'), {
+                delay: 200,
+                timer: 0,
+                cookieExpire: 3,
+                aggressive: false,
+                callback: function () {
+                    addPlaceHolderForIE($('#email'), "Email Address");
+                    addPlaceHolderForIE($('#firstname'), "First Name");
+                    addPlaceHolderForIE($('#lastname'), "Last Name");
+                    $('.errorMsg').hide();
+                    $('#subscriptionContainer').modal();
+                }
+            });
+            $(document).on('click', '#subscriptionContainer input[type="button"]', function (event) {
+                var email = $('#email').val();
+                if (email == '' || !validateEmailAddress(email)) {
+                    $('.errorMsg').show();
+                    return false;
+                }
+                $('.errorMsg').hide();
+                var accountInfo = {
+                    emailId: btoa($('#email').val().trim()),
+                    firstName: $('#firstname').val().trim(),
+                    lastName: $('#lastname').val().trim()
+                };
+                var result = getAjaxData('/service/service.svc/subscribenewsletters', "POST", JSON.stringify(accountInfo));
+                $('#subscriptionContainer').hide();
+                $('#subscriptionThanks').modal();
+                result.done(function () {
+                    ga('send', 'event', 'email', 'subscribe-tod', 'popup');
+                });
+            });
+            $(document).on('click', '#subscriptionThanks input[type="button"]', function () {
+                $('#subscriptionThanks').hide();
+                ga('send', 'event', 'email', 'subscribe-tod', 'signup');
+            });
+
+        });
+    </script>
+    <!--   Exit Pop-up end -->
+
+</body>
+</html>
+¾7Ú:t      UŸ¼UŸ¼;Yš$       %:http://www.techopedia.com/dictionary necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.5
+p3p: CP="CAO DSP COR NID ADMa OTPa OUR NOR", policyref="/w3c/p3p.xml"
+X-AspNet-Version: 4.0.30319
+Date: Fri, 10 Jul 2015 12:35:13 GMT
+Content-Length: 109395
+ charset UTF-8 uncompressed-len 0  «S

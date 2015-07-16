@@ -1,0 +1,156 @@
+Activating service name='com.canonical.Unity.Webapps.Service'
+Successfully activated service 'com.canonical.Unity.Webapps.Service'
+** Message: Investigating webapp: unity-webapps-common 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-doc 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-examples 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-service 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-amazoncloudreader 
+
+** Message: Investigating webapp: unity-webapps-bbcnews 
+
+** Message: Investigating webapp: unity-webapps-cnn-news 
+
+** Message: Investigating webapp: unity-webapps-deezer 
+
+** Message: Investigating webapp: unity-webapps-dev 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-deviantart 
+
+** Message: Investigating webapp: unity-webapps-facebookmessenger 
+
+** Message: Investigating webapp: unity-webapps-googlenews 
+
+** Message: Investigating webapp: unity-webapps-googleplusgames 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-grooveshark 
+
+** Message: Investigating webapp: unity-webapps-hulu-player 
+
+** Message: Investigating webapp: unity-webapps-lastfm-radio 
+
+** Message: Investigating webapp: unity-webapps-launchpad 
+
+** Message: Investigating webapp: unity-webapps-librefm 
+
+** Message: Investigating webapp: unity-webapps-linkedin 
+
+** Message: Investigating webapp: unity-webapps-mail-ru 
+
+** Message: Investigating webapp: unity-webapps-newsblur 
+
+** Message: Investigating webapp: unity-webapps-pandora 
+
+** Message: Investigating webapp: unity-webapps-pandora-com 
+
+** Message: Investigating webapp: unity-webapps-qml-autopilot 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qq-mail 
+
+** Message: Investigating webapp: unity-webapps-reddit 
+
+** Message: Investigating webapp: unity-webapps-tumblr 
+
+** Message: Investigating webapp: unity-webapps-twitter 
+
+** Message: Investigating webapp: unity-webapps-vkcom 
+
+** Message: Investigating webapp: unity-webapps-wordpress 
+
+** Message: Investigating webapp: unity-webapps-wordpress-com 
+
+** Message: Investigating webapp: unity-webapps-yahoonews 
+
+** Message: Investigating webapp: unity-webapps-yandex-music 
+
+** Message: Investigating webapp: unity-webapps-yandexmail 
+
+** Message: Investigating webapp: unity-webapps-yandexmusic 
+
+** Message: Investigating webapp: unity-webapps-yandexnews 
+
+** Message: Investigating webapp: unity-webapps-qml 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-examples 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-service 
+
+
+** (process:2329): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-gmail 
+
+** Message: Investigating webapp: unity-webapps-googlecalendar 
+
+** Message: Investigating webapp: unity-webapps-googledocs 
+
+** Message: Investigating webapp: unity-webapps-googleplus 
+
+** Message: Investigating webapp: unity-webapps-livemail 
+
+** Message: Investigating webapp: unity-webapps-yahoomail 
+
+** Message: Investigating webapp: unity-webapps-youtube 
+
+
+** (zeitgeist-fts:2219): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+
+** (zeitgeist-fts:2219): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+(process:2126): GVFS-GPhoto2-WARNING **: device (null) has no BUSNUM property, ignoring
+Device 0 (VID=04e8 and PID=6860) is a Samsung Galaxy models (MTP).
+PTP_ERROR_IO: failed to open session, trying again after resetting USB interface
+LIBMTP libusb: Attempt to reset device
+inep: usb_get_endpoint_status(): No such device
+outep: usb_get_endpoint_status(): No such device
+libusb_open() failed!: No such device
+LIBMTP PANIC: Could not init USB on second attempt
+
+** (gvfsd:1791): WARNING **: dbus_mount_reply: Error from org.gtk.vfs.Mountable.mount(): Unable to open MTP device '[usb:002,004]'
+
+(process:2126): GVFS-GPhoto2-WARNING **: device (null) has no BUSNUM property, ignoring
+Device 0 (VID=04e8 and PID=6860) is a Samsung Galaxy models (MTP).
+
+** (zeitgeist-fts:2219): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+PTP: reading event an error 0x02ff occurred
+(process:2126): GVFS-GPhoto2-WARNING **: device (null) has no BUSNUM property, ignoring
+Device 0 (VID=04e8 and PID=6860) is a Samsung Galaxy models (MTP).
+Error 1: Get Storage information failed.
+
+** (process:2147): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:2147): WARNING **:     A trash files/ directory should only have files linked or unlinked (via moves or deletes).  Some other operation has been detected on a file in the directory (eg: a file has been modified).  Likely, the data reported by the trash backend will now be inconsistent.
+
+** (process:2147): WARNING **:   dir: /home/shabir/.local/share/Trash/files, file: Test, type: 1
+
+
+PTP: reading event an error 0x02ff occurred
+** (zeitgeist-fts:2219): WARNING **: Unable to get info on application://nautilus-autostart.desktop

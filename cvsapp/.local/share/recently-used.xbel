@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shabir/Downloads/commons-cli-1.3.1-bin.tar.gz" added="2015-07-10T04:55:55Z" modified="2015-07-10T04:55:55Z" visited="2015-07-10T04:55:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-10T04:55:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/commons-cli-1.3.1-bin.tar.gz" added="2015-07-10T04:56:25Z" modified="2015-07-10T04:56:36Z" visited="2015-07-10T04:56:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2015-07-10T04:56:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo" added="2015-07-10T04:56:47Z" modified="2015-07-10T04:56:47Z" visited="2015-07-10T04:56:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2015-07-10T04:56:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/org/simplyphi/training/shabir/CmdBook.java" added="2015-07-10T09:23:08Z" modified="2015-07-10T11:33:34Z" visited="2015-07-10T09:23:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2015-07-10T09:23:08Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-10T11:33:34Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/CmdBook.java" added="2015-07-10T11:29:24Z" modified="2015-07-10T12:23:26Z" visited="2015-07-10T11:29:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-10T12:23:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/org/simplyphi/training/shabir/CmdBook2.java" added="2015-07-10T12:22:41Z" modified="2015-07-10T12:22:41Z" visited="2015-07-10T12:22:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-10T12:22:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/maven%202%20-%20What&apos;s%20with%20all%20the%20Java%20Build%20tools%3F%20-%20Stack%20Overflow.html" added="2015-07-10T12:30:46Z" modified="2015-07-10T12:30:47Z" visited="2015-07-10T12:30:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-10T12:30:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/List%20of%20build%20automation%20software%20-%20Wikipedia,%20the%20free%20encyclopedia.html" added="2015-07-10T12:30:55Z" modified="2015-07-10T12:30:56Z" visited="2015-07-10T12:30:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-10T12:30:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/Java%20Build%20Tools:%20Ant%20vs%20Maven%20vs%20Gradle%20%7C%20Technology.html" added="2015-07-10T12:31:01Z" modified="2015-07-10T12:31:04Z" visited="2015-07-10T12:31:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-10T12:31:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/What%20is%20a%20build%20tool%3F%20-%20Stack%20Overflow.html" added="2015-07-10T12:33:44Z" modified="2015-07-10T12:33:46Z" visited="2015-07-10T12:33:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-10T12:33:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/CmdBook.java" added="2015-07-13T05:28:53Z" modified="2015-07-15T06:37:10Z" visited="2015-07-13T05:28:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2015-07-15T05:51:36Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-15T06:37:10Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/apache-maven-3.3.3-src.tar.gz.part" added="2015-07-13T06:59:50Z" modified="2015-07-13T06:59:50Z" visited="2015-07-13T06:59:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2015-07-13T06:59:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/apache-maven-3.3.3-src.tar.gz" added="2015-07-13T07:00:06Z" modified="2015-07-13T07:00:06Z" visited="2015-07-13T07:00:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2015-07-13T07:00:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/bin/apache-maven-3.3.3-src.tar.gz" added="2015-07-13T07:00:42Z" modified="2015-07-13T07:00:42Z" visited="2015-07-13T07:00:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2015-07-13T07:00:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/apache-maven-3.3.3-bin.tar.gz" added="2015-07-13T07:12:28Z" modified="2015-07-13T07:12:28Z" visited="2015-07-13T07:12:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-13T07:12:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/bin/apache-maven-3.3.3-bin.tar.gz" added="2015-07-13T07:12:59Z" modified="2015-07-13T07:13:08Z" visited="2015-07-13T07:12:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2015-07-13T07:13:08Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/webapp/public/css/main.css" added="2015-07-13T07:49:52Z" modified="2015-07-13T08:41:52Z" visited="2015-07-13T07:49:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:41:52Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/pom.xml" added="2015-07-13T07:55:16Z" modified="2015-07-13T09:51:34Z" visited="2015-07-13T07:55:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T09:51:34Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/test/scala/specs.scala" added="2015-07-13T08:02:46Z" modified="2015-07-13T08:02:46Z" visited="2015-07-13T08:02:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-scala"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:02:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/test/com/specs.scala" added="2015-07-13T08:04:03Z" modified="2015-07-13T08:04:07Z" visited="2015-07-13T08:04:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-scala"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:04:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/test/com/simplyphi/shabir/specs.scala" added="2015-07-13T08:04:55Z" modified="2015-07-13T08:48:57Z" visited="2015-07-13T08:04:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-scala"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:48:57Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/com/main.scala" added="2015-07-13T08:05:50Z" modified="2015-07-13T08:05:55Z" visited="2015-07-13T08:05:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-scala"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:05:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/CmdBook.java" added="2015-07-13T08:07:35Z" modified="2015-07-13T08:08:34Z" visited="2015-07-13T08:07:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:08:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0/public/css/main.css" added="2015-07-13T08:17:37Z" modified="2015-07-13T08:17:37Z" visited="2015-07-13T08:17:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:17:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0/WEB-INF/classes/logback.xml" added="2015-07-13T08:18:10Z" modified="2015-07-13T08:18:10Z" visited="2015-07-13T08:18:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T08:18:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0/WEB-INF/classes/cx.properties" added="2015-07-13T08:18:18Z" modified="2015-07-13T08:18:18Z" visited="2015-07-13T08:18:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:18:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/com/simplyphi/shabir/main.scala" added="2015-07-13T08:18:51Z" modified="2015-07-13T08:43:32Z" visited="2015-07-13T08:18:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-scala"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:43:32Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/classes/cx.properties" added="2015-07-13T08:20:56Z" modified="2015-07-13T08:20:56Z" visited="2015-07-13T08:20:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:20:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0.war" added="2015-07-13T08:21:47Z" modified="2015-07-13T09:44:37Z" visited="2015-07-13T08:21:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2015-07-13T09:44:37Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0%20(2)/public/css/main.css" added="2015-07-13T08:25:24Z" modified="2015-07-13T08:25:24Z" visited="2015-07-13T08:25:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:25:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/resources/logback.xml" added="2015-07-13T08:37:55Z" modified="2015-07-13T08:44:01Z" visited="2015-07-13T08:37:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T08:44:01Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/maven-archiver/pom.properties" added="2015-07-13T08:39:11Z" modified="2015-07-13T08:39:11Z" visited="2015-07-13T08:39:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:39:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/webapp/templates/layout.ftl" added="2015-07-13T08:42:42Z" modified="2015-07-13T08:42:42Z" visited="2015-07-13T08:42:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T08:42:42Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/webapp/templates/index.ftl" added="2015-07-13T08:43:05Z" modified="2015-07-13T08:43:05Z" visited="2015-07-13T08:43:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T08:43:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/Book.java" added="2015-07-13T09:19:33Z" modified="2015-07-14T10:45:44Z" visited="2015-07-13T09:19:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-14T10:45:44Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/commons-cli-1.3.1-javadoc.jar" added="2015-07-13T09:19:40Z" modified="2015-07-13T11:27:20Z" visited="2015-07-13T09:19:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/lib/jvm/java-8-oracle/bin/java -jar %f&apos;" modified="2015-07-13T11:27:20Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/src/main/java/com/simplyphi/shabir/Book.java" added="2015-07-13T09:22:18Z" modified="2015-07-13T09:22:41Z" visited="2015-07-13T09:22:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T09:22:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0%20(2)/META-INF/MANIFEST.MF" added="2015-07-13T09:44:49Z" modified="2015-07-13T09:44:49Z" visited="2015-07-13T09:44:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T09:44:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0%20(2)/META-INF/maven/com.simplyphi.shabir/TestApp/pom.properties" added="2015-07-13T09:45:05Z" modified="2015-07-13T09:45:38Z" visited="2015-07-13T09:45:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T09:45:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestApp/target/TestApp-1.0%20(2)/META-INF/maven/com.simplyphi.shabir/TestApp/pom.xml" added="2015-07-13T09:45:13Z" modified="2015-07-13T09:45:13Z" visited="2015-07-13T09:45:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T09:45:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/TestMaven/pom.xml" added="2015-07-13T10:01:49Z" modified="2015-07-13T10:01:49Z" visited="2015-07-13T10:01:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T10:01:49Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/MavenTest/pom.xml" added="2015-07-13T10:04:20Z" modified="2015-07-13T10:49:13Z" visited="2015-07-13T10:04:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T10:42:20Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T10:49:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/MavenTest/src/main/resources/logback.xml" added="2015-07-13T10:38:37Z" modified="2015-07-13T10:38:37Z" visited="2015-07-13T10:38:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T10:38:37Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/MavenTest/assembly.xml" added="2015-07-13T10:41:23Z" modified="2015-07-13T10:54:38Z" visited="2015-07-13T10:41:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T10:41:23Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T10:54:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MyJavaApp/MavenTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" added="2015-07-13T10:48:10Z" modified="2015-07-13T10:48:10Z" visited="2015-07-13T10:48:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T10:48:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/JavaTest/TestMaven/src/main/com/simplyphi/shabir/Book.java" added="2015-07-13T11:06:51Z" modified="2015-07-13T11:14:11Z" visited="2015-07-13T11:06:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2015-07-13T11:06:51Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T11:14:11Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/JavaTest/TestMaven/pom.xml" added="2015-07-13T11:07:40Z" modified="2015-07-13T11:12:37Z" visited="2015-07-13T11:07:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T11:12:37Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T11:12:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/JavaTest/TestMaven/src/test/scala/specs.scala" added="2015-07-13T11:14:27Z" modified="2015-07-13T11:14:27Z" visited="2015-07-13T11:14:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-scala"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T11:14:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenTest/TestApp/src/main/com/simplyphi/shab/Book.java" added="2015-07-13T11:27:37Z" modified="2015-07-13T11:28:00Z" visited="2015-07-13T11:27:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T11:28:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenTest/TestApp/pom.xml" added="2015-07-13T11:28:22Z" modified="2015-07-13T11:29:00Z" visited="2015-07-13T11:28:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2015-07-13T11:28:22Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T11:29:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenExample/MyApp/src/main/java/com/shabir/App.java" added="2015-07-13T12:18:21Z" modified="2015-07-13T12:34:42Z" visited="2015-07-13T12:18:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T12:34:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenExample/MyApp/src/test/java/com/shabir/AppTest.java" added="2015-07-13T12:19:00Z" modified="2015-07-13T12:19:00Z" visited="2015-07-13T12:19:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T12:19:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenExample/MyApp/target/maven-archiver/pom.properties" added="2015-07-13T12:38:34Z" modified="2015-07-13T12:38:34Z" visited="2015-07-13T12:38:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T12:38:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenTest2/MyApp/src/main/java/com/shabir/CmdBook.java" added="2015-07-13T13:02:07Z" modified="2015-07-13T13:02:44Z" visited="2015-07-13T13:02:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T13:02:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenTest2/MyApp/src/main/java/com/shabir/App.java" added="2015-07-13T13:02:48Z" modified="2015-07-13T13:05:44Z" visited="2015-07-13T13:02:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T13:05:44Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/myrepo/README.md" added="2015-07-13T13:08:12Z" modified="2015-07-13T13:08:12Z" visited="2015-07-13T13:08:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-13T13:08:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenExample/MyApp/pom.xml" added="2015-07-13T13:38:44Z" modified="2015-07-14T06:28:15Z" visited="2015-07-13T13:38:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;webbrowser-app %u&apos;" modified="2015-07-14T04:35:27Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-14T06:28:15Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/MavenExample/MyApp/src/main/java/com/shabir/CmdBook.java" added="2015-07-13T13:41:51Z" modified="2015-07-14T06:23:46Z" visited="2015-07-13T13:41:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-14T06:23:46Z" count="10"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2015-07-14T04:34:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Test/csvTest/src/main/java/com/shabir/test.csv" added="2015-07-14T11:09:21Z" modified="2015-07-14T11:10:09Z" visited="2015-07-14T11:09:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --calc %U&apos;" modified="2015-07-14T11:09:21Z" count="4"/>
+          <bookmark:application name="LibreOffice 4.2" exec="&apos;soffice %u&apos;" modified="2015-07-14T11:09:38Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-14T11:10:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Test/csvTest/src/main/java/com/shabir/Student.java" added="2015-07-15T08:02:00Z" modified="2015-07-15T08:02:00Z" visited="2015-07-15T08:02:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-15T08:02:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Test/csvTest/src/main/java/com/shabir/Book.java" added="2015-07-15T10:40:41Z" modified="2015-07-15T10:40:41Z" visited="2015-07-15T10:40:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2015-07-15T10:40:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/codeconventions-150003.pdf" added="2015-07-15T11:09:57Z" modified="2015-07-15T11:09:57Z" visited="2015-07-15T11:09:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-15T11:09:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shabir/Downloads/Java%20Programming%20Style%20Guidelines.html" added="2015-07-15T11:11:18Z" modified="2015-07-15T11:11:19Z" visited="2015-07-15T11:11:19.631598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-07-15T11:11:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/shabir/.cache/upstart/at-spi2-registryd.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/hud.log" 2015-7-14-9:59:45
+"/home/shabir/.cache/upstart/gnome-keyring-gpg.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/dbus.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/unity-settings-daemon.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/indicator-bluetooth.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/indicator-printers.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/im-config.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/indicator-sound.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/gnome-keyring-ssh.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/unity-panel-service.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/indicator-application.log" 2015-7-13-11:0:54
+"/home/shabir/.cache/upstart/unity7.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/gnome-session-Unity.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/ssh-agent.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/window-stack-bridge.log" 2015-7-15-10:36:29
+"/home/shabir/.cache/upstart/update-notifier-release.log" 2015-7-15-10:36:29
