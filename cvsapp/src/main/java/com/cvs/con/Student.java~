@@ -48,7 +48,7 @@ public class Student implements Serializable {
      * Serialize those objects into file
      * Deserialize
      */
-    void createStudentObject() {
+   public void createStudentObject() {
 
         try {
             CSVReader reader = new CSVReader(new FileReader("data2.csv"));
