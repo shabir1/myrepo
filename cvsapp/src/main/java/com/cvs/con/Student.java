@@ -1,10 +1,6 @@
 /**
- *Shabir Ahmad Bhat
- *Date15/07/2015
- *
- *<COPYRIGHT>
- * The following source code is protected under all standard copyright laws.
- *</COPYRIGHT>
+ *@authour: Shabir Ahmad Bhat
+ *@Date: 15/07/2015
  */
 package com.cvs.con;
 
@@ -43,14 +39,14 @@ public class Student implements Serializable {
     ArrayList<Student> students=new ArrayList<Student>();
 
     /**
-     * method used to read objects from file
-     * then create 'n' students 
+     * method used to read objects from file then create 'n' students
      * Serialize those objects into file
      * Deserialize
      */
    public void createStudentObject() {
 
         try {
+
             CSVReader reader = new CSVReader(new FileReader("data2.csv"));
             String[] nextLine;
             while(( nextLine =reader.readNext())!=null) {
@@ -62,13 +58,16 @@ public class Student implements Serializable {
                 student.bookContent=nextLine[4];
                 students.add(student);
             }
-            reader.close();        //CSVReader closes here
+            reader.close();
         }
         catch(Exception e) {
              System.out.println(e);
         }
         try {
-            FileOutputStream fileOut = new FileOutputStream("abc.txt");// used to write objects in file
+
+            // used to write objects in file
+            FileOutputStream fileOut = new FileOutputStream("abc.txt");
+
             ObjectOutputStream objectOut = new ObjectOutputStream(fileOut);
             objectOut.writeObject(students);                //serialize object 
             objectOut.close();
@@ -78,11 +77,15 @@ public class Student implements Serializable {
             System.out.println(e);
         }
         try {
-            FileInputStream filein = new FileInputStream("abc.txt");// used to retrive object data from file
+
+            // used to retrive object data from file
+            FileInputStream filein = new FileInputStream("abc.txt");
+
             ObjectInputStream objectin = new ObjectInputStream(filein);
-            System.out.println(objectin.readObject().toString());                  //deserialize object
+
+            System.out.println(objectin.readObject().toString());     //deserialize object
             objectin.close();
-               filein.close();
+            filein.close();
         }
         catch(Exception e) {
             System.out.println(e);
